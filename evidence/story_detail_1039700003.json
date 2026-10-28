@@ -1,0 +1,3852 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1039700003",
+  "task_name": "待得团圆时",
+  "version": "1.2版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1039700003",
+  "fetched_at": "2026-10-27T11:00:46+08:00",
+  "source_sha256": "0e6bb0bfbd25e5d9338b1f43cea653e7c87e895de0e040b4c54200d51f6b4689",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 0,
+      "kind": "node",
+      "title": "与秧秧交谈",
+      "titleKey": "Quest_139700003_ChildQuestTip_139_2",
+      "titles": {
+        "zh-Hans": "与秧秧交谈"
+      },
+      "isHideUi": false,
+      "nodeId": 2,
+      "parentNodeId": 1,
+      "nodeType": "ChildQuest",
+      "sourceOrder": 4711,
+      "embeddedOrderPath": [],
+      "embeddedOrderSource": "",
+      "flows": [
+        {
+          "flowListName": "剧情_1.2同行插曲支线2",
+          "flowId": 4,
+          "stateId": 1
+        },
+        {
+          "flowListName": "剧情_1.2同行插曲支线2",
+          "flowId": 4,
+          "stateId": 2,
+          "orderRiskCount": 23,
+          "orderRiskTypes": [
+            "jump-talk"
+          ],
+          "orderRiskSamples": [
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_2",
+              "path": "/7/Params/TalkItems/3/Options/0/Actions/0",
+              "talkItemIndex": 3,
+              "optionIndex": 0,
+              "targetTalkId": 5,
+              "actionId": 5000091
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_2",
+              "path": "/7/Params/TalkItems/3/Options/1/Actions/0",
+              "talkItemIndex": 3,
+              "optionIndex": 1,
+              "targetTalkId": 6,
+              "actionId": 5000092
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_2",
+              "path": "/7/Params/TalkItems/4/Actions/0",
+              "talkItemIndex": 4,
+              "targetTalkId": 7,
+              "actionId": 5000093
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_2",
+              "path": "/7/Params/TalkItems/5/Actions/0",
+              "talkItemIndex": 5,
+              "targetTalkId": 7,
+              "actionId": 5000094
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_2",
+              "path": "/7/Params/TalkItems/10/Options/0/Actions/0",
+              "talkItemIndex": 10,
+              "optionIndex": 0,
+              "targetTalkId": 12,
+              "actionId": 5000095
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_2",
+              "path": "/7/Params/TalkItems/10/Options/1/Actions/0",
+              "talkItemIndex": 10,
+              "optionIndex": 1,
+              "targetTalkId": 15,
+              "actionId": 5000096
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_2",
+              "path": "/7/Params/TalkItems/10/Options/2/Actions/0",
+              "talkItemIndex": 10,
+              "optionIndex": 2,
+              "targetTalkId": 14,
+              "actionId": 5000097
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_2",
+              "path": "/7/Params/TalkItems/10/Options/3/Actions/0",
+              "talkItemIndex": 10,
+              "optionIndex": 3,
+              "targetTalkId": 13,
+              "actionId": 5000098
+            }
+          ],
+          "talkBranchGraphCount": 1,
+          "talkBranchGraphs": [
+            {
+              "stateKey": "剧情_1.2同行插曲支线2_4_2",
+              "showTalkActionIndex": 7,
+              "showTalkActionId": 5000066,
+              "talkItemCount": 52,
+              "talkItems": [
+                {
+                  "index": 0,
+                  "talkId": 1,
+                  "textKey": "Event_TXCQDEBF_34_1",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 2,
+                  "defaultNextTalkIndex": 1
+                },
+                {
+                  "index": 1,
+                  "talkId": 2,
+                  "textKey": "Event_TXCQDEBF_34_2",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 3,
+                  "defaultNextTalkIndex": 2
+                },
+                {
+                  "index": 2,
+                  "talkId": 3,
+                  "textKey": "Event_TXCQDEBF_34_3",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 4,
+                  "defaultNextTalkIndex": 3
+                },
+                {
+                  "index": 3,
+                  "talkId": 4,
+                  "textKey": "Event_TXCQDEBF_34_4",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 5,
+                  "defaultNextTalkIndex": 4,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_34_5",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000091,
+                        "targetTalkId": 5,
+                        "targetTalkIndex": 4
+                      }
+                    },
+                    {
+                      "index": 1,
+                      "textKey": "Event_TXCQDEBF_34_6",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000092,
+                        "targetTalkId": 6,
+                        "targetTalkIndex": 5
+                      }
+                    }
+                  ]
+                },
+                {
+                  "index": 4,
+                  "talkId": 5,
+                  "textKey": "Event_TXCQDEBF_34_7",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 6,
+                  "defaultNextTalkIndex": 5,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000093,
+                    "targetTalkId": 7,
+                    "targetTalkIndex": 6
+                  }
+                },
+                {
+                  "index": 5,
+                  "talkId": 6,
+                  "textKey": "Event_TXCQDEBF_34_8",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 7,
+                  "defaultNextTalkIndex": 6,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000094,
+                    "targetTalkId": 7,
+                    "targetTalkIndex": 6
+                  }
+                },
+                {
+                  "index": 6,
+                  "talkId": 7,
+                  "textKey": "Event_TXCQDEBF_34_9",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 8,
+                  "defaultNextTalkIndex": 7
+                },
+                {
+                  "index": 7,
+                  "talkId": 8,
+                  "textKey": "Event_TXCQDEBF_34_10",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 9,
+                  "defaultNextTalkIndex": 8,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_34_11"
+                    },
+                    {
+                      "index": 1,
+                      "textKey": "Event_TXCQDEBF_34_12"
+                    }
+                  ]
+                },
+                {
+                  "index": 8,
+                  "talkId": 9,
+                  "textKey": "Event_TXCQDEBF_34_13",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 10,
+                  "defaultNextTalkIndex": 9
+                },
+                {
+                  "index": 9,
+                  "talkId": 10,
+                  "textKey": "Event_TXCQDEBF_34_14",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 11,
+                  "defaultNextTalkIndex": 10
+                },
+                {
+                  "index": 10,
+                  "talkId": 11,
+                  "textKey": "Event_TXCQDEBF_34_15",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 12,
+                  "defaultNextTalkIndex": 11,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_34_16",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000095,
+                        "targetTalkId": 12,
+                        "targetTalkIndex": 11
+                      }
+                    },
+                    {
+                      "index": 1,
+                      "textKey": "Event_TXCQDEBF_34_17",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000096,
+                        "targetTalkId": 15,
+                        "targetTalkIndex": 14
+                      }
+                    },
+                    {
+                      "index": 2,
+                      "textKey": "Event_TXCQDEBF_34_18",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000097,
+                        "targetTalkId": 14,
+                        "targetTalkIndex": 13
+                      }
+                    },
+                    {
+                      "index": 3,
+                      "textKey": "Event_TXCQDEBF_34_19",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000098,
+                        "targetTalkId": 13,
+                        "targetTalkIndex": 12
+                      }
+                    }
+                  ]
+                },
+                {
+                  "index": 11,
+                  "talkId": 12,
+                  "textKey": "Event_TXCQDEBF_34_20",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 13,
+                  "defaultNextTalkIndex": 12,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000099,
+                    "targetTalkId": 16,
+                    "targetTalkIndex": 15
+                  }
+                },
+                {
+                  "index": 12,
+                  "talkId": 13,
+                  "textKey": "Event_TXCQDEBF_34_21",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 14,
+                  "defaultNextTalkIndex": 13,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000100,
+                    "targetTalkId": 16,
+                    "targetTalkIndex": 15
+                  }
+                },
+                {
+                  "index": 13,
+                  "talkId": 14,
+                  "textKey": "Event_TXCQDEBF_34_22",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 15,
+                  "defaultNextTalkIndex": 14,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000101,
+                    "targetTalkId": 16,
+                    "targetTalkIndex": 15
+                  }
+                },
+                {
+                  "index": 14,
+                  "talkId": 15,
+                  "textKey": "Event_TXCQDEBF_34_23",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 16,
+                  "defaultNextTalkIndex": 15,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000102,
+                    "targetTalkId": 16,
+                    "targetTalkIndex": 15
+                  }
+                },
+                {
+                  "index": 15,
+                  "talkId": 16,
+                  "textKey": "Event_TXCQDEBF_34_24",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 17,
+                  "defaultNextTalkIndex": 16
+                },
+                {
+                  "index": 16,
+                  "talkId": 17,
+                  "textKey": "Event_TXCQDEBF_34_25",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 18,
+                  "defaultNextTalkIndex": 17
+                },
+                {
+                  "index": 17,
+                  "talkId": 18,
+                  "textKey": "Event_TXCQDEBF_34_26",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 19,
+                  "defaultNextTalkIndex": 18
+                },
+                {
+                  "index": 18,
+                  "talkId": 19,
+                  "textKey": "Event_TXCQDEBF_34_27",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 20,
+                  "defaultNextTalkIndex": 19
+                },
+                {
+                  "index": 19,
+                  "talkId": 20,
+                  "textKey": "Event_TXCQDEBF_34_28",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 21,
+                  "defaultNextTalkIndex": 20
+                },
+                {
+                  "index": 20,
+                  "talkId": 21,
+                  "textKey": "Event_TXCQDEBF_34_29",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 22,
+                  "defaultNextTalkIndex": 21,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_34_30"
+                    }
+                  ]
+                },
+                {
+                  "index": 21,
+                  "talkId": 22,
+                  "textKey": "Event_TXCQDEBF_34_31",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 23,
+                  "defaultNextTalkIndex": 22
+                },
+                {
+                  "index": 22,
+                  "talkId": 23,
+                  "textKey": "Event_TXCQDEBF_34_32",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 24,
+                  "defaultNextTalkIndex": 23
+                },
+                {
+                  "index": 23,
+                  "talkId": 24,
+                  "textKey": "Event_TXCQDEBF_34_33",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 25,
+                  "defaultNextTalkIndex": 24
+                },
+                {
+                  "index": 24,
+                  "talkId": 25,
+                  "textKey": "Event_TXCQDEBF_34_34",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 26,
+                  "defaultNextTalkIndex": 25,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_34_35",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000103,
+                        "targetTalkId": 26,
+                        "targetTalkIndex": 25
+                      }
+                    },
+                    {
+                      "index": 1,
+                      "textKey": "Event_TXCQDEBF_34_36",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000104,
+                        "targetTalkId": 28,
+                        "targetTalkIndex": 27
+                      }
+                    }
+                  ]
+                },
+                {
+                  "index": 25,
+                  "talkId": 26,
+                  "textKey": "Event_TXCQDEBF_34_37",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 27,
+                  "defaultNextTalkIndex": 26
+                },
+                {
+                  "index": 26,
+                  "talkId": 27,
+                  "textKey": "Event_TXCQDEBF_34_38",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 28,
+                  "defaultNextTalkIndex": 27,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000105,
+                    "targetTalkId": 30,
+                    "targetTalkIndex": 29
+                  }
+                },
+                {
+                  "index": 27,
+                  "talkId": 28,
+                  "textKey": "Event_TXCQDEBF_34_39",
+                  "speakerId": 354,
+                  "defaultNextTalkId": 29,
+                  "defaultNextTalkIndex": 28
+                },
+                {
+                  "index": 28,
+                  "talkId": 29,
+                  "textKey": "Event_TXCQDEBF_34_40",
+                  "speakerId": 354,
+                  "defaultNextTalkId": 30,
+                  "defaultNextTalkIndex": 29,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000106,
+                    "targetTalkId": 30,
+                    "targetTalkIndex": 29
+                  }
+                },
+                {
+                  "index": 29,
+                  "talkId": 30,
+                  "textKey": "Event_TXCQDEBF_34_41",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 31,
+                  "defaultNextTalkIndex": 30
+                },
+                {
+                  "index": 30,
+                  "talkId": 31,
+                  "textKey": "Event_TXCQDEBF_34_42",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 32,
+                  "defaultNextTalkIndex": 31
+                },
+                {
+                  "index": 31,
+                  "talkId": 32,
+                  "textKey": "Event_TXCQDEBF_34_43",
+                  "speakerId": 83,
+                  "defaultNextTalkId": 33,
+                  "defaultNextTalkIndex": 32
+                },
+                {
+                  "index": 32,
+                  "talkId": 33,
+                  "textKey": "Event_TXCQDEBF_34_44",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 34,
+                  "defaultNextTalkIndex": 33
+                },
+                {
+                  "index": 33,
+                  "talkId": 34,
+                  "textKey": "Event_TXCQDEBF_34_45",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 35,
+                  "defaultNextTalkIndex": 34,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_34_46"
+                    }
+                  ]
+                },
+                {
+                  "index": 34,
+                  "talkId": 35,
+                  "textKey": "Event_TXCQDEBF_34_47",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 36,
+                  "defaultNextTalkIndex": 35
+                },
+                {
+                  "index": 35,
+                  "talkId": 36,
+                  "textKey": "Event_TXCQDEBF_34_48",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 37,
+                  "defaultNextTalkIndex": 36,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_34_49"
+                    }
+                  ]
+                },
+                {
+                  "index": 36,
+                  "talkId": 37,
+                  "textKey": "Event_TXCQDEBF_34_50",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 38,
+                  "defaultNextTalkIndex": 37
+                },
+                {
+                  "index": 37,
+                  "talkId": 38,
+                  "textKey": "Event_TXCQDEBF_34_51",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 39,
+                  "defaultNextTalkIndex": 38
+                },
+                {
+                  "index": 38,
+                  "talkId": 39,
+                  "textKey": "Event_TXCQDEBF_34_52",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 40,
+                  "defaultNextTalkIndex": 39
+                },
+                {
+                  "index": 39,
+                  "talkId": 40,
+                  "textKey": "Event_TXCQDEBF_34_53",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 41,
+                  "defaultNextTalkIndex": 40
+                },
+                {
+                  "index": 40,
+                  "talkId": 41,
+                  "textKey": "Event_TXCQDEBF_34_54",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 42,
+                  "defaultNextTalkIndex": 41,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_34_55",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000107,
+                        "targetTalkId": 42,
+                        "targetTalkIndex": 41
+                      }
+                    },
+                    {
+                      "index": 1,
+                      "textKey": "Event_TXCQDEBF_34_56",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000108,
+                        "targetTalkId": 44,
+                        "targetTalkIndex": 43
+                      }
+                    }
+                  ]
+                },
+                {
+                  "index": 41,
+                  "talkId": 42,
+                  "textKey": "Event_TXCQDEBF_34_57",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 43,
+                  "defaultNextTalkIndex": 42
+                },
+                {
+                  "index": 42,
+                  "talkId": 43,
+                  "textKey": "Event_TXCQDEBF_34_58",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 44,
+                  "defaultNextTalkIndex": 43,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000109,
+                    "targetTalkId": 44,
+                    "targetTalkIndex": 43
+                  }
+                },
+                {
+                  "index": 43,
+                  "talkId": 44,
+                  "textKey": "Event_TXCQDEBF_34_59",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 45,
+                  "defaultNextTalkIndex": 44
+                },
+                {
+                  "index": 44,
+                  "talkId": 45,
+                  "textKey": "Event_TXCQDEBF_34_60",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 46,
+                  "defaultNextTalkIndex": 45
+                },
+                {
+                  "index": 45,
+                  "talkId": 46,
+                  "textKey": "Event_TXCQDEBF_34_61",
+                  "speakerId": null,
+                  "defaultNextTalkId": 47,
+                  "defaultNextTalkIndex": 46
+                },
+                {
+                  "index": 46,
+                  "talkId": 47,
+                  "textKey": "Event_TXCQDEBF_34_62",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 48,
+                  "defaultNextTalkIndex": 47,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_34_63",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000110,
+                        "targetTalkId": 48,
+                        "targetTalkIndex": 47
+                      }
+                    },
+                    {
+                      "index": 1,
+                      "textKey": "Event_TXCQDEBF_34_64",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000111,
+                        "targetTalkId": 49,
+                        "targetTalkIndex": 48
+                      }
+                    }
+                  ]
+                },
+                {
+                  "index": 47,
+                  "talkId": 48,
+                  "textKey": "Event_TXCQDEBF_34_65",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 49,
+                  "defaultNextTalkIndex": 48,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000112,
+                    "targetTalkId": 50,
+                    "targetTalkIndex": 49
+                  }
+                },
+                {
+                  "index": 48,
+                  "talkId": 49,
+                  "textKey": "Event_TXCQDEBF_34_66",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 50,
+                  "defaultNextTalkIndex": 49,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000113,
+                    "targetTalkId": 50,
+                    "targetTalkIndex": 49
+                  }
+                },
+                {
+                  "index": 49,
+                  "talkId": 50,
+                  "textKey": "Event_TXCQDEBF_34_67",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 51,
+                  "defaultNextTalkIndex": 50
+                },
+                {
+                  "index": 50,
+                  "talkId": 51,
+                  "textKey": "Event_TXCQDEBF_34_68",
+                  "speakerId": 209,
+                  "defaultNextTalkId": 52,
+                  "defaultNextTalkIndex": 51
+                },
+                {
+                  "index": 51,
+                  "talkId": 52,
+                  "textKey": "Event_TXCQDEBF_34_69",
+                  "speakerId": 209,
+                  "defaultNextTalkId": null,
+                  "defaultNextTalkIndex": null
+                }
+              ],
+              "overrideEdges": [
+                {
+                  "fromTalkId": 4,
+                  "fromTalkIndex": 3,
+                  "via": "option",
+                  "optionIndex": 0,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000091,
+                  "targetTalkId": 5,
+                  "targetTalkIndex": 4
+                },
+                {
+                  "fromTalkId": 4,
+                  "fromTalkIndex": 3,
+                  "via": "option",
+                  "optionIndex": 1,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000092,
+                  "targetTalkId": 6,
+                  "targetTalkIndex": 5
+                },
+                {
+                  "fromTalkId": 5,
+                  "fromTalkIndex": 4,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000093,
+                  "targetTalkId": 7,
+                  "targetTalkIndex": 6
+                },
+                {
+                  "fromTalkId": 6,
+                  "fromTalkIndex": 5,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000094,
+                  "targetTalkId": 7,
+                  "targetTalkIndex": 6
+                },
+                {
+                  "fromTalkId": 11,
+                  "fromTalkIndex": 10,
+                  "via": "option",
+                  "optionIndex": 0,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000095,
+                  "targetTalkId": 12,
+                  "targetTalkIndex": 11
+                },
+                {
+                  "fromTalkId": 11,
+                  "fromTalkIndex": 10,
+                  "via": "option",
+                  "optionIndex": 1,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000096,
+                  "targetTalkId": 15,
+                  "targetTalkIndex": 14
+                },
+                {
+                  "fromTalkId": 11,
+                  "fromTalkIndex": 10,
+                  "via": "option",
+                  "optionIndex": 2,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000097,
+                  "targetTalkId": 14,
+                  "targetTalkIndex": 13
+                },
+                {
+                  "fromTalkId": 11,
+                  "fromTalkIndex": 10,
+                  "via": "option",
+                  "optionIndex": 3,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000098,
+                  "targetTalkId": 13,
+                  "targetTalkIndex": 12
+                },
+                {
+                  "fromTalkId": 12,
+                  "fromTalkIndex": 11,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000099,
+                  "targetTalkId": 16,
+                  "targetTalkIndex": 15
+                },
+                {
+                  "fromTalkId": 13,
+                  "fromTalkIndex": 12,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000100,
+                  "targetTalkId": 16,
+                  "targetTalkIndex": 15
+                },
+                {
+                  "fromTalkId": 14,
+                  "fromTalkIndex": 13,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000101,
+                  "targetTalkId": 16,
+                  "targetTalkIndex": 15
+                },
+                {
+                  "fromTalkId": 15,
+                  "fromTalkIndex": 14,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000102,
+                  "targetTalkId": 16,
+                  "targetTalkIndex": 15
+                },
+                {
+                  "fromTalkId": 25,
+                  "fromTalkIndex": 24,
+                  "via": "option",
+                  "optionIndex": 0,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000103,
+                  "targetTalkId": 26,
+                  "targetTalkIndex": 25
+                },
+                {
+                  "fromTalkId": 25,
+                  "fromTalkIndex": 24,
+                  "via": "option",
+                  "optionIndex": 1,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000104,
+                  "targetTalkId": 28,
+                  "targetTalkIndex": 27
+                },
+                {
+                  "fromTalkId": 27,
+                  "fromTalkIndex": 26,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000105,
+                  "targetTalkId": 30,
+                  "targetTalkIndex": 29
+                },
+                {
+                  "fromTalkId": 29,
+                  "fromTalkIndex": 28,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000106,
+                  "targetTalkId": 30,
+                  "targetTalkIndex": 29
+                },
+                {
+                  "fromTalkId": 41,
+                  "fromTalkIndex": 40,
+                  "via": "option",
+                  "optionIndex": 0,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000107,
+                  "targetTalkId": 42,
+                  "targetTalkIndex": 41
+                },
+                {
+                  "fromTalkId": 41,
+                  "fromTalkIndex": 40,
+                  "via": "option",
+                  "optionIndex": 1,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000108,
+                  "targetTalkId": 44,
+                  "targetTalkIndex": 43
+                },
+                {
+                  "fromTalkId": 43,
+                  "fromTalkIndex": 42,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000109,
+                  "targetTalkId": 44,
+                  "targetTalkIndex": 43
+                },
+                {
+                  "fromTalkId": 47,
+                  "fromTalkIndex": 46,
+                  "via": "option",
+                  "optionIndex": 0,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000110,
+                  "targetTalkId": 48,
+                  "targetTalkIndex": 47
+                },
+                {
+                  "fromTalkId": 47,
+                  "fromTalkIndex": 46,
+                  "via": "option",
+                  "optionIndex": 1,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000111,
+                  "targetTalkId": 49,
+                  "targetTalkIndex": 48
+                },
+                {
+                  "fromTalkId": 48,
+                  "fromTalkIndex": 47,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000112,
+                  "targetTalkId": 50,
+                  "targetTalkIndex": 49
+                },
+                {
+                  "fromTalkId": 49,
+                  "fromTalkIndex": 48,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000113,
+                  "targetTalkId": 50,
+                  "targetTalkIndex": 49
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "flowListName": "剧情_1.2同行插曲支线2",
+          "flowId": 4,
+          "stateId": 3
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_1",
+          "text": "这里的灯谜还挺有趣的。你也要来试试吗，漂泊者？",
+          "texts": {
+            "zh-Hans": "这里的灯谜还挺有趣的。你也要来试试吗，漂泊者？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 1,
+          "talkIndex": 0
+        },
+        {
+          "id": 2,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_2",
+          "text": "怎么样，漂泊者？有没有兴趣挑战一下？",
+          "texts": {
+            "zh-Hans": "怎么样，漂泊者？有没有兴趣挑战一下？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 2,
+          "talkIndex": 1
+        },
+        {
+          "id": 3,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_3",
+          "text": "你看，我这有全新出炉的高难度谜面，答对三个就算你中了今天的头彩，会有典藏级特别奖励哦。",
+          "texts": {
+            "zh-Hans": "你看，我这有全新出炉的高难度谜面，答对三个就算你中了今天的头彩，会有典藏级特别奖励哦。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 3,
+          "talkIndex": 2
+        },
+        {
+          "id": 4,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_4",
+          "text": "高难度……？",
+          "texts": {
+            "zh-Hans": "高难度……？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_5",
+              "text": "秧秧要不要也来一起？",
+              "texts": {
+                "zh-Hans": "秧秧要不要也来一起？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 4,
+              "talkIndex": 3,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000091,
+                "targetTalkId": 5
+              },
+              "targetTalkId": 5
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_6",
+              "text": "这么难，那我要申请双人合作！",
+              "texts": {
+                "zh-Hans": "这么难，那我要申请双人合作！"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 4,
+              "talkIndex": 3,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000092,
+                "targetTalkId": 6
+              },
+              "targetTalkId": 6
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 4,
+          "talkIndex": 3
+        },
+        {
+          "id": 5,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_7",
+          "text": "一起答？这样可以吗？",
+          "texts": {
+            "zh-Hans": "一起答？这样可以吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000093,
+            "targetTalkId": 7
+          },
+          "targetTalkId": 7
+        },
+        {
+          "id": 6,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_8",
+          "text": "嗯……如果可以的话，我和漂泊者一起？",
+          "texts": {
+            "zh-Hans": "嗯……如果可以的话，我和漂泊者一起？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000094,
+            "targetTalkId": 7
+          },
+          "targetTalkId": 7
+        },
+        {
+          "id": 7,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_9",
+          "text": "可以可以，过节嘛，开心最重要！而且秧秧刚才一直看得很投入，应该也挺喜欢这类活动吧？",
+          "texts": {
+            "zh-Hans": "可以可以，过节嘛，开心最重要！而且秧秧刚才一直看得很投入，应该也挺喜欢这类活动吧？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 7,
+          "talkIndex": 6
+        },
+        {
+          "id": 8,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_10",
+          "text": "我这高难度谜面，只让漂泊者一个人答也有点欺负人了不是？",
+          "texts": {
+            "zh-Hans": "我这高难度谜面，只让漂泊者一个人答也有点欺负人了不是？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_11",
+              "text": "这么有自信？",
+              "texts": {
+                "zh-Hans": "这么有自信？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 8,
+              "talkIndex": 7,
+              "optionIndex": 0
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_12",
+              "text": "放马过来吧！",
+              "texts": {
+                "zh-Hans": "放马过来吧！"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 8,
+              "talkIndex": 7,
+              "optionIndex": 1
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 8,
+          "talkIndex": 7
+        },
+        {
+          "id": 9,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_13",
+          "text": "好！那先来点开胃菜，第一题，有一圆月轮，肚皮白又白。偶尔当空跃，自在水中游。",
+          "texts": {
+            "zh-Hans": "好！那先来点开胃菜，第一题，有一圆月轮，肚皮白又白。偶尔当空跃，自在水中游。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 9,
+          "talkIndex": 8
+        },
+        {
+          "id": 10,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_14",
+          "text": "打一种——残象！",
+          "texts": {
+            "zh-Hans": "打一种——残象！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 10,
+          "talkIndex": 9
+        },
+        {
+          "id": 11,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_15",
+          "text": "圆滚滚的外形，白白的肚皮，能在水中游……难道是……",
+          "texts": {
+            "zh-Hans": "圆滚滚的外形，白白的肚皮，能在水中游……难道是……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_16",
+              "text": "……寒霜陆龟？",
+              "texts": {
+                "zh-Hans": "……寒霜陆龟？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 11,
+              "talkIndex": 10,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000095,
+                "targetTalkId": 12
+              },
+              "targetTalkId": 12
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_17",
+              "text": "……咕咕河豚？",
+              "texts": {
+                "zh-Hans": "……咕咕河豚？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 11,
+              "talkIndex": 10,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000096,
+                "targetTalkId": 15
+              },
+              "targetTalkId": 15
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_18",
+              "text": "……呜咔咔？",
+              "texts": {
+                "zh-Hans": "……呜咔咔？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 11,
+              "talkIndex": 10,
+              "optionIndex": 2,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000097,
+                "targetTalkId": 14
+              },
+              "targetTalkId": 14
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_19",
+              "text": "……叮咚咚？",
+              "texts": {
+                "zh-Hans": "……叮咚咚？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 11,
+              "talkIndex": 10,
+              "optionIndex": 3,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000098,
+                "targetTalkId": 13
+              },
+              "targetTalkId": 13
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 11,
+          "talkIndex": 10
+        },
+        {
+          "id": 12,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_20",
+          "text": "不对，再想想？",
+          "texts": {
+            "zh-Hans": "不对，再想想？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000099,
+            "targetTalkId": 16
+          },
+          "targetTalkId": 16
+        },
+        {
+          "id": 13,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_21",
+          "text": "不对，再想想？",
+          "texts": {
+            "zh-Hans": "不对，再想想？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000100,
+            "targetTalkId": 16
+          },
+          "targetTalkId": 16
+        },
+        {
+          "id": 14,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_22",
+          "text": "不对，再想想？",
+          "texts": {
+            "zh-Hans": "不对，再想想？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000101,
+            "targetTalkId": 16
+          },
+          "targetTalkId": 16
+        },
+        {
+          "id": 15,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_23",
+          "text": "没错，对啦，就是咕咕河豚！",
+          "texts": {
+            "zh-Hans": "没错，对啦，就是咕咕河豚！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000102,
+            "targetTalkId": 16
+          },
+          "targetTalkId": 16
+        },
+        {
+          "id": 16,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_24",
+          "text": "你看，咕咕河豚跳起来的时候，远远看上去是不是很像挂在天上的圆月？",
+          "texts": {
+            "zh-Hans": "你看，咕咕河豚跳起来的时候，远远看上去是不是很像挂在天上的圆月？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 16,
+          "talkIndex": 15
+        },
+        {
+          "id": 17,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_25",
+          "text": "记得很小的时候……每逢追月节，家人会把团圆饼做成各种模样，大多都是圆滚滚的动物……",
+          "texts": {
+            "zh-Hans": "记得很小的时候……每逢追月节，家人会把团圆饼做成各种模样，大多都是圆滚滚的动物……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 17,
+          "talkIndex": 16
+        },
+        {
+          "id": 18,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_26",
+          "text": "那时候大家都想要咕咕河豚形状的团圆饼。",
+          "texts": {
+            "zh-Hans": "那时候大家都想要咕咕河豚形状的团圆饼。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 18,
+          "talkIndex": 17
+        },
+        {
+          "id": 19,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_27",
+          "text": "哈哈，看来小孩子都很喜欢这些东西啊，那么……下一题！我要开始提高难度了！",
+          "texts": {
+            "zh-Hans": "哈哈，看来小孩子都很喜欢这些东西啊，那么……下一题！我要开始提高难度了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 19,
+          "talkIndex": 18
+        },
+        {
+          "id": 20,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_28",
+          "text": "——今有鸡兔同笼，上有十四头，下有三十八足……",
+          "texts": {
+            "zh-Hans": "——今有鸡兔同笼，上有十四头，下有三十八足……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 20,
+          "talkIndex": 19
+        },
+        {
+          "id": 21,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_29",
+          "text": "打……鸡和兔的数量！五分钟倒计时开始！",
+          "texts": {
+            "zh-Hans": "打……鸡和兔的数量！五分钟倒计时开始！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_30",
+              "text": "……这是灯谜？",
+              "texts": {
+                "zh-Hans": "……这是灯谜？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 21,
+              "talkIndex": 20,
+              "optionIndex": 0
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 21,
+          "talkIndex": 20
+        },
+        {
+          "id": 22,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_31",
+          "text": "嗯……比起灯谜，更像是书院里常见的算术题……",
+          "texts": {
+            "zh-Hans": "嗯……比起灯谜，更像是书院里常见的算术题……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 22,
+          "talkIndex": 21
+        },
+        {
+          "id": 23,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_32",
+          "text": "咳……有谜面，有谜底，而且挂在花灯下面，这怎么就不能是灯谜了呢？",
+          "texts": {
+            "zh-Hans": "咳……有谜面，有谜底，而且挂在花灯下面，这怎么就不能是灯谜了呢？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 23,
+          "talkIndex": 22
+        },
+        {
+          "id": 24,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_33",
+          "text": "……这么说似乎也没错，但总觉得怪怪的……",
+          "texts": {
+            "zh-Hans": "……这么说似乎也没错，但总觉得怪怪的……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/23/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 24,
+          "talkIndex": 23
+        },
+        {
+          "id": 25,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_34",
+          "text": "记得算书中好像提到过这道题的解法……比如“半足法”……",
+          "texts": {
+            "zh-Hans": "记得算书中好像提到过这道题的解法……比如“半足法”……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_35",
+              "text": "就交给秧秧了！",
+              "texts": {
+                "zh-Hans": "就交给秧秧了！"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 25,
+              "talkIndex": 24,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000103,
+                "targetTalkId": 26
+              },
+              "targetTalkId": 26
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_36",
+              "text": "（说出答案）",
+              "texts": {
+                "zh-Hans": "（说出答案）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 25,
+              "talkIndex": 24,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000104,
+                "targetTalkId": 28
+              },
+              "targetTalkId": 28
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/24/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 25,
+          "talkIndex": 24
+        },
+        {
+          "id": 26,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_37",
+          "text": "嗯，好，我试试看……",
+          "texts": {
+            "zh-Hans": "嗯，好，我试试看……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/25/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 26,
+          "talkIndex": 25
+        },
+        {
+          "id": 27,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_38",
+          "text": "算出来了！答案是……共有五只兔，九只鸡！",
+          "texts": {
+            "zh-Hans": "算出来了！答案是……共有五只兔，九只鸡！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/26/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 27,
+          "talkIndex": 26,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000105,
+            "targetTalkId": 30
+          },
+          "targetTalkId": 30
+        },
+        {
+          "id": 28,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 354,
+          "textKey": "Event_TXCQDEBF_34_39",
+          "text": "（先假设全是鸡，算出所有脚的差数，得到兔的只数……我知道了。）",
+          "texts": {
+            "zh-Hans": "（先假设全是鸡，算出所有脚的差数，得到兔的只数……我知道了。）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/27/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 28,
+          "talkIndex": 27
+        },
+        {
+          "id": 29,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 354,
+          "textKey": "Event_TXCQDEBF_34_40",
+          "text": "共有五只兔，九只鸡。",
+          "texts": {
+            "zh-Hans": "共有五只兔，九只鸡。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/28/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 29,
+          "talkIndex": 28,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000106,
+            "targetTalkId": 30
+          },
+          "targetTalkId": 30
+        },
+        {
+          "id": 30,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_41",
+          "text": "回答正确！您这脑子转得可比柏松老师还快啊，佩服佩服。",
+          "texts": {
+            "zh-Hans": "回答正确！您这脑子转得可比柏松老师还快啊，佩服佩服。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/29/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 30,
+          "talkIndex": 29
+        },
+        {
+          "id": 31,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_42",
+          "text": "既然如此，那第三题我们就换个方式，由你们自己来挑谜面如何？",
+          "texts": {
+            "zh-Hans": "既然如此，那第三题我们就换个方式，由你们自己来挑谜面如何？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/30/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 31,
+          "talkIndex": 30
+        },
+        {
+          "id": 32,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": 83,
+          "textKey": "Event_TXCQDEBF_34_43",
+          "text": "斜阳看向一排悬挂着的花灯，下方的花笺随着灯悠悠晃动。",
+          "texts": {
+            "zh-Hans": "斜阳看向一排悬挂着的花灯，下方的花笺随着灯悠悠晃动。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/31/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 32,
+          "talkIndex": 31
+        },
+        {
+          "id": 33,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_44",
+          "text": "咦……看不到上面的谜面……",
+          "texts": {
+            "zh-Hans": "咦……看不到上面的谜面……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/32/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 33,
+          "talkIndex": 32
+        },
+        {
+          "id": 34,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_45",
+          "text": "噢，这里的谜面是用特殊墨水写的，要用花灯靠近照一下才能显现。",
+          "texts": {
+            "zh-Hans": "噢，这里的谜面是用特殊墨水写的，要用花灯靠近照一下才能显现。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_46",
+              "text": "盲选啊……",
+              "texts": {
+                "zh-Hans": "盲选啊……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 34,
+              "talkIndex": 33,
+              "optionIndex": 0
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/33/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 34,
+          "talkIndex": 33
+        },
+        {
+          "id": 35,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_47",
+          "text": "这样更有意思嘛，猜灯谜和找灵感一样，讲究一个缘分！",
+          "texts": {
+            "zh-Hans": "这样更有意思嘛，猜灯谜和找灵感一样，讲究一个缘分！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/34/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 35,
+          "talkIndex": 34
+        },
+        {
+          "id": 36,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_48",
+          "text": "原来如此……这样也很有趣。",
+          "texts": {
+            "zh-Hans": "原来如此……这样也很有趣。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_49",
+              "text": "那就由秧秧来选吧。",
+              "texts": {
+                "zh-Hans": "那就由秧秧来选吧。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 36,
+              "talkIndex": 35,
+              "optionIndex": 0
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/35/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 36,
+          "talkIndex": 35
+        },
+        {
+          "id": 37,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_50",
+          "text": "诶，要我来选吗？嗯……那就，这个吧。",
+          "texts": {
+            "zh-Hans": "诶，要我来选吗？嗯……那就，这个吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/36/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 37,
+          "talkIndex": 36
+        },
+        {
+          "id": 38,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_51",
+          "text": "好嘞！让我看看……谜面出来了！",
+          "texts": {
+            "zh-Hans": "好嘞！让我看看……谜面出来了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/37/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 38,
+          "talkIndex": 37
+        },
+        {
+          "id": 39,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_52",
+          "text": "——明月照环壁，华灯绕今城，阖家围桌笑，齐首庆相逢。",
+          "texts": {
+            "zh-Hans": "——明月照环壁，华灯绕今城，阖家围桌笑，齐首庆相逢。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/38/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 39,
+          "talkIndex": 38
+        },
+        {
+          "id": 40,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_53",
+          "text": "打一词语！",
+          "texts": {
+            "zh-Hans": "打一词语！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/39/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 40,
+          "talkIndex": 39
+        },
+        {
+          "id": 41,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_54",
+          "text": "明月，阖家……",
+          "texts": {
+            "zh-Hans": "明月，阖家……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_55",
+              "text": "难道……就是指追月节？",
+              "texts": {
+                "zh-Hans": "难道……就是指追月节？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 41,
+              "talkIndex": 40,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000107,
+                "targetTalkId": 42
+              },
+              "targetTalkId": 42
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_56",
+              "text": "难道……是指“团圆”？",
+              "texts": {
+                "zh-Hans": "难道……是指“团圆”？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 41,
+              "talkIndex": 40,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000108,
+                "targetTalkId": 44
+              },
+              "targetTalkId": 44
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/40/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 41,
+          "talkIndex": 40
+        },
+        {
+          "id": 42,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_57",
+          "text": "诶，很接近了！",
+          "texts": {
+            "zh-Hans": "诶，很接近了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/41/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 42,
+          "talkIndex": 41
+        },
+        {
+          "id": 43,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_58",
+          "text": "……我知道了，是“团圆”吧。",
+          "texts": {
+            "zh-Hans": "……我知道了，是“团圆”吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/42/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 43,
+          "talkIndex": 42,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000109,
+            "targetTalkId": 44
+          },
+          "targetTalkId": 44
+        },
+        {
+          "id": 44,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_59",
+          "text": "回答正确！",
+          "texts": {
+            "zh-Hans": "回答正确！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/43/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 44,
+          "talkIndex": 43
+        },
+        {
+          "id": 45,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_60",
+          "text": "二位一共答对了三题，那这特别奖励就是你们的了！",
+          "texts": {
+            "zh-Hans": "二位一共答对了三题，那这特别奖励就是你们的了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/44/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 45,
+          "talkIndex": 44
+        },
+        {
+          "id": 46,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": null,
+          "textKey": "Event_TXCQDEBF_34_61",
+          "text": "斜阳拿出一盏流光溢彩的花灯，上面描绘着心狐追月的纹样。",
+          "texts": {
+            "zh-Hans": "斜阳拿出一盏流光溢彩的花灯，上面描绘着心狐追月的纹样。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/45/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 46,
+          "talkIndex": 45
+        },
+        {
+          "id": 47,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_62",
+          "text": "好漂亮……！",
+          "texts": {
+            "zh-Hans": "好漂亮……！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_63",
+              "text": "这不还是花灯吗？",
+              "texts": {
+                "zh-Hans": "这不还是花灯吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 47,
+              "talkIndex": 46,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000110,
+                "targetTalkId": 48
+              },
+              "targetTalkId": 48
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_34_64",
+              "text": "秧秧看上去很喜欢。",
+              "texts": {
+                "zh-Hans": "秧秧看上去很喜欢。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 47,
+              "talkIndex": 46,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000111,
+                "targetTalkId": 49
+              },
+              "targetTalkId": 49
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/46/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 47,
+          "talkIndex": 46
+        },
+        {
+          "id": 48,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_65",
+          "text": "这你就有所不知了。",
+          "texts": {
+            "zh-Hans": "这你就有所不知了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/47/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 48,
+          "talkIndex": 47,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000112,
+            "targetTalkId": 50
+          },
+          "targetTalkId": 50
+        },
+        {
+          "id": 49,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_34_66",
+          "text": "嗯……上次在追月节上拿到花灯，还是在很小的时候……好怀念。",
+          "texts": {
+            "zh-Hans": "嗯……上次在追月节上拿到花灯，还是在很小的时候……好怀念。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/48/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 49,
+          "talkIndex": 48,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000113,
+            "targetTalkId": 50
+          },
+          "targetTalkId": 50
+        },
+        {
+          "id": 50,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_67",
+          "text": "可别瞧看这个花灯，这可是一位有名的收藏家特意赶在追月节送来的。",
+          "texts": {
+            "zh-Hans": "可别瞧看这个花灯，这可是一位有名的收藏家特意赶在追月节送来的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/49/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 50,
+          "talkIndex": 49
+        },
+        {
+          "id": 51,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_68",
+          "text": "据说是岁主“心”亲手所制，祂曾将大量花灯藏于林中，找到它就相当于得到了一整年的祝福。",
+          "texts": {
+            "zh-Hans": "据说是岁主“心”亲手所制，祂曾将大量花灯藏于林中，找到它就相当于得到了一整年的祝福。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/50/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 51,
+          "talkIndex": 50
+        },
+        {
+          "id": 52,
+          "speaker": "斜阳",
+          "speakers": {
+            "zh-Hans": "斜阳"
+          },
+          "speakerId": 209,
+          "textKey": "Event_TXCQDEBF_34_69",
+          "text": "你看，多好的彩头，恭喜二位啦！祝福二位！",
+          "texts": {
+            "zh-Hans": "你看，多好的彩头，恭喜二位啦！祝福二位！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_2:/7/TalkItems/51/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2
+          },
+          "talkId": 52,
+          "talkIndex": 51
+        },
+        {
+          "id": 53,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_35_1",
+          "text": "漂泊者，你还有空吗？",
+          "texts": {
+            "zh-Hans": "漂泊者，你还有空吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/1/Params -> 剧情_1.2同行插曲支线2_4_3:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 3
+          },
+          "talkId": 1,
+          "talkIndex": 0
+        },
+        {
+          "id": 54,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_35_2",
+          "text": "我想……和你一起走一走。",
+          "texts": {
+            "zh-Hans": "我想……和你一起走一走。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/1/Params -> 剧情_1.2同行插曲支线2_4_3:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 3
+          },
+          "talkId": 2,
+          "talkIndex": 1
+        }
+      ],
+      "rebuildV2Source": "QuestNodeData",
+      "legacyOrderKey": [
+        0,
+        0,
+        -1,
+        4711
+      ],
+      "legacyOrderSource": "legacy-detail-node-order-calibration",
+      "orderIndex": 0,
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "QuestNodeData",
+        "flowCount": 3,
+        "flowOrderRiskCount": 23,
+        "talkBranchGraphCount": 1,
+        "items": [
+          {
+            "type": "legacy-detail-node-order-calibration",
+            "strength": "calibrated-supplement",
+            "path": [
+              0,
+              0,
+              -1,
+              4711
+            ],
+            "source": "legacy-detail-node-order-calibration"
+          },
+          {
+            "type": "flow-state-linear-order",
+            "strength": "hard-within-flow",
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 1
+          },
+          {
+            "type": "flow-branch-graph",
+            "strength": "branch-aware",
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 2,
+            "orderRiskCount": 23,
+            "talkBranchGraphCount": 1,
+            "orderRiskTypes": [
+              "jump-talk"
+            ]
+          },
+          {
+            "type": "flow-state-linear-order",
+            "strength": "hard-within-flow",
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 3
+          }
+        ]
+      },
+      "orderConfidence": "medium-high"
+    },
+    {
+      "chapter_index": 1,
+      "kind": "node",
+      "title": "抵达最高处",
+      "titleKey": "Quest_139700003_ChildQuestTip_139_6",
+      "titles": {
+        "zh-Hans": "抵达最高处"
+      },
+      "isHideUi": false,
+      "nodeId": 7,
+      "parentNodeId": 1,
+      "nodeType": "ChildQuest",
+      "sourceOrder": 5816,
+      "embeddedOrderPath": [],
+      "embeddedOrderSource": "",
+      "flows": [
+        {
+          "flowListName": "剧情_1.2同行插曲支线2",
+          "flowId": 4,
+          "stateId": 4,
+          "orderRiskCount": 7,
+          "orderRiskTypes": [
+            "finish-talk",
+            "jump-talk"
+          ],
+          "orderRiskSamples": [
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_4",
+              "path": "/1/Params/TalkItems/3/Options/0/Actions/0",
+              "talkItemIndex": 3,
+              "optionIndex": 0,
+              "targetTalkId": 5,
+              "actionId": 5000070
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_4",
+              "path": "/1/Params/TalkItems/3/Options/1/Actions/0",
+              "talkItemIndex": 3,
+              "optionIndex": 1,
+              "targetTalkId": 6,
+              "actionId": 5000114
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_4",
+              "path": "/1/Params/TalkItems/4/Actions/0",
+              "talkItemIndex": 4,
+              "targetTalkId": 7,
+              "actionId": 5000115
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_4",
+              "path": "/1/Params/TalkItems/5/Actions/0",
+              "talkItemIndex": 5,
+              "targetTalkId": 7,
+              "actionId": 5000116
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_4",
+              "path": "/1/Params/TalkItems/10/Options/0/Actions/0",
+              "talkItemIndex": 10,
+              "optionIndex": 0,
+              "targetTalkId": 12,
+              "actionId": 5000117
+            },
+            {
+              "type": "jump-talk",
+              "actionName": "JumpTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_4",
+              "path": "/1/Params/TalkItems/10/Options/1/Actions/0",
+              "talkItemIndex": 10,
+              "optionIndex": 1,
+              "targetTalkId": 14,
+              "actionId": 5000119
+            },
+            {
+              "type": "finish-talk",
+              "actionName": "FinishTalk",
+              "stateKey": "剧情_1.2同行插曲支线2_4_4",
+              "path": "/1/Params/TalkItems/12/Actions/0",
+              "talkItemIndex": 12,
+              "actionId": 5000120
+            }
+          ],
+          "talkBranchGraphCount": 1,
+          "talkBranchGraphs": [
+            {
+              "stateKey": "剧情_1.2同行插曲支线2_4_4",
+              "showTalkActionIndex": 1,
+              "showTalkActionId": 5000118,
+              "talkItemCount": 14,
+              "talkItems": [
+                {
+                  "index": 0,
+                  "talkId": 1,
+                  "textKey": "Event_TXCQDEBF_36_1",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 2,
+                  "defaultNextTalkIndex": 1
+                },
+                {
+                  "index": 1,
+                  "talkId": 2,
+                  "textKey": "Event_TXCQDEBF_36_2",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 3,
+                  "defaultNextTalkIndex": 2
+                },
+                {
+                  "index": 2,
+                  "talkId": 3,
+                  "textKey": "Event_TXCQDEBF_36_3",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 4,
+                  "defaultNextTalkIndex": 3
+                },
+                {
+                  "index": 3,
+                  "talkId": 4,
+                  "textKey": "Event_TXCQDEBF_36_4",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 5,
+                  "defaultNextTalkIndex": 4,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_36_5",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000070,
+                        "targetTalkId": 5,
+                        "targetTalkIndex": 4
+                      }
+                    },
+                    {
+                      "index": 1,
+                      "textKey": "Event_TXCQDEBF_36_6",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000114,
+                        "targetTalkId": 6,
+                        "targetTalkIndex": 5
+                      }
+                    }
+                  ]
+                },
+                {
+                  "index": 4,
+                  "talkId": 5,
+                  "textKey": "Event_TXCQDEBF_36_7",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 6,
+                  "defaultNextTalkIndex": 5,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000115,
+                    "targetTalkId": 7,
+                    "targetTalkIndex": 6
+                  }
+                },
+                {
+                  "index": 5,
+                  "talkId": 6,
+                  "textKey": "Event_TXCQDEBF_36_8",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 7,
+                  "defaultNextTalkIndex": 6,
+                  "actionOutcome": {
+                    "type": "jump-talk",
+                    "actionName": "JumpTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000116,
+                    "targetTalkId": 7,
+                    "targetTalkIndex": 6
+                  }
+                },
+                {
+                  "index": 6,
+                  "talkId": 7,
+                  "textKey": "Event_TXCQDEBF_36_9",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 8,
+                  "defaultNextTalkIndex": 7
+                },
+                {
+                  "index": 7,
+                  "talkId": 8,
+                  "textKey": "Event_TXCQDEBF_36_10",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 9,
+                  "defaultNextTalkIndex": 8
+                },
+                {
+                  "index": 8,
+                  "talkId": 9,
+                  "textKey": "Event_TXCQDEBF_36_11",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 10,
+                  "defaultNextTalkIndex": 9
+                },
+                {
+                  "index": 9,
+                  "talkId": 10,
+                  "textKey": "Event_TXCQDEBF_36_12",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 11,
+                  "defaultNextTalkIndex": 10
+                },
+                {
+                  "index": 10,
+                  "talkId": 11,
+                  "textKey": "Event_TXCQDEBF_36_13",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 12,
+                  "defaultNextTalkIndex": 11,
+                  "options": [
+                    {
+                      "index": 0,
+                      "textKey": "Event_TXCQDEBF_36_14",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000117,
+                        "targetTalkId": 12,
+                        "targetTalkIndex": 11
+                      }
+                    },
+                    {
+                      "index": 1,
+                      "textKey": "Event_TXCQDEBF_36_15",
+                      "outcome": {
+                        "type": "jump-talk",
+                        "actionName": "JumpTalk",
+                        "actionIndex": 0,
+                        "actionId": 5000119,
+                        "targetTalkId": 14,
+                        "targetTalkIndex": 13
+                      }
+                    }
+                  ]
+                },
+                {
+                  "index": 11,
+                  "talkId": 12,
+                  "textKey": "Event_TXCQDEBF_36_16",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 13,
+                  "defaultNextTalkIndex": 12
+                },
+                {
+                  "index": 12,
+                  "talkId": 13,
+                  "textKey": "Event_TXCQDEBF_36_17",
+                  "speakerId": 108,
+                  "defaultNextTalkId": 14,
+                  "defaultNextTalkIndex": 13,
+                  "actionOutcome": {
+                    "type": "finish-talk",
+                    "actionName": "FinishTalk",
+                    "actionIndex": 0,
+                    "actionId": 5000120
+                  }
+                },
+                {
+                  "index": 13,
+                  "talkId": 14,
+                  "textKey": "Event_TXCQDEBF_36_18",
+                  "speakerId": 108,
+                  "defaultNextTalkId": null,
+                  "defaultNextTalkIndex": null
+                }
+              ],
+              "overrideEdges": [
+                {
+                  "fromTalkId": 4,
+                  "fromTalkIndex": 3,
+                  "via": "option",
+                  "optionIndex": 0,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000070,
+                  "targetTalkId": 5,
+                  "targetTalkIndex": 4
+                },
+                {
+                  "fromTalkId": 4,
+                  "fromTalkIndex": 3,
+                  "via": "option",
+                  "optionIndex": 1,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000114,
+                  "targetTalkId": 6,
+                  "targetTalkIndex": 5
+                },
+                {
+                  "fromTalkId": 5,
+                  "fromTalkIndex": 4,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000115,
+                  "targetTalkId": 7,
+                  "targetTalkIndex": 6
+                },
+                {
+                  "fromTalkId": 6,
+                  "fromTalkIndex": 5,
+                  "via": "talk-actions",
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000116,
+                  "targetTalkId": 7,
+                  "targetTalkIndex": 6
+                },
+                {
+                  "fromTalkId": 11,
+                  "fromTalkIndex": 10,
+                  "via": "option",
+                  "optionIndex": 0,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000117,
+                  "targetTalkId": 12,
+                  "targetTalkIndex": 11
+                },
+                {
+                  "fromTalkId": 11,
+                  "fromTalkIndex": 10,
+                  "via": "option",
+                  "optionIndex": 1,
+                  "type": "jump-talk",
+                  "actionName": "JumpTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000119,
+                  "targetTalkId": 14,
+                  "targetTalkIndex": 13
+                },
+                {
+                  "fromTalkId": 13,
+                  "fromTalkIndex": 12,
+                  "via": "talk-actions",
+                  "type": "finish-talk",
+                  "actionName": "FinishTalk",
+                  "actionIndex": 0,
+                  "actionId": 5000120
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_1",
+          "text": "还记得很小的时候，我总是很期待追月节。",
+          "texts": {
+            "zh-Hans": "还记得很小的时候，我总是很期待追月节。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 1,
+          "talkIndex": 0
+        },
+        {
+          "id": 2,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_2",
+          "text": "能看到绚丽的烟火，拿到漂亮的花灯，吃家人亲手做的团圆饼，大街上到处都是脸上洋溢着快乐笑容的人们。",
+          "texts": {
+            "zh-Hans": "能看到绚丽的烟火，拿到漂亮的花灯，吃家人亲手做的团圆饼，大街上到处都是脸上洋溢着快乐笑容的人们。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 2,
+          "talkIndex": 1
+        },
+        {
+          "id": 3,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_3",
+          "text": "……虽然很多记忆都已经变得模糊，但我始终记得家人和朋友发自内心的笑容。",
+          "texts": {
+            "zh-Hans": "……虽然很多记忆都已经变得模糊，但我始终记得家人和朋友发自内心的笑容。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 3,
+          "talkIndex": 2
+        },
+        {
+          "id": 4,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_4",
+          "text": "我想加入夜归成为踏白，还有一个原因就是……我想尽可能找回大家的笑容，哪怕我一个人的力量很微小……",
+          "texts": {
+            "zh-Hans": "我想加入夜归成为踏白，还有一个原因就是……我想尽可能找回大家的笑容，哪怕我一个人的力量很微小……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_36_5",
+              "text": "你看，大家都很开心。",
+              "texts": {
+                "zh-Hans": "你看，大家都很开心。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 4,
+              "talkIndex": 3,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000070,
+                "targetTalkId": 5
+              },
+              "targetTalkId": 5
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_36_6",
+              "text": "……你想家了吗？",
+              "texts": {
+                "zh-Hans": "……你想家了吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 4,
+              "talkIndex": 3,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000114,
+                "targetTalkId": 6
+              },
+              "targetTalkId": 6
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 4,
+          "talkIndex": 3
+        },
+        {
+          "id": 5,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_7",
+          "text": "嗯！所以……我很喜欢现在的今州。",
+          "texts": {
+            "zh-Hans": "嗯！所以……我很喜欢现在的今州。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000115,
+            "targetTalkId": 7
+          },
+          "targetTalkId": 7
+        },
+        {
+          "id": 6,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_8",
+          "text": "嗯……不过，没关系的。",
+          "texts": {
+            "zh-Hans": "嗯……不过，没关系的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000116,
+            "targetTalkId": 7
+          },
+          "targetTalkId": 7
+        },
+        {
+          "id": 7,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_9",
+          "text": "即使无法在今天和家人团聚，但风中传来的欢笑和喜悦……已经让我觉得非常幸福。",
+          "texts": {
+            "zh-Hans": "即使无法在今天和家人团聚，但风中传来的欢笑和喜悦……已经让我觉得非常幸福。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 7,
+          "talkIndex": 6
+        },
+        {
+          "id": 8,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_10",
+          "text": "望着这一轮明月，我便知道他们是安稳快乐的。",
+          "texts": {
+            "zh-Hans": "望着这一轮明月，我便知道他们是安稳快乐的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 8,
+          "talkIndex": 7
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_11",
+          "text": "谢谢你，漂泊者，我很开心。",
+          "texts": {
+            "zh-Hans": "谢谢你，漂泊者，我很开心。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 9,
+          "talkIndex": 8
+        },
+        {
+          "id": 10,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_12",
+          "text": "不只是现在，还有你为今州，为大家所做的一切。",
+          "texts": {
+            "zh-Hans": "不只是现在，还有你为今州，为大家所做的一切。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 10,
+          "talkIndex": 9
+        },
+        {
+          "id": 11,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_13",
+          "text": "让这次追月节……对我来说有着截然不同的意义。",
+          "texts": {
+            "zh-Hans": "让这次追月节……对我来说有着截然不同的意义。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_36_14",
+              "text": "宵月会还没有结束呢。",
+              "texts": {
+                "zh-Hans": "宵月会还没有结束呢。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 11,
+              "talkIndex": 10,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000117,
+                "targetTalkId": 12
+              },
+              "targetTalkId": 12
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Event_TXCQDEBF_36_15",
+              "text": "以后的每个节日都会更好。",
+              "texts": {
+                "zh-Hans": "以后的每个节日都会更好。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 11,
+              "talkIndex": 10,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000119,
+                "targetTalkId": 14
+              },
+              "targetTalkId": 14
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 11,
+          "talkIndex": 10
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_16",
+          "text": "嗯！既然如此……漂泊者还有什么想去的地方吗？",
+          "texts": {
+            "zh-Hans": "嗯！既然如此……漂泊者还有什么想去的地方吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 12,
+          "talkIndex": 11
+        },
+        {
+          "id": 13,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_17",
+          "text": "在这里休息一会，然后再一起去看看吧。",
+          "texts": {
+            "zh-Hans": "在这里休息一会，然后再一起去看看吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "branchOutcome": {
+            "type": "finish-talk",
+            "actionName": "FinishTalk",
+            "actionIndex": 0,
+            "actionId": 5000120
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Event_TXCQDEBF_36_18",
+          "text": "借漂泊者吉言，而且……如果之后的节日我们也能一起度过，就更好了。",
+          "texts": {
+            "zh-Hans": "借漂泊者吉言，而且……如果之后的节日我们也能一起度过，就更好了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_1.2同行插曲支线2_4_4:/1/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4
+          },
+          "talkId": 14,
+          "talkIndex": 13
+        }
+      ],
+      "rebuildV2Source": "QuestNodeData",
+      "legacyOrderKey": [
+        1,
+        0,
+        -1,
+        5816
+      ],
+      "legacyOrderSource": "legacy-detail-node-order-calibration",
+      "orderIndex": 1,
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "QuestNodeData",
+        "flowCount": 1,
+        "flowOrderRiskCount": 7,
+        "talkBranchGraphCount": 1,
+        "items": [
+          {
+            "type": "legacy-detail-node-order-calibration",
+            "strength": "calibrated-supplement",
+            "path": [
+              1,
+              0,
+              -1,
+              5816
+            ],
+            "source": "legacy-detail-node-order-calibration"
+          },
+          {
+            "type": "flow-branch-graph",
+            "strength": "branch-aware",
+            "flowListName": "剧情_1.2同行插曲支线2",
+            "flowId": 4,
+            "stateId": 4,
+            "orderRiskCount": 7,
+            "talkBranchGraphCount": 1,
+            "orderRiskTypes": [
+              "finish-talk",
+              "jump-talk"
+            ]
+          }
+        ]
+      },
+      "orderConfidence": "medium-high"
+    }
+  ]
+}

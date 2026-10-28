@@ -1,0 +1,1381 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1039000030",
+  "task_name": "奔策候残星",
+  "version": "1.0版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1039000030",
+  "fetched_at": "2026-10-27T11:00:35+08:00",
+  "source_sha256": "219c618762f1ea122b374a26da4a4c0164cb478b862fde7ca8bd70b3976f3cfc",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 5,
+      "kind": "manual-override-node",
+      "title": "奇怪的残象",
+      "titles": {
+        "zh-Hans": "奇怪的残象"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-5",
+      "sourceNodeKey": "node:4",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+          "flowId": 1,
+          "stateId": 28,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+          "flowId": 1,
+          "stateId": 40,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_2",
+          "text": "啊，小心！",
+          "texts": {
+            "zh-Hans": "啊，小心！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "奇怪的残象",
+          "speakers": {
+            "zh-Hans": "奇怪的残象"
+          },
+          "speakerId": 860,
+          "textKey": "Huanglong_main_1_4_106_3",
+          "text": "叽……叽叽……",
+          "texts": {
+            "zh-Hans": "叽……叽叽……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_4",
+          "text": "奇怪，不攻击吗……？",
+          "texts": {
+            "zh-Hans": "奇怪，不攻击吗……？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "奇怪的残象",
+          "speakers": {
+            "zh-Hans": "奇怪的残象"
+          },
+          "speakerId": 860,
+          "textKey": "Huanglong_main_1_4_106_5",
+          "text": "叽……哥哥……",
+          "texts": {
+            "zh-Hans": "叽……哥哥……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "奇怪的残象",
+          "speakers": {
+            "zh-Hans": "奇怪的残象"
+          },
+          "speakerId": 860,
+          "textKey": "Huanglong_main_1_4_106_6",
+          "text": "……救……救救……",
+          "texts": {
+            "zh-Hans": "……救……救救……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_4_106_7",
+              "text": "（和它对话。）",
+              "texts": {
+                "zh-Hans": "（和它对话。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000033,
+                "targetTalkId": 6
+              },
+              "targetTalkId": 6,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_4_106_8",
+              "text": "（攻击它。）",
+              "texts": {
+                "zh-Hans": "（攻击它。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000034,
+                "targetTalkId": 13
+              },
+              "targetTalkId": 13,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "奇怪的残象",
+          "speakers": {
+            "zh-Hans": "奇怪的残象"
+          },
+          "speakerId": 860,
+          "textKey": "Huanglong_main_1_4_106_9",
+          "text": "哥哥……救救……",
+          "texts": {
+            "zh-Hans": "哥哥……救救……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "奇怪的残象",
+          "speakers": {
+            "zh-Hans": "奇怪的残象"
+          },
+          "speakerId": 860,
+          "textKey": "Huanglong_main_1_4_106_10",
+          "text": "叽……",
+          "texts": {
+            "zh-Hans": "叽……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_4_106_11",
+              "text": "哥哥是谁？",
+              "texts": {
+                "zh-Hans": "哥哥是谁？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 7,
+              "talkIndex": 6,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000035,
+                "targetTalkId": 8
+              },
+              "targetTalkId": 8,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "奇怪的残象",
+          "speakers": {
+            "zh-Hans": "奇怪的残象"
+          },
+          "speakerId": 860,
+          "textKey": "Huanglong_main_1_4_106_12",
+          "text": "救……",
+          "texts": {
+            "zh-Hans": "救……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_13",
+          "text": "似乎只会重复这几句话……这不是普通的残象。",
+          "texts": {
+            "zh-Hans": "似乎只会重复这几句话……这不是普通的残象。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_14",
+          "text": "残象会进行攻击的本质是它们需要吞噬他人的频率，残象的诞生也是频率被打散又组合的结果。",
+          "texts": {
+            "zh-Hans": "残象会进行攻击的本质是它们需要吞噬他人的频率，残象的诞生也是频率被打散又组合的结果。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_15",
+          "text": "这只残象应该是吞噬了某些……人类的频率。",
+          "texts": {
+            "zh-Hans": "这只残象应该是吞噬了某些……人类的频率。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_16",
+          "text": "将他人残存的意识化为重复不断的呓语……这是来自谁的将死之音，又或是出自谁血腥的创造呢……",
+          "texts": {
+            "zh-Hans": "将他人残存的意识化为重复不断的呓语……这是来自谁的将死之音，又或是出自谁血腥的创造呢……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000036,
+            "targetTalkId": 21
+          },
+          "targetTalkId": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_17",
+          "text": "等等，漂泊者，它似乎没有攻击我们的意思……",
+          "texts": {
+            "zh-Hans": "等等，漂泊者，它似乎没有攻击我们的意思……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_4_106_18",
+              "text": "残象也会有意识？",
+              "texts": {
+                "zh-Hans": "残象也会有意识？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 13,
+              "talkIndex": 12,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000037,
+                "targetTalkId": 14
+              },
+              "targetTalkId": 14,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "奇怪的残象",
+          "speakers": {
+            "zh-Hans": "奇怪的残象"
+          },
+          "speakerId": 860,
+          "textKey": "Huanglong_main_1_4_106_19",
+          "text": "救救……",
+          "texts": {
+            "zh-Hans": "救救……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "奇怪的残象",
+          "speakers": {
+            "zh-Hans": "奇怪的残象"
+          },
+          "speakerId": 860,
+          "textKey": "Huanglong_main_1_4_106_20",
+          "text": "……哥哥……",
+          "texts": {
+            "zh-Hans": "……哥哥……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "奇怪的残象",
+          "speakers": {
+            "zh-Hans": "奇怪的残象"
+          },
+          "speakerId": 860,
+          "textKey": "Huanglong_main_1_4_106_21",
+          "text": "……",
+          "texts": {
+            "zh-Hans": "……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_22",
+          "text": "似乎只会重复这几句话……这不是普通的残象。",
+          "texts": {
+            "zh-Hans": "似乎只会重复这几句话……这不是普通的残象。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_23",
+          "text": "残象会进行攻击的本质是它们需要吞噬他人的频率，残象的诞生也是频率被打散又组合的结果。",
+          "texts": {
+            "zh-Hans": "残象会进行攻击的本质是它们需要吞噬他人的频率，残象的诞生也是频率被打散又组合的结果。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 18,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_24",
+          "text": "这只残象应该是吞噬了某些……人类的频率。",
+          "texts": {
+            "zh-Hans": "这只残象应该是吞噬了某些……人类的频率。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 19,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_106_25",
+          "text": "将他人残存的意识化为重复不断的呓语……这是来自谁的将死之音，又或是出自谁血腥的创造呢……",
+          "texts": {
+            "zh-Hans": "将他人残存的意识化为重复不断的呓语……这是来自谁的将死之音，又或是出自谁血腥的创造呢……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 20,
+          "talkIndex": 19,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000038,
+            "targetTalkId": 21
+          },
+          "targetTalkId": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": null,
+          "textKey": "Huanglong_main_1_4_106_26",
+          "text": "秧秧蹲下来将手放在残象头上，随着流息的感知，她露出悲伤的神情。",
+          "texts": {
+            "zh-Hans": "秧秧蹲下来将手放在残象头上，随着流息的感知，她露出悲伤的神情。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 28
+          },
+          "talkId": 21,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/10/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_28:/5/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_36",
+          "text": "对不起……",
+          "texts": {
+            "zh-Hans": "对不起……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_4_2_37",
+              "text": "你在和它沟通吗？",
+              "texts": {
+                "zh-Hans": "你在和它沟通吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 1,
+              "talkIndex": 0,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_38",
+          "text": "没有，我无法做到那样的事。我只是在它身上感知到一些复杂的情绪……浓烈的悲伤，与一种异样的期许。",
+          "texts": {
+            "zh-Hans": "没有，我无法做到那样的事。我只是在它身上感知到一些复杂的情绪……浓烈的悲伤，与一种异样的期许。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_39",
+          "text": "……我有一个猜想。",
+          "texts": {
+            "zh-Hans": "……我有一个猜想。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_4_2_40",
+              "text": "你说。",
+              "texts": {
+                "zh-Hans": "你说。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 3,
+              "talkIndex": 2,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_41",
+          "text": "它似乎在等待着解脱与救赎，但这种期许并不是指向它自身，我听见了它的悲鸣……不，是来自这座村庄的悲鸣。",
+          "texts": {
+            "zh-Hans": "它似乎在等待着解脱与救赎，但这种期许并不是指向它自身，我听见了它的悲鸣……不，是来自这座村庄的悲鸣。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_42",
+          "text": "这座村庄在悲鸣着，期望能够从深渊中被解救出来。",
+          "texts": {
+            "zh-Hans": "这座村庄在悲鸣着，期望能够从深渊中被解救出来。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_43",
+          "text": "这里发生了非常糟糕的事……甚至还残留着受害者的回响。",
+          "texts": {
+            "zh-Hans": "这里发生了非常糟糕的事……甚至还残留着受害者的回响。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_44",
+          "text": "从此处的痕迹以及这里的废墟来看，发生的时间也许并不久远，风中的讯息也还未能消散。",
+          "texts": {
+            "zh-Hans": "从此处的痕迹以及这里的废墟来看，发生的时间也许并不久远，风中的讯息也还未能消散。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_45",
+          "text": "也许是因为无音区的影响，也许是有人从中作祟，这里的事并未暴露在阳光之下。但我认为……",
+          "texts": {
+            "zh-Hans": "也许是因为无音区的影响，也许是有人从中作祟，这里的事并未暴露在阳光之下。但我认为……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_46",
+          "text": "此时此刻，这里一定还有我们能做的事，也许受害者还留在此处，我能感知到，与之相关的人就在这里不远处……这里，很危险。",
+          "texts": {
+            "zh-Hans": "此时此刻，这里一定还有我们能做的事，也许受害者还留在此处，我能感知到，与之相关的人就在这里不远处……这里，很危险。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_47",
+          "text": "我会将这里的事态同步告知炽霞，但在正式调查人员来到之前，我们能先留在此处调查吗？",
+          "texts": {
+            "zh-Hans": "我会将这里的事态同步告知炽霞，但在正式调查人员来到之前，我们能先留在此处调查吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_48",
+          "text": "抱歉，我这么说似乎太主观了……这只是一种没有依据的预感而已……",
+          "texts": {
+            "zh-Hans": "抱歉，我这么说似乎太主观了……这只是一种没有依据的预感而已……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_4_2_49",
+              "text": "不，我相信你。",
+              "texts": {
+                "zh-Hans": "不，我相信你。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 11,
+              "talkIndex": 10,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_4_2_50",
+              "text": "今汐给我的信物也指向这里，不是吗？",
+              "texts": {
+                "zh-Hans": "今汐给我的信物也指向这里，不是吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 11,
+              "talkIndex": 10,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_51",
+          "text": "呼……谢谢你，漂泊者。请一定要提高警惕。",
+          "texts": {
+            "zh-Hans": "呼……谢谢你，漂泊者。请一定要提高警惕。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 34,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_4_2_52",
+          "text": "这个小东西……让它留在这里吧。",
+          "texts": {
+            "zh-Hans": "这个小东西……让它留在这里吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第四幕_奔策候残星",
+            "flowId": 1,
+            "stateId": 40
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000030/Data/11/Flow -> 剧情_新主线_CE版_第一章_第四幕_奔策候残星_1_40:/5/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 2,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 2
+          }
+        ]
+      }
+    }
+  ]
+}

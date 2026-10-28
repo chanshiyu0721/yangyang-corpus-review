@@ -1,0 +1,339 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1002000000",
+  "task_name": "千里卷戎旌",
+  "version": "1.0版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1002000000",
+  "fetched_at": "2026-10-27T11:00:03+08:00",
+  "source_sha256": "8dcdea4da08c16f184eb04c00d208148a036a248f1461aa99a665e0eda269a96",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 16,
+      "kind": "manual-override-node",
+      "title": "击败敌人",
+      "titles": {
+        "zh-Hans": "击败敌人"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-38",
+      "sourceNodeKey": "level-play:37",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_第八章",
+          "flowId": 10,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "忌炎",
+          "speakers": {
+            "zh-Hans": "忌炎"
+          },
+          "speakerId": 92,
+          "textKey": "Huanglong_main_1_7_65_1",
+          "text": "前方的道路被这些巨大的黑石封住了，必须要想办法将他们破坏掉才能继续前进。",
+          "texts": {
+            "zh-Hans": "前方的道路被这些巨大的黑石封住了，必须要想办法将他们破坏掉才能继续前进。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_第八章",
+            "flowId": 10,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "莫特斐（通讯中）",
+          "speakers": {
+            "zh-Hans": "莫特斐（通讯中）"
+          },
+          "speakerId": 636,
+          "textKey": "Huanglong_main_1_7_65_2",
+          "text": "终于联系上了。漂泊者，能听到吗？",
+          "texts": {
+            "zh-Hans": "终于联系上了。漂泊者，能听到吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_第八章",
+            "flowId": 10,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "莫特斐（通讯中）",
+          "speakers": {
+            "zh-Hans": "莫特斐（通讯中）"
+          },
+          "speakerId": 636,
+          "textKey": "Huanglong_main_1_7_65_5",
+          "text": "方才鸣式的力量阻断了信号的传输，我们用了好些手段，才和你那个特殊的终端联系上。",
+          "texts": {
+            "zh-Hans": "方才鸣式的力量阻断了信号的传输，我们用了好些手段，才和你那个特殊的终端联系上。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_第八章",
+            "flowId": 10,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "莫特斐（通讯中）",
+          "speakers": {
+            "zh-Hans": "莫特斐（通讯中）"
+          },
+          "speakerId": 636,
+          "textKey": "Huanglong_main_1_7_65_6",
+          "text": "不得不说，你的终端还真是神奇，之后我们一定要好好研究一番……",
+          "texts": {
+            "zh-Hans": "不得不说，你的终端还真是神奇，之后我们一定要好好研究一番……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_第八章",
+            "flowId": 10,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "莫特斐（通讯中）",
+          "speakers": {
+            "zh-Hans": "莫特斐（通讯中）"
+          },
+          "speakerId": 636,
+          "textKey": "Huanglong_main_1_7_65_7",
+          "text": "说回正题吧。你们的情况，这边大概已经了解了。",
+          "texts": {
+            "zh-Hans": "说回正题吧。你们的情况，这边大概已经了解了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_第八章",
+            "flowId": 10,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "莫特斐（通讯中）",
+          "speakers": {
+            "zh-Hans": "莫特斐（通讯中）"
+          },
+          "speakerId": 636,
+          "textKey": "Huanglong_main_1_7_65_3",
+          "text": "好在你们所处的位置尚在凿空的射程范围之内，天工可以通过凿空为你们提供支援。",
+          "texts": {
+            "zh-Hans": "好在你们所处的位置尚在凿空的射程范围之内，天工可以通过凿空为你们提供支援。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_第八章",
+            "flowId": 10,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "莫特斐（通讯中）",
+          "speakers": {
+            "zh-Hans": "莫特斐（通讯中）"
+          },
+          "speakerId": 636,
+          "textKey": "Huanglong_main_1_7_65_4",
+          "text": "凿空的威力，几位都已经见识过了。虽说我们能够控制输出功率，但我还是强烈建议几位寻找一个远离目标点的位置……",
+          "texts": {
+            "zh-Hans": "凿空的威力，几位都已经见识过了。虽说我们能够控制输出功率，但我还是强烈建议几位寻找一个远离目标点的位置……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_第八章",
+            "flowId": 10,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/6/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "忌炎",
+          "speakers": {
+            "zh-Hans": "忌炎"
+          },
+          "speakerId": 92,
+          "textKey": "Huanglong_main_1_7_66_1",
+          "text": "……周围的建筑都已经被破坏得差不多了，我们需要人为制造出一个安全位置。",
+          "texts": {
+            "zh-Hans": "……周围的建筑都已经被破坏得差不多了，我们需要人为制造出一个安全位置。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/7/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_第八章",
+            "flowId": 10,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/7/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_7_66_2",
+          "text": "旁边的那个平台，也许可以利用？",
+          "texts": {
+            "zh-Hans": "旁边的那个平台，也许可以利用？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/7/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_第八章",
+            "flowId": 10,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "LevelPlayNodeData:/Data/FinishActions/0/Params -> 剧情_第八章_10_1:/7/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 4
+          }
+        ]
+      }
+    }
+  ]
+}

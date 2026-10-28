@@ -1,0 +1,2025 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1039000031",
+  "task_name": "庭际刀刃鸣",
+  "version": "1.0版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1039000031",
+  "fetched_at": "2026-10-27T11:00:45+08:00",
+  "source_sha256": "15aebd0717e07925564a34a6091ae5107ed341ac2218609ea49e25d662ecce67",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 0,
+      "kind": "manual-override-node",
+      "title": "回到今州城，与炽霞会合",
+      "titles": {
+        "zh-Hans": "回到今州城，与炽霞会合"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-4",
+      "sourceNodeKey": "node:3",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+          "flowId": 1,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_1",
+          "text": "怎么样怎么样，你们还顺利吗？没受什么伤吧，快让我瞧瞧！",
+          "texts": {
+            "zh-Hans": "怎么样怎么样，你们还顺利吗？没受什么伤吧，快让我瞧瞧！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_2",
+          "text": "嗯嗯，看起来没有缺胳膊少腿的。",
+          "texts": {
+            "zh-Hans": "嗯嗯，看起来没有缺胳膊少腿的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_3",
+              "text": "那也太夸张了。",
+              "texts": {
+                "zh-Hans": "那也太夸张了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_16",
+          "text": "那些信物的线索你们查得怎么样？",
+          "texts": {
+            "zh-Hans": "那些信物的线索你们查得怎么样？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": null,
+          "textKey": "Huanglong_main_1_5_73_17",
+          "text": "将在荒石高地与祈池村调查到的线索告知炽霞。",
+          "texts": {
+            "zh-Hans": "将在荒石高地与祈池村调查到的线索告知炽霞。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_18",
+          "text": "残星会居然都跑来今州耀武扬威了，看来这次动荡比我想得还要严重呢。",
+          "texts": {
+            "zh-Hans": "残星会居然都跑来今州耀武扬威了，看来这次动荡比我想得还要严重呢。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_19",
+              "text": "残星会到底想做什么？",
+              "texts": {
+                "zh-Hans": "残星会到底想做什么？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_20",
+          "text": "不知道，虽然听说过他们，但我最多也只是接触过残星会的一些边缘小喽啰。",
+          "texts": {
+            "zh-Hans": "不知道，虽然听说过他们，但我最多也只是接触过残星会的一些边缘小喽啰。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_21",
+          "text": "他们一直在研究如何人工诱导产生共鸣，说什么力量无分好坏，人人都应该获得共鸣的力量。",
+          "texts": {
+            "zh-Hans": "他们一直在研究如何人工诱导产生共鸣，说什么力量无分好坏，人人都应该获得共鸣的力量。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_22",
+          "text": "他们会将残象通过机械改造的方式与人类身体进行耦合，以获取共鸣的能力，他们将改造后的人称为造匠，并为残星会所用。",
+          "texts": {
+            "zh-Hans": "他们会将残象通过机械改造的方式与人类身体进行耦合，以获取共鸣的能力，他们将改造后的人称为造匠，并为残星会所用。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_52",
+          "text": "以这种极端的方式获取力量……恕我无法认同。",
+          "texts": {
+            "zh-Hans": "以这种极端的方式获取力量……恕我无法认同。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_23",
+          "text": "那个伤痕，听起来和那些人完全不是一个等级的，他是不是强得可怕？",
+          "texts": {
+            "zh-Hans": "那个伤痕，听起来和那些人完全不是一个等级的，他是不是强得可怕？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_24",
+          "text": "他......并没有伤害我和漂泊者的意思，从头至尾都没有动过真格。",
+          "texts": {
+            "zh-Hans": "他......并没有伤害我和漂泊者的意思，从头至尾都没有动过真格。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_25",
+          "text": "我也不知道他的真实目的是什么，但也许，这也是令尹想要传达给你的信息之一。",
+          "texts": {
+            "zh-Hans": "我也不知道他的真实目的是什么，但也许，这也是令尹想要传达给你的信息之一。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_26",
+          "text": "没想到那个村子里居然发生过这种事情……",
+          "texts": {
+            "zh-Hans": "没想到那个村子里居然发生过这种事情……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_27",
+          "text": "你们把消息同步给我之后，我去查了治安署的案件卷宗，这是一宗早前的案件了，早在现任令尹就任之前，就已经进行过后续处理且归档了。",
+          "texts": {
+            "zh-Hans": "你们把消息同步给我之后，我去查了治安署的案件卷宗，这是一宗早前的案件了，早在现任令尹就任之前，就已经进行过后续处理且归档了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_28",
+          "text": "后来怎么样了？",
+          "texts": {
+            "zh-Hans": "后来怎么样了？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_29",
+          "text": "放心吧，犯罪者已经伏法，大部分村民也都被迁移安置到了新的地方。",
+          "texts": {
+            "zh-Hans": "放心吧，犯罪者已经伏法，大部分村民也都被迁移安置到了新的地方。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_30",
+          "text": "不过，你们提到的那个小女孩，治安署里并没有她的信息。",
+          "texts": {
+            "zh-Hans": "不过，你们提到的那个小女孩，治安署里并没有她的信息。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_31",
+          "text": "看来，确实是伤痕把那个女孩带走了……",
+          "texts": {
+            "zh-Hans": "看来，确实是伤痕把那个女孩带走了……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_53",
+              "text": "伤痕似乎没有想要伤害她的意思。",
+              "texts": {
+                "zh-Hans": "伤痕似乎没有想要伤害她的意思。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 18,
+              "talkIndex": 17,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000009,
+                "targetTalkId": 19
+              },
+              "targetTalkId": 19,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_54",
+              "text": "残星会也许打算利用她做什么。",
+              "texts": {
+                "zh-Hans": "残星会也许打算利用她做什么。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 18,
+              "talkIndex": 17,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000010,
+                "targetTalkId": 20
+              },
+              "targetTalkId": 20,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_55",
+          "text": "嗯……",
+          "texts": {
+            "zh-Hans": "嗯……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 19,
+          "talkIndex": 18,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000011,
+            "targetTalkId": 21
+          },
+          "targetTalkId": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_56",
+          "text": "……",
+          "texts": {
+            "zh-Hans": "……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 20,
+          "talkIndex": 19,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000012,
+            "targetTalkId": 21
+          },
+          "targetTalkId": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_57",
+          "text": "如果我们能抓到伤痕……",
+          "texts": {
+            "zh-Hans": "如果我们能抓到伤痕……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 21,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_32",
+          "text": "啊啊，我实在搞不明白，令尹把漂泊者引向祈池村是为了什么？",
+          "texts": {
+            "zh-Hans": "啊啊，我实在搞不明白，令尹把漂泊者引向祈池村是为了什么？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 22,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_58",
+          "text": "伤痕甚至在那儿散布了一些误导的信息……",
+          "texts": {
+            "zh-Hans": "伤痕甚至在那儿散布了一些误导的信息……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_59",
+              "text": "或许，我们弄错了顺序。",
+              "texts": {
+                "zh-Hans": "或许，我们弄错了顺序。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 23,
+              "talkIndex": 22,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 23,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_33",
+          "text": "漂泊者的意思是……",
+          "texts": {
+            "zh-Hans": "漂泊者的意思是……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/23/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 24,
+          "talkIndex": 23,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/23/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_60",
+          "text": "残星会想把漂泊者引向祈池村，通过事件向漂泊者传递一些信息，令尹反而为后，是在提醒？",
+          "texts": {
+            "zh-Hans": "残星会想把漂泊者引向祈池村，通过事件向漂泊者传递一些信息，令尹反而为后，是在提醒？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_76",
+              "text": "那些信息，更像是伤痕的“布道”。",
+              "texts": {
+                "zh-Hans": "那些信息，更像是伤痕的“布道”。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 25,
+              "talkIndex": 24,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_61",
+              "text": "这算是一种“顺水推舟”？",
+              "texts": {
+                "zh-Hans": "这算是一种“顺水推舟”？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 25,
+              "talkIndex": 24,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_35",
+              "text": "她应该是事先知道的。",
+              "texts": {
+                "zh-Hans": "她应该是事先知道的。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 25,
+              "talkIndex": 24,
+              "optionIndex": 2,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/24/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 25,
+          "talkIndex": 24,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/24/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_77",
+          "text": "……",
+          "texts": {
+            "zh-Hans": "……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/25/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 26,
+          "talkIndex": 25,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/25/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_37",
+          "text": "令尹事先知道……残星会一定会把你引到那里，且残星会的人并不会真的伤害你。",
+          "texts": {
+            "zh-Hans": "令尹事先知道……残星会一定会把你引到那里，且残星会的人并不会真的伤害你。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/26/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 27,
+          "talkIndex": 26,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/26/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_38",
+          "text": "此举是在提醒你，残星会恐怕早就盯上你了。",
+          "texts": {
+            "zh-Hans": "此举是在提醒你，残星会恐怕早就盯上你了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_39",
+              "text": "而且，就算伤痕出了真招……",
+              "texts": {
+                "zh-Hans": "而且，就算伤痕出了真招……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 28,
+              "talkIndex": 27,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_40",
+              "text": "我们也不会有危险。",
+              "texts": {
+                "zh-Hans": "我们也不会有危险。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 28,
+              "talkIndex": 27,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/27/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 28,
+          "talkIndex": 27,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/27/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_41",
+          "text": "这又是为什么？",
+          "texts": {
+            "zh-Hans": "这又是为什么？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_42",
+              "text": "这不是今州的待客之道，不是吗？",
+              "texts": {
+                "zh-Hans": "这不是今州的待客之道，不是吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 29,
+              "talkIndex": 28,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000013,
+                "targetTalkId": 30
+              },
+              "targetTalkId": 30,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_43",
+              "text": "黑子落，白子必将举棋。",
+              "texts": {
+                "zh-Hans": "黑子落，白子必将举棋。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 29,
+              "talkIndex": 28,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000014,
+                "targetTalkId": 32
+              },
+              "targetTalkId": 32,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/28/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 29,
+          "talkIndex": 28,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/28/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_62",
+          "text": "啊，是说令尹早就在暗中安排了人保护漂泊者吗？",
+          "texts": {
+            "zh-Hans": "啊，是说令尹早就在暗中安排了人保护漂泊者吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/29/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 30,
+          "talkIndex": 29,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/29/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_63",
+          "text": "也许不是这种保护方式，但应该是有所安排的。",
+          "texts": {
+            "zh-Hans": "也许不是这种保护方式，但应该是有所安排的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/30/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 31,
+          "talkIndex": 30,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000015,
+            "targetTalkId": 33
+          },
+          "targetTalkId": 33,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/30/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_64",
+          "text": "是，令尹如果事先知道，必定有所行动。",
+          "texts": {
+            "zh-Hans": "是，令尹如果事先知道，必定有所行动。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_65",
+              "text": "……",
+              "texts": {
+                "zh-Hans": "……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 33,
+              "talkIndex": 32,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000017,
+                "targetTalkId": 34
+              },
+              "targetTalkId": 34,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_66",
+              "text": "同理，白子落定，黑子必跟。",
+              "texts": {
+                "zh-Hans": "同理，白子落定，黑子必跟。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 33,
+              "talkIndex": 32,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000018,
+                "targetTalkId": 35
+              },
+              "targetTalkId": 35,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/31/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 32,
+          "talkIndex": 31,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000016,
+            "targetTalkId": 33
+          },
+          "targetTalkId": 33,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/31/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_67",
+          "text": "怎么了？",
+          "texts": {
+            "zh-Hans": "怎么了？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/33/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 34,
+          "talkIndex": 33,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000019,
+            "targetTalkId": 36
+          },
+          "targetTalkId": 36,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/33/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 34,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_68",
+          "text": "我咋没大听懂漂泊者说的话啊。",
+          "texts": {
+            "zh-Hans": "我咋没大听懂漂泊者说的话啊。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_69",
+              "text": "没什么。",
+              "texts": {
+                "zh-Hans": "没什么。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 35,
+              "talkIndex": 34,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000020,
+                "targetTalkId": 36
+              },
+              "targetTalkId": 36,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/34/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 35,
+          "talkIndex": 34,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/34/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 35,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_70",
+          "text": "曾改变过今州历史的人、即将要复苏的鸣式引发的战争、暗流涌动的残星会......",
+          "texts": {
+            "zh-Hans": "曾改变过今州历史的人、即将要复苏的鸣式引发的战争、暗流涌动的残星会......"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/35/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 36,
+          "talkIndex": 35,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/35/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 36,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_71",
+          "text": "如果这些线索指向的都是你的身份，那么你，究竟是谁呢？",
+          "texts": {
+            "zh-Hans": "如果这些线索指向的都是你的身份，那么你，究竟是谁呢？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_44",
+              "text": "这个只能向令尹提问了。",
+              "texts": {
+                "zh-Hans": "这个只能向令尹提问了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 38,
+              "talkIndex": 37,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000021,
+                "targetTalkId": 41
+              },
+              "targetTalkId": 41,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_45",
+              "text": "我是漂泊者。",
+              "texts": {
+                "zh-Hans": "我是漂泊者。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 38,
+              "talkIndex": 37,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000022,
+                "targetTalkId": 39
+              },
+              "targetTalkId": 39,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/36/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 37,
+          "talkIndex": 36,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/36/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 37,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_46",
+          "text": "嗯，不管你的身份是什么，你依旧是漂泊者，我们认识的漂泊者。",
+          "texts": {
+            "zh-Hans": "嗯，不管你的身份是什么，你依旧是漂泊者，我们认识的漂泊者。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/38/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 39,
+          "talkIndex": 38,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/38/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 38,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_47",
+          "text": "还是那个能生吞残象、碳烤声骸的漂泊者！",
+          "texts": {
+            "zh-Hans": "还是那个能生吞残象、碳烤声骸的漂泊者！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/39/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 40,
+          "talkIndex": 39,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000023,
+            "targetTalkId": 41
+          },
+          "targetTalkId": 41,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/39/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 39,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_5_73_48",
+          "text": "这么看，信物的线索咱们已经调查得差不多了，只剩下那个日晷了吧。",
+          "texts": {
+            "zh-Hans": "这么看，信物的线索咱们已经调查得差不多了，只剩下那个日晷了吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/40/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 41,
+          "talkIndex": 40,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/40/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 40,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_49",
+          "text": "莫特斐先生说过，那个日晷实际上是个榫卯机关盒，里面或许有令尹真正想要告诉漂泊者的信息。",
+          "texts": {
+            "zh-Hans": "莫特斐先生说过，那个日晷实际上是个榫卯机关盒，里面或许有令尹真正想要告诉漂泊者的信息。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_72",
+              "text": "我们在研究院获得了时间的信息。",
+              "texts": {
+                "zh-Hans": "我们在研究院获得了时间的信息。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 42,
+              "talkIndex": 41,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000024,
+                "targetTalkId": 43
+              },
+              "targetTalkId": 43,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_5_73_73",
+              "text": "我们在祈池村获得了方位的信息。",
+              "texts": {
+                "zh-Hans": "我们在祈池村获得了方位的信息。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 42,
+              "talkIndex": 41,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000025,
+                "targetTalkId": 44
+              },
+              "targetTalkId": 44,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/41/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 42,
+          "talkIndex": 41,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/41/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 41,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_74",
+          "text": "十二时辰，<color=Highlight>未时</color>。",
+          "texts": {
+            "zh-Hans": "十二时辰，<color=Highlight>未时</color>。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/42/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 43,
+          "talkIndex": 42,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000026,
+            "targetTalkId": 45
+          },
+          "targetTalkId": 45,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/42/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 42,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_75",
+          "text": "南方，<color=Highlight>朱雀</color> 。",
+          "texts": {
+            "zh-Hans": "南方，<color=Highlight>朱雀</color> 。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/43/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 44,
+          "talkIndex": 43,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000027,
+            "targetTalkId": 45
+          },
+          "targetTalkId": 45,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/43/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 43,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_5_73_51",
+          "text": "<color=Highlight>未时，朱雀</color>，它们合起来所指向的，或许就是这个机关打开的关键吧。",
+          "texts": {
+            "zh-Hans": "<color=Highlight>未时，朱雀</color>，它们合起来所指向的，或许就是这个机关打开的关键吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/44/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣",
+            "flowId": 1,
+            "stateId": 1
+          },
+          "talkId": 45,
+          "talkIndex": 44,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000031/Data/1/Flow -> 剧情_新主线_CE版_第一章_第五幕_庭际刀刃鸣_1_1:/6/TalkItems/44/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 2
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2244 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1780000015",
+  "task_name": "月从今夜满",
+  "version": "1.2版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1780000015",
+  "fetched_at": "2026-10-27T11:01:48+08:00",
+  "source_sha256": "d3239c115dd52df859f7d12bfba71c3a5088ad80bf26c60b51c5500ed5bd4f7c",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 1,
+      "kind": "manual-override-node",
+      "title": "接听秧秧的通讯",
+      "titles": {
+        "zh-Hans": "接听秧秧的通讯"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-7",
+      "sourceNodeKey": "node:6",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_V1.2追月节主线明线",
+          "flowId": 24,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_1_1",
+          "text": "漂泊者，是我，秧秧。",
+          "texts": {
+            "zh-Hans": "漂泊者，是我，秧秧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_1_2",
+          "text": "最近怎么样？在今州的生活还适应吗？有需要的话，要记得来找我。",
+          "texts": {
+            "zh-Hans": "最近怎么样？在今州的生活还适应吗？有需要的话，要记得来找我。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_3",
+          "text": "哎呀秧秧！你怎么说话拐弯抹角的，想见漂泊者，直接把{TA}喊出来不就好了嘛。",
+          "texts": {
+            "zh-Hans": "哎呀秧秧！你怎么说话拐弯抹角的，想见漂泊者，直接把{TA}喊出来不就好了嘛。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_4",
+          "text": "漂泊者，你这几天去哪儿了啊？没有我们几个，肯定都快要闷坏了吧。",
+          "texts": {
+            "zh-Hans": "漂泊者，你这几天去哪儿了啊？没有我们几个，肯定都快要闷坏了吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_5",
+          "text": "想不想看烟花？想不想玩射月壶？正好快要过节了，我们带你去个好地方。",
+          "texts": {
+            "zh-Hans": "想不想看烟花？想不想玩射月壶？正好快要过节了，我们带你去个好地方。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_1_6",
+              "text": "过节？",
+              "texts": {
+                "zh-Hans": "过节？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_1_7",
+          "text": "嗯，过些天就是追月节了。",
+          "texts": {
+            "zh-Hans": "嗯，过些天就是追月节了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_1_8",
+          "text": "虽然瑝珑年年都有过追月的传统，但是经历了这么多的事，今年今州的追月节，一定很特别吧。",
+          "texts": {
+            "zh-Hans": "虽然瑝珑年年都有过追月的传统，但是经历了这么多的事，今年今州的追月节，一定很特别吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_9",
+          "text": "没错没错，我看边庭准备了不少花灯呢。到时候大街小巷都张灯结彩的，光是想想那个场面……嗨呀，我都要等不及了。",
+          "texts": {
+            "zh-Hans": "没错没错，我看边庭准备了不少花灯呢。到时候大街小巷都张灯结彩的，光是想想那个场面……嗨呀，我都要等不及了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_10",
+          "text": "而且咱们今州还有别处都体验不到的活动。",
+          "texts": {
+            "zh-Hans": "而且咱们今州还有别处都体验不到的活动。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_11",
+          "text": "比如节前几天，大家都会去桃源乡，将自己的心愿写在纸笺上，然后挂在高高的树枝上，或是投到树洞里。",
+          "texts": {
+            "zh-Hans": "比如节前几天，大家都会去桃源乡，将自己的心愿写在纸笺上，然后挂在高高的树枝上，或是投到树洞里。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_16",
+          "text": "据说在这两天许下的愿望都会实现的，灵验得不得了。",
+          "texts": {
+            "zh-Hans": "据说在这两天许下的愿望都会实现的，灵验得不得了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_12",
+          "text": "漂泊者也来试试呗？简简单单许个愿，稳赚不赔！我、秧秧还有白芷都在呢。",
+          "texts": {
+            "zh-Hans": "漂泊者也来试试呗？简简单单许个愿，稳赚不赔！我、秧秧还有白芷都在呢。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_1_13",
+              "text": "我来找你们。",
+              "texts": {
+                "zh-Hans": "我来找你们。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 12,
+              "talkIndex": 11,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_14",
+          "text": "好耶！",
+          "texts": {
+            "zh-Hans": "好耶！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_1_15",
+          "text": "那我们说定了，在桃源乡等你哦。",
+          "texts": {
+            "zh-Hans": "那我们说定了，在桃源乡等你哦。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/Condition/Flow -> 剧情_V1.2追月节主线明线_24_1:/5/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 1
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 2,
+      "kind": "manual-override-node",
+      "title": "找到秧秧、炽霞、白芷",
+      "titles": {
+        "zh-Hans": "找到秧秧、炽霞、白芷"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-2",
+      "sourceNodeKey": "node:1",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_V1.2追月节主线明线",
+          "flowId": 3,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_1",
+          "text": "漂泊者，这里这里！",
+          "texts": {
+            "zh-Hans": "漂泊者，这里这里！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_2",
+          "text": "这段时间你跑哪里去了啊？嘿嘿，有没有想我们？",
+          "texts": {
+            "zh-Hans": "这段时间你跑哪里去了啊？嘿嘿，有没有想我们？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_3",
+          "text": "还有还有，都遇上什么事了？全新漂泊者的奇妙冒险，快讲来听听。",
+          "texts": {
+            "zh-Hans": "还有还有，都遇上什么事了？全新漂泊者的奇妙冒险，快讲来听听。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": null,
+          "textKey": "zhuiyuejie_first_5_4",
+          "text": "你将乘霄山发生的事告知了秧秧、炽霞以及白芷。",
+          "texts": {
+            "zh-Hans": "你将乘霄山发生的事告知了秧秧、炽霞以及白芷。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_5",
+          "text": "原来——原来——乘霄山那件轰动全今州，不，轰动全瑝珑的大事，是漂泊者做的啊！",
+          "texts": {
+            "zh-Hans": "原来——原来——乘霄山那件轰动全今州，不，轰动全瑝珑的大事，是漂泊者做的啊！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_6",
+          "text": "不愧是你！",
+          "texts": {
+            "zh-Hans": "不愧是你！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_7",
+              "text": "我只是一个参与者。",
+              "texts": {
+                "zh-Hans": "我只是一个参与者。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 6,
+              "talkIndex": 5,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000086,
+                "targetTalkId": 7
+              },
+              "targetTalkId": 7,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_8",
+              "text": "没错，正是在下。",
+              "texts": {
+                "zh-Hans": "没错，正是在下。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 6,
+              "talkIndex": 5,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000094,
+                "targetTalkId": 8
+              },
+              "targetTalkId": 8,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "白芷",
+          "speakers": {
+            "zh-Hans": "白芷"
+          },
+          "speakerId": 877,
+          "textKey": "zhuiyuejie_first_5_9",
+          "text": "鸣式败阵、岁主与令尹各复其位。今州的将来，想必会重归和乐太平。",
+          "texts": {
+            "zh-Hans": "鸣式败阵、岁主与令尹各复其位。今州的将来，想必会重归和乐太平。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000172,
+            "targetTalkId": 9
+          },
+          "targetTalkId": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "白芷",
+          "speakers": {
+            "zh-Hans": "白芷"
+          },
+          "speakerId": 877,
+          "textKey": "zhuiyuejie_first_5_55",
+          "text": "鸣式败阵、岁主与令尹各复其位。今州的将来，想必会重归和乐太平。",
+          "texts": {
+            "zh-Hans": "鸣式败阵、岁主与令尹各复其位。今州的将来，想必会重归和乐太平。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000173,
+            "targetTalkId": 9
+          },
+          "targetTalkId": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_5_10",
+          "text": "是啊，而且漂泊者还从岁主那里了解到了自己失去记忆前的事，虽然还有很多谜团，但一切都在往好的方向发展。",
+          "texts": {
+            "zh-Hans": "是啊，而且漂泊者还从岁主那里了解到了自己失去记忆前的事，虽然还有很多谜团，但一切都在往好的方向发展。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_11",
+          "text": "终——于——可以开开心心过个节了！",
+          "texts": {
+            "zh-Hans": "终——于——可以开开心心过个节了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_12",
+          "text": "诶，漂泊者，趁着追月节，我们好好庆祝一下吧。",
+          "texts": {
+            "zh-Hans": "诶，漂泊者，趁着追月节，我们好好庆祝一下吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_13",
+          "text": "你、我、秧秧、白芷，咱们四个一起过追月节，到时候一块儿吃甜甜的点心、看圆圆的月亮。",
+          "texts": {
+            "zh-Hans": "你、我、秧秧、白芷，咱们四个一起过追月节，到时候一块儿吃甜甜的点心、看圆圆的月亮。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_14",
+          "text": "还有宵月会！啊，就是今州特有的游园会，只在追月节当天的晚上才有呢，市集上吃的、喝的、玩的、看的数都数不清！",
+          "texts": {
+            "zh-Hans": "还有宵月会！啊，就是今州特有的游园会，只在追月节当天的晚上才有呢，市集上吃的、喝的、玩的、看的数都数不清！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_15",
+          "text": "等我带你去宵月会瞧全今州最大、最漂亮的花灯！我知道一个很不错的位置，视野超棒！",
+          "texts": {
+            "zh-Hans": "等我带你去宵月会瞧全今州最大、最漂亮的花灯！我知道一个很不错的位置，视野超棒！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_5_16",
+          "text": "这个提议好，漂泊者，和我们一同过节吧。追月节那天晚上，一定会有更多有趣的事。",
+          "texts": {
+            "zh-Hans": "这个提议好，漂泊者，和我们一同过节吧。追月节那天晚上，一定会有更多有趣的事。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "白芷",
+          "speakers": {
+            "zh-Hans": "白芷"
+          },
+          "speakerId": 877,
+          "textKey": "zhuiyuejie_first_5_53",
+          "text": "嗯，今州的大家都会来，应该能见到不少熟悉的人。",
+          "texts": {
+            "zh-Hans": "嗯，今州的大家都会来，应该能见到不少熟悉的人。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_51",
+              "text": "听上去很让人期待。",
+              "texts": {
+                "zh-Hans": "听上去很让人期待。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 16,
+              "talkIndex": 15,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_52",
+          "text": "那一言为定！我炽霞拍胸脯保证，有我们几个在，今年的追月节绝对气氛拉满，让你想忘也忘不掉！",
+          "texts": {
+            "zh-Hans": "那一言为定！我炽霞拍胸脯保证，有我们几个在，今年的追月节绝对气氛拉满，让你想忘也忘不掉！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_18",
+          "text": "哎呀，对了对了，光顾着说别的，差点忘记叫你去祈愿树那里许愿了。",
+          "texts": {
+            "zh-Hans": "哎呀，对了对了，光顾着说别的，差点忘记叫你去祈愿树那里许愿了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_19",
+          "text": "这可是今天一等一的“大事”！",
+          "texts": {
+            "zh-Hans": "这可是今天一等一的“大事”！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_20",
+              "text": "“大事”？",
+              "texts": {
+                "zh-Hans": "“大事”？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 19,
+              "talkIndex": 18,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 19,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_21",
+          "text": "对啊，之前不是和你说了来着，追月节前在祈愿树下许愿求福可是很灵的。",
+          "texts": {
+            "zh-Hans": "对啊，之前不是和你说了来着，追月节前在祈愿树下许愿求福可是很灵的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 20,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_5_22",
+          "text": "确实是有这种说法……尤其是这些年，大家在追月节前夕许下的愿望，似乎真的在以这样或那样的方式实现着。",
+          "texts": {
+            "zh-Hans": "确实是有这种说法……尤其是这些年，大家在追月节前夕许下的愿望，似乎真的在以这样或那样的方式实现着。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 21,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_23",
+          "text": "我记得有一年，今州下了好久的雨，秧秧还祈愿说希望追月节那晚是个晴天，宵月会能办得顺顺利利的。",
+          "texts": {
+            "zh-Hans": "我记得有一年，今州下了好久的雨，秧秧还祈愿说希望追月节那晚是个晴天，宵月会能办得顺顺利利的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 22,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_24",
+          "text": "结果到了追月节的晚上，天气竟然真的放晴了，月亮好圆好大的呢。",
+          "texts": {
+            "zh-Hans": "结果到了追月节的晚上，天气竟然真的放晴了，月亮好圆好大的呢。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 23,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_5_25",
+          "text": "是有这件事没错。我本来也只是抱着试一试的念头，没想到却误打误撞地心愿成真了。",
+          "texts": {
+            "zh-Hans": "是有这件事没错。我本来也只是抱着试一试的念头，没想到却误打误撞地心愿成真了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/23/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 24,
+          "talkIndex": 23,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/23/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_5_26",
+          "text": "不知道这是不是个美好的巧合？可太多这样的巧合都出现在了追月节。也许，祈愿树真的有着某种会让人幸福的力量吧。",
+          "texts": {
+            "zh-Hans": "不知道这是不是个美好的巧合？可太多这样的巧合都出现在了追月节。也许，祈愿树真的有着某种会让人幸福的力量吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/24/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 25,
+          "talkIndex": 24,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/24/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_27",
+          "text": "说不定……有个做好事不留名的“幕后英雄”，悄悄藏在了祈愿树后面，努力在帮我们达成心愿呢！",
+          "texts": {
+            "zh-Hans": "说不定……有个做好事不留名的“幕后英雄”，悄悄藏在了祈愿树后面，努力在帮我们达成心愿呢！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/25/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 26,
+          "talkIndex": 25,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/25/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_28",
+          "text": "就像漂泊者一样，悄无声息地又拯救了一次世界。下一季新上的今州英雄戏里，没你我不看。",
+          "texts": {
+            "zh-Hans": "就像漂泊者一样，悄无声息地又拯救了一次世界。下一季新上的今州英雄戏里，没你我不看。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/26/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 27,
+          "talkIndex": 26,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/26/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_29",
+          "text": "好啦，你要再不去许愿，我这张管不住的嘴等下又要叽里呱啦说一通了。",
+          "texts": {
+            "zh-Hans": "好啦，你要再不去许愿，我这张管不住的嘴等下又要叽里呱啦说一通了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/27/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 28,
+          "talkIndex": 27,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/27/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_30",
+          "text": "祈愿树就在前面，快去快去。",
+          "texts": {
+            "zh-Hans": "祈愿树就在前面，快去快去。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_31",
+              "text": "你们不去吗？",
+              "texts": {
+                "zh-Hans": "你们不去吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 29,
+              "talkIndex": 28,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/28/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 29,
+          "talkIndex": 28,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/28/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_32",
+          "text": "我们都许过愿啦。",
+          "texts": {
+            "zh-Hans": "我们都许过愿啦。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/29/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 30,
+          "talkIndex": 29,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/29/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_33",
+          "text": "我今年的愿望是在宵月会上支的摊子能红红火火，大伙玩得高兴。",
+          "texts": {
+            "zh-Hans": "我今年的愿望是在宵月会上支的摊子能红红火火，大伙玩得高兴。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/30/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 31,
+          "talkIndex": 30,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/30/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_34",
+          "text": "秧秧的心愿嘛，是希望大家平安喜乐，阖家团圆。",
+          "texts": {
+            "zh-Hans": "秧秧的心愿嘛，是希望大家平安喜乐，阖家团圆。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_35",
+              "text": "白芷呢？",
+              "texts": {
+                "zh-Hans": "白芷呢？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 32,
+              "talkIndex": 31,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/31/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 32,
+          "talkIndex": 31,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/31/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_36",
+          "text": "她啊，她对许愿……没啥兴趣。",
+          "texts": {
+            "zh-Hans": "她啊，她对许愿……没啥兴趣。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/32/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 33,
+          "talkIndex": 32,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/32/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 34,
+          "speaker": "白芷",
+          "speakers": {
+            "zh-Hans": "白芷"
+          },
+          "speakerId": 877,
+          "textKey": "zhuiyuejie_first_5_37",
+          "text": "不用在意，只是习惯使然。不过，若真要许愿，我的愿望大概会和秧秧一样。",
+          "texts": {
+            "zh-Hans": "不用在意，只是习惯使然。不过，若真要许愿，我的愿望大概会和秧秧一样。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/33/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 34,
+          "talkIndex": 33,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/33/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 35,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_38",
+          "text": "喏，漂泊者，现在可就差你了。诶，不对，阿布那小家伙呢？去祈愿树的话，可不能落下它。",
+          "texts": {
+            "zh-Hans": "喏，漂泊者，现在可就差你了。诶，不对，阿布那小家伙呢？去祈愿树的话，可不能落下它。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_39",
+              "text": "阿布，有人找。",
+              "texts": {
+                "zh-Hans": "阿布，有人找。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 35,
+              "talkIndex": 34,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_40",
+              "text": "阿布，起床了。",
+              "texts": {
+                "zh-Hans": "阿布，起床了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 35,
+              "talkIndex": 34,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/34/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 35,
+          "talkIndex": 34,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/34/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 36,
+          "speaker": "阿布",
+          "speakers": {
+            "zh-Hans": "阿布"
+          },
+          "speakerId": 1316,
+          "textKey": "zhuiyuejie_first_5_41",
+          "text": "呼——呵欠——啊，谁找我……什么事……",
+          "texts": {
+            "zh-Hans": "呼——呵欠——啊，谁找我……什么事……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_42",
+              "text": "我们一起去祈愿树许愿？",
+              "texts": {
+                "zh-Hans": "我们一起去祈愿树许愿？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 36,
+              "talkIndex": 35,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/35/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 36,
+          "talkIndex": 35,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/35/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 37,
+          "speaker": "阿布",
+          "speakers": {
+            "zh-Hans": "阿布"
+          },
+          "speakerId": 1316,
+          "textKey": "zhuiyuejie_first_5_43",
+          "text": "许……许愿啊……好困……帮我许好嘛……",
+          "texts": {
+            "zh-Hans": "许……许愿啊……好困……帮我许好嘛……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/36/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 37,
+          "talkIndex": 36,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/36/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 38,
+          "speaker": "阿布",
+          "speakers": {
+            "zh-Hans": "阿布"
+          },
+          "speakerId": 1316,
+          "textKey": "zhuiyuejie_first_5_44",
+          "text": "我要……好多好多好吃的……再也不饿肚子……",
+          "texts": {
+            "zh-Hans": "我要……好多好多好吃的……再也不饿肚子……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_45",
+              "text": "好吧，你继续休息吧。",
+              "texts": {
+                "zh-Hans": "好吧，你继续休息吧。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 38,
+              "talkIndex": 37,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_46",
+              "text": "那算了，你继续休息吧。",
+              "texts": {
+                "zh-Hans": "那算了，你继续休息吧。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 38,
+              "talkIndex": 37,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/37/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 38,
+          "talkIndex": 37,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/37/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 39,
+          "speaker": "阿布",
+          "speakers": {
+            "zh-Hans": "阿布"
+          },
+          "speakerId": 1316,
+          "textKey": "zhuiyuejie_first_5_47",
+          "text": "呼——哧——",
+          "texts": {
+            "zh-Hans": "呼——哧——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/38/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 39,
+          "talkIndex": 38,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/38/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 40,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_54",
+          "text": "阿布它说了什么？",
+          "texts": {
+            "zh-Hans": "阿布它说了什么？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/39/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 40,
+          "talkIndex": 39,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/39/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 41,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "zhuiyuejie_first_5_48",
+          "text": "去过祈愿树后，漂泊者可以来宵月会的市集看看，我和炽霞正在为当晚的游园活动做准备。",
+          "texts": {
+            "zh-Hans": "去过祈愿树后，漂泊者可以来宵月会的市集看看，我和炽霞正在为当晚的游园活动做准备。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/40/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 41,
+          "talkIndex": 40,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/40/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 42,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "zhuiyuejie_first_5_49",
+          "text": "嘿嘿，我在射月壶的摊子那里给清溪姐帮忙，虽说还没布置好，但带你提前参观参观还是没问题的。",
+          "texts": {
+            "zh-Hans": "嘿嘿，我在射月壶的摊子那里给清溪姐帮忙，虽说还没布置好，但带你提前参观参观还是没问题的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "zhuiyuejie_first_5_50",
+              "text": "好，我记下了。",
+              "texts": {
+                "zh-Hans": "好，我记下了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 42,
+              "talkIndex": 41,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/41/TidTalk",
+          "flow": {
+            "flowListName": "剧情_V1.2追月节主线明线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 42,
+          "talkIndex": 41,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_V1.2追月节主线明线_3_1:/4/TalkItems/41/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 1
+          }
+        ]
+      }
+    }
+  ]
+}

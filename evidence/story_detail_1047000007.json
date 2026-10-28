@@ -1,0 +1,845 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1047000007",
+  "task_name": "紧急事件：核心危机",
+  "version": "3.5版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1047000007",
+  "fetched_at": "2026-10-27T11:01:03+08:00",
+  "source_sha256": "b9d51b1a1782d76757bfe77ca24dfa655c20fcbbf381ce65a8b6b96e17017b80",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 3,
+      "kind": "node",
+      "title": "前往井栈进行支援",
+      "titleKey": "Quest_147000007_ChildQuestTip_147_38",
+      "titles": {
+        "zh-Hans": "前往井栈进行支援"
+      },
+      "isHideUi": false,
+      "nodeId": 45,
+      "parentNodeId": 46,
+      "nodeType": "ChildQuest",
+      "sourceOrder": 23847,
+      "embeddedOrderPath": [],
+      "embeddedOrderSource": "",
+      "flows": [
+        {
+          "flowListName": "剧情_通缉poi主线",
+          "flowId": 30,
+          "stateId": 1
+        },
+        {
+          "flowListName": "剧情_通缉poi主线",
+          "flowId": 32,
+          "stateId": 1
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "卫宁（通讯中）",
+          "speakers": {
+            "zh-Hans": "卫宁（通讯中）"
+          },
+          "speakerId": 350300,
+          "textKey": "Side_YJYAHXWJ_27_1",
+          "text": "——漂泊者！残星会正在进攻四鸣井。",
+          "texts": {
+            "zh-Hans": "——漂泊者！残星会正在进攻四鸣井。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/EnterActions/1/Params -> 剧情_通缉poi主线_30_1:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 30,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0
+        },
+        {
+          "id": 2,
+          "speaker": "卫宁（通讯中）",
+          "speakers": {
+            "zh-Hans": "卫宁（通讯中）"
+          },
+          "speakerId": 350300,
+          "textKey": "Side_YJYAHXWJ_27_2",
+          "text": "咳……目前我们还在交战，但敌人的数量太多了，我们——",
+          "texts": {
+            "zh-Hans": "咳……目前我们还在交战，但敌人的数量太多了，我们——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/EnterActions/1/Params -> 剧情_通缉poi主线_30_1:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 30,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1
+        },
+        {
+          "id": 3,
+          "speaker": "秧秧（通讯中）",
+          "speakers": {
+            "zh-Hans": "秧秧（通讯中）"
+          },
+          "speakerId": 1007,
+          "textKey": "Side_YJYAHXWJ_27_3",
+          "text": "——卫宁小姐！请你们稍作休整，这边就交给我！",
+          "texts": {
+            "zh-Hans": "——卫宁小姐！请你们稍作休整，这边就交给我！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/EnterActions/1/Params -> 剧情_通缉poi主线_30_1:/1/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 30,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2
+        },
+        {
+          "id": 4,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Side_YJYAHXWJ_27_4",
+          "text": "（残星会的目标果然是四鸣井。还好，秧秧赶到得很及时。）",
+          "texts": {
+            "zh-Hans": "（残星会的目标果然是四鸣井。还好，秧秧赶到得很及时。）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/EnterActions/1/Params -> 剧情_通缉poi主线_30_1:/1/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 30,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3
+        },
+        {
+          "id": 5,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Side_YJYAHXWJ_27_5",
+          "text": "坚持住，我很快就到。",
+          "texts": {
+            "zh-Hans": "坚持住，我很快就到。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/EnterActions/1/Params -> 剧情_通缉poi主线_30_1:/1/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 30,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4
+        },
+        {
+          "id": 6,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_1",
+          "text": "你们的英勇和顽强……让我们印象深刻。但你们本不需要如此。",
+          "texts": {
+            "zh-Hans": "你们的英勇和顽强……让我们印象深刻。但你们本不需要如此。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0
+        },
+        {
+          "id": 7,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_2",
+          "text": "放下武器，把四鸣井交给我们。",
+          "texts": {
+            "zh-Hans": "放下武器，把四鸣井交给我们。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1
+        },
+        {
+          "id": 8,
+          "speaker": "卫宁",
+          "speakers": {
+            "zh-Hans": "卫宁"
+          },
+          "speakerId": 350301,
+          "textKey": "Side_YJYAHXWJ_29_3",
+          "text": "休想！只要有我们在，你们就别想前进一步！",
+          "texts": {
+            "zh-Hans": "休想！只要有我们在，你们就别想前进一步！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Side_YJYAHXWJ_29_4",
+          "text": "……我和他们打过交道，卫宁小姐。他们是不会……这么好心的。",
+          "texts": {
+            "zh-Hans": "……我和他们打过交道，卫宁小姐。他们是不会……这么好心的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3
+        },
+        {
+          "id": 10,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_5",
+          "text": "可能我说得不够清楚。我们本不想和你们敌对，我们只是想要……回家。想要离开这个牢笼。",
+          "texts": {
+            "zh-Hans": "可能我说得不够清楚。我们本不想和你们敌对，我们只是想要……回家。想要离开这个牢笼。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Side_YJYAHXWJ_29_6",
+              "text": "回家？",
+              "texts": {
+                "zh-Hans": "回家？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 0
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4
+        },
+        {
+          "id": 11,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_7",
+          "text": "啊，是漂泊者。我听到了很多关于你的消息。我想……你和他们不一样，也许你能和我们谈谈。",
+          "texts": {
+            "zh-Hans": "啊，是漂泊者。我听到了很多关于你的消息。我想……你和他们不一样，也许你能和我们谈谈。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5
+        },
+        {
+          "id": 12,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_8",
+          "text": "听说你在今州、黎那汐塔和拉海洛，给了他们不小的“照顾”。",
+          "texts": {
+            "zh-Hans": "听说你在今州、黎那汐塔和拉海洛，给了他们不小的“照顾”。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Side_YJYAHXWJ_29_9",
+              "text": "等等……“他们？”",
+              "texts": {
+                "zh-Hans": "等等……“他们？”"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 7,
+              "talkIndex": 6,
+              "optionIndex": 0
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6
+        },
+        {
+          "id": 13,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Side_YJYAHXWJ_29_10",
+          "text": "按照我对残星会的了解，如果你说的是那些我打过交道的残星会的话，应该会用“我们”吧。",
+          "texts": {
+            "zh-Hans": "按照我对残星会的了解，如果你说的是那些我打过交道的残星会的话，应该会用“我们”吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7
+        },
+        {
+          "id": 14,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_11",
+          "text": "……哼。本该如此。但他们将我们抛弃在这个腐朽的囚牢里……就像关在万囮牢里的卑贱残象。",
+          "texts": {
+            "zh-Hans": "……哼。本该如此。但他们将我们抛弃在这个腐朽的囚牢里……就像关在万囮牢里的卑贱残象。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8
+        },
+        {
+          "id": 15,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_12",
+          "text": "我们也期待过，期待自己能够完成那所谓的使命，期待他们兑现那关于无上力量的承诺。",
+          "texts": {
+            "zh-Hans": "我们也期待过，期待自己能够完成那所谓的使命，期待他们兑现那关于无上力量的承诺。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9
+        },
+        {
+          "id": 16,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_13",
+          "text": "我们用斗篷遮挡自己的身躯，在城中像老鼠一样四处躲藏，想要探寻关于此地岁主的秘密。",
+          "texts": {
+            "zh-Hans": "我们用斗篷遮挡自己的身躯，在城中像老鼠一样四处躲藏，想要探寻关于此地岁主的秘密。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10
+        },
+        {
+          "id": 17,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_14",
+          "text": "但他们并没有如承诺中那样来接我们。我们等了很久，一天天，一年年……",
+          "texts": {
+            "zh-Hans": "但他们并没有如承诺中那样来接我们。我们等了很久，一天天，一年年……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11
+        },
+        {
+          "id": 18,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_15",
+          "text": "那个叫木禺的家伙，还以为我们会甘愿充当诱饵，为他那个愚蠢的计划进行掩护。",
+          "texts": {
+            "zh-Hans": "那个叫木禺的家伙，还以为我们会甘愿充当诱饵，为他那个愚蠢的计划进行掩护。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 12
+        },
+        {
+          "id": 19,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_16",
+          "text": "……这也让我们意识到，无论是会监，还是别的什么……都只是想把我们当成傀儡罢了。",
+          "texts": {
+            "zh-Hans": "……这也让我们意识到，无论是会监，还是别的什么……都只是想把我们当成傀儡罢了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 13
+        },
+        {
+          "id": 20,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_17",
+          "text": "我们无意和你们为敌，也不想妄造杀孽。我们只想……离开这座牢笼，然后回家。",
+          "texts": {
+            "zh-Hans": "我们无意和你们为敌，也不想妄造杀孽。我们只想……离开这座牢笼，然后回家。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 14
+        },
+        {
+          "id": 21,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Side_YJYAHXWJ_29_18",
+          "text": "……别听她的，漂泊者！他们……他们可是对玄方城……",
+          "texts": {
+            "zh-Hans": "……别听她的，漂泊者！他们……他们可是对玄方城……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 15
+        },
+        {
+          "id": 22,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_19",
+          "text": "我们已经很收敛了。只是尽可能把动静闹大，并没有肆意屠戮，甚至有意不伤害人命。",
+          "texts": {
+            "zh-Hans": "我们已经很收敛了。只是尽可能把动静闹大，并没有肆意屠戮，甚至有意不伤害人命。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 16
+        },
+        {
+          "id": 23,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_20",
+          "text": "我们和木禺，或是那些残星会的行为方式……并不一样。",
+          "texts": {
+            "zh-Hans": "我们和木禺，或是那些残星会的行为方式……并不一样。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 17
+        },
+        {
+          "id": 24,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Side_YJYAHXWJ_29_21",
+          "text": "……",
+          "texts": {
+            "zh-Hans": "……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Side_YJYAHXWJ_29_22",
+              "text": "（抽出剑。）",
+              "texts": {
+                "zh-Hans": "（抽出剑。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 19,
+              "talkIndex": 18,
+              "optionIndex": 0
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Side_YJYAHXWJ_29_23",
+              "text": "（抽出剑。）",
+              "texts": {
+                "zh-Hans": "（抽出剑。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 19,
+              "talkIndex": 18,
+              "optionIndex": 1
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Side_YJYAHXWJ_29_24",
+              "text": "（抽出剑。）",
+              "texts": {
+                "zh-Hans": "（抽出剑。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 19,
+              "talkIndex": 18,
+              "optionIndex": 2
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 19,
+          "talkIndex": 18
+        },
+        {
+          "id": 25,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_25",
+          "text": "……你从不会相信我们这种人，漂泊者。这是个……可悲的弱点。",
+          "texts": {
+            "zh-Hans": "……你从不会相信我们这种人，漂泊者。这是个……可悲的弱点。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 20,
+          "talkIndex": 19
+        },
+        {
+          "id": 26,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_26",
+          "text": "原本我们可以用和平的方式解决这件事的。但现在——",
+          "texts": {
+            "zh-Hans": "原本我们可以用和平的方式解决这件事的。但现在——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 21,
+          "talkIndex": 20
+        },
+        {
+          "id": 27,
+          "speaker": "残星会首领",
+          "speakers": {
+            "zh-Hans": "残星会首领"
+          },
+          "speakerId": 750561,
+          "textKey": "Side_YJYAHXWJ_29_27",
+          "text": "——上！拦住漂泊者！其他人，去破坏四鸣井！",
+          "texts": {
+            "zh-Hans": "——上！拦住漂泊者！其他人，去破坏四鸣井！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/3/Params -> 剧情_通缉poi主线_32_1:/2/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          },
+          "talkId": 22,
+          "talkIndex": 21
+        }
+      ],
+      "rebuildV2Source": "QuestNodeData",
+      "legacyOrderKey": [
+        2,
+        -1,
+        -1,
+        23847
+      ],
+      "legacyOrderSource": "legacy-detail-node-order-calibration",
+      "orderIndex": 3,
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "QuestNodeData",
+        "flowCount": 2,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "legacy-detail-node-order-calibration",
+            "strength": "calibrated-supplement",
+            "path": [
+              2,
+              -1,
+              -1,
+              23847
+            ],
+            "source": "legacy-detail-node-order-calibration"
+          },
+          {
+            "type": "flow-state-linear-order",
+            "strength": "hard-within-flow",
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 30,
+            "stateId": 1
+          },
+          {
+            "type": "flow-state-linear-order",
+            "strength": "hard-within-flow",
+            "flowListName": "剧情_通缉poi主线",
+            "flowId": 32,
+            "stateId": 1
+          }
+        ]
+      },
+      "orderConfidence": "medium-high"
+    }
+  ]
+}

@@ -1,0 +1,2412 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1092750000",
+  "task_name": "玄翎振壑定澜音",
+  "version": "3.5版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1092750000",
+  "fetched_at": "2026-10-27T11:01:39+08:00",
+  "source_sha256": "61c0307615f23aee658241559668d44e54cf3f76da8831ffddb8cf01ff89ecb3",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 1,
+      "kind": "manual-override-node",
+      "title": "在附近与白芷通讯",
+      "titles": {
+        "zh-Hans": "在附近与白芷通讯"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-2",
+      "sourceNodeKey": "node:1",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_3_5_后日谈梦州",
+          "flowId": 4,
+          "stateId": 1,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_3_5_后日谈梦州",
+          "flowId": 5,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_472_29",
+          "text": "那个，白芷——",
+          "texts": {
+            "zh-Hans": "那个，白芷——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "炽霞的声音",
+          "speakers": {
+            "zh-Hans": "炽霞的声音"
+          },
+          "speakerId": 350144,
+          "textKey": "Main_HuangLong_XLZHDLY_472_30",
+          "text": "白芷！你联系上秧秧他们了吗？太好了！秧秧、漂泊者，你们听得见我说话——",
+          "texts": {
+            "zh-Hans": "白芷！你联系上秧秧他们了吗？太好了！秧秧、漂泊者，你们听得见我说话——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "折枝的声音",
+          "speakers": {
+            "zh-Hans": "折枝的声音"
+          },
+          "speakerId": 700041,
+          "textKey": "Main_HuangLong_XLZHDLY_472_26",
+          "text": "炽炽炽炽霞！？你没事吧！？白芷小姐，炽霞从床上摔下去了！",
+          "texts": {
+            "zh-Hans": "炽炽炽炽霞！？你没事吧！？白芷小姐，炽霞从床上摔下去了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "白芷（通讯中）",
+          "speakers": {
+            "zh-Hans": "白芷（通讯中）"
+          },
+          "speakerId": 1000,
+          "textKey": "Main_HuangLong_XLZHDLY_472_27",
+          "text": "……你伤还没完全好，这么激动干什么？",
+          "texts": {
+            "zh-Hans": "……你伤还没完全好，这么激动干什么？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "炽霞的声音",
+          "speakers": {
+            "zh-Hans": "炽霞的声音"
+          },
+          "speakerId": 350144,
+          "textKey": "Main_HuangLong_XLZHDLY_472_28",
+          "text": "你还说我白芷！你不也——唔——",
+          "texts": {
+            "zh-Hans": "你还说我白芷！你不也——唔——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "白芷（通讯中）",
+          "speakers": {
+            "zh-Hans": "白芷（通讯中）"
+          },
+          "speakerId": 1000,
+          "textKey": "Main_HuangLong_XLZHDLY_472_31",
+          "text": "……好了，乖乖养伤。",
+          "texts": {
+            "zh-Hans": "……好了，乖乖养伤。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_XLZHDLY_472_49",
+          "text": "似乎很热闹的样子。",
+          "texts": {
+            "zh-Hans": "似乎很热闹的样子。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_472_32",
+          "text": "啊哈哈……",
+          "texts": {
+            "zh-Hans": "啊哈哈……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "白芷（通讯中）",
+          "speakers": {
+            "zh-Hans": "白芷（通讯中）"
+          },
+          "speakerId": 1000,
+          "textKey": "Main_HuangLong_XLZHDLY_472_33",
+          "text": "你们也听到了，不必担心炽霞，再过几天，她应该就又能活蹦乱跳了。",
+          "texts": {
+            "zh-Hans": "你们也听到了，不必担心炽霞，再过几天，她应该就又能活蹦乱跳了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "白芷（通讯中）",
+          "speakers": {
+            "zh-Hans": "白芷（通讯中）"
+          },
+          "speakerId": 1000,
+          "textKey": "Main_HuangLong_XLZHDLY_472_34",
+          "text": "秧秧，漂泊者，虽然不知道你们这几天在玄方城经历了什么……",
+          "texts": {
+            "zh-Hans": "秧秧，漂泊者，虽然不知道你们这几天在玄方城经历了什么……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "白芷（通讯中）",
+          "speakers": {
+            "zh-Hans": "白芷（通讯中）"
+          },
+          "speakerId": 1000,
+          "textKey": "Main_HuangLong_XLZHDLY_472_35",
+          "text": "不过，看到你们平安无恙，就足够了。",
+          "texts": {
+            "zh-Hans": "不过，看到你们平安无恙，就足够了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_472_36",
+          "text": "……对不起，我害大家担心了。",
+          "texts": {
+            "zh-Hans": "……对不起，我害大家担心了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "相里要（通讯中）",
+          "speakers": {
+            "zh-Hans": "相里要（通讯中）"
+          },
+          "speakerId": 350153,
+          "textKey": "Main_HuangLong_XLZHDLY_472_37",
+          "text": "不必自责，有一群为你担心的人，是件幸福的事。",
+          "texts": {
+            "zh-Hans": "不必自责，有一群为你担心的人，是件幸福的事。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_472_38",
+          "text": "相里首席……！你也在啊。",
+          "texts": {
+            "zh-Hans": "相里首席……！你也在啊。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "相里要（通讯中）",
+          "speakers": {
+            "zh-Hans": "相里要（通讯中）"
+          },
+          "speakerId": 350153,
+          "textKey": "Main_HuangLong_XLZHDLY_472_39",
+          "text": "嗯，顺道路过而已。漂泊者，看来你已经成功找到秧秧了。不过……你们好像又同玄方城牵扯出了新的谜团？",
+          "texts": {
+            "zh-Hans": "嗯，顺道路过而已。漂泊者，看来你已经成功找到秧秧了。不过……你们好像又同玄方城牵扯出了新的谜团？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_XLZHDLY_472_40",
+          "text": "梦州的岁主心月狐，如今似乎下落不明。",
+          "texts": {
+            "zh-Hans": "梦州的岁主心月狐，如今似乎下落不明。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "相里要（通讯中）",
+          "speakers": {
+            "zh-Hans": "相里要（通讯中）"
+          },
+          "speakerId": 350153,
+          "textKey": "Main_HuangLong_XLZHDLY_472_41",
+          "text": "是吗……原谅我不能亲自到玄方城协助调查，不过，如果有需要的话，随时联系华胥研究院，这里的所有人都会倾力帮助你们。",
+          "texts": {
+            "zh-Hans": "是吗……原谅我不能亲自到玄方城协助调查，不过，如果有需要的话，随时联系华胥研究院，这里的所有人都会倾力帮助你们。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "相里要（通讯中）",
+          "speakers": {
+            "zh-Hans": "相里要（通讯中）"
+          },
+          "speakerId": 350153,
+          "textKey": "Main_HuangLong_XLZHDLY_472_42",
+          "text": "时间差不多了，我该回研究室了。那么，祝你们早日完结这个课题。",
+          "texts": {
+            "zh-Hans": "时间差不多了，我该回研究室了。那么，祝你们早日完结这个课题。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "白芷（通讯中）",
+          "speakers": {
+            "zh-Hans": "白芷（通讯中）"
+          },
+          "speakerId": 1000,
+          "textKey": "Main_HuangLong_XLZHDLY_472_43",
+          "text": "秧秧，漂泊者，之后你们有什么打算？",
+          "texts": {
+            "zh-Hans": "秧秧，漂泊者，之后你们有什么打算？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 19,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_472_44",
+          "text": "唔……",
+          "texts": {
+            "zh-Hans": "唔……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 20,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "白芷（通讯中）",
+          "speakers": {
+            "zh-Hans": "白芷（通讯中）"
+          },
+          "speakerId": 1000,
+          "textKey": "Main_HuangLong_XLZHDLY_472_45",
+          "text": "今州的情况，你们不必担心，先处理好手头的问题。",
+          "texts": {
+            "zh-Hans": "今州的情况，你们不必担心，先处理好手头的问题。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 21,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "白芷（通讯中）",
+          "speakers": {
+            "zh-Hans": "白芷（通讯中）"
+          },
+          "speakerId": 1000,
+          "textKey": "Main_HuangLong_XLZHDLY_472_46",
+          "text": "至于秧秧……等你什么时候有空，再向我和炽霞解释你这「新造型」是怎么一回事吧。最好等炽霞的伤全好之后，免得她因为大惊小怪又伤到筋骨。",
+          "texts": {
+            "zh-Hans": "至于秧秧……等你什么时候有空，再向我和炽霞解释你这「新造型」是怎么一回事吧。最好等炽霞的伤全好之后，免得她因为大惊小怪又伤到筋骨。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 22,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_472_48",
+          "text": "嗯，我知道了，白芷。",
+          "texts": {
+            "zh-Hans": "嗯，我知道了，白芷。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 23,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/4/Flow -> 剧情_3_5_后日谈梦州_4_1:/2/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_473_1",
+          "text": "太好了，炽霞似乎没事。",
+          "texts": {
+            "zh-Hans": "太好了，炽霞似乎没事。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_XLZHDLY_473_2",
+          "text": "等她见到你后，肯定会大吃一惊。",
+          "texts": {
+            "zh-Hans": "等她见到你后，肯定会大吃一惊。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_473_3",
+          "text": "……可以的话，我倒是想变回原来的样子呢。",
+          "texts": {
+            "zh-Hans": "……可以的话，我倒是想变回原来的样子呢。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_XLZHDLY_473_4",
+          "text": "这也是你旅途的证明。",
+          "texts": {
+            "zh-Hans": "这也是你旅途的证明。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_473_5",
+          "text": "嗯……或许，是这样吧。",
+          "texts": {
+            "zh-Hans": "嗯……或许，是这样吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "秋鸿（通讯中）",
+          "speakers": {
+            "zh-Hans": "秋鸿（通讯中）"
+          },
+          "speakerId": 350154,
+          "textKey": "Main_HuangLong_XLZHDLY_473_6",
+          "text": "漂泊者，秧秧，接下来有空的话，可否再来军策府一趟？",
+          "texts": {
+            "zh-Hans": "漂泊者，秧秧，接下来有空的话，可否再来军策府一趟？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "秋鸿（通讯中）",
+          "speakers": {
+            "zh-Hans": "秋鸿（通讯中）"
+          },
+          "speakerId": 350154,
+          "textKey": "Main_HuangLong_XLZHDLY_473_7",
+          "text": "有一条找你们的通讯，对你们来说，应该是「熟面孔」了。",
+          "texts": {
+            "zh-Hans": "有一条找你们的通讯，对你们来说，应该是「熟面孔」了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_XLZHDLY_473_8",
+          "text": "（熟面孔……那大概是……）",
+          "texts": {
+            "zh-Hans": "（熟面孔……那大概是……）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_473_9",
+          "text": "我想顺道去华胥研究院看望一下椋羽，如果漂泊者还有别的事，我们之后在军策府会合吧。",
+          "texts": {
+            "zh-Hans": "我想顺道去华胥研究院看望一下椋羽，如果漂泊者还有别的事，我们之后在军策府会合吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_XLZHDLY_473_10",
+          "text": "好，处理完手头的事后，就去卫长那里吧。",
+          "texts": {
+            "zh-Hans": "好，处理完手头的事后，就去卫长那里吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 5,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192750000/Data/5/Flow -> 剧情_3_5_后日谈梦州_5_1:/3/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 2,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 1
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 3,
+      "kind": "manual-override-node",
+      "title": "和秧秧在军策府前会合",
+      "titles": {
+        "zh-Hans": "和秧秧在军策府前会合"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-4",
+      "sourceNodeKey": "node:3",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_3_5_后日谈梦州",
+          "flowId": 7,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_80",
+          "text": "卫长，我们到了。您说的通讯是……",
+          "texts": {
+            "zh-Hans": "卫长，我们到了。您说的通讯是……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "秋鸿",
+          "speakers": {
+            "zh-Hans": "秋鸿"
+          },
+          "speakerId": 350151,
+          "textKey": "Main_HuangLong_XLZHDLY_480_20",
+          "text": "不急，我现在就帮你们接通。",
+          "texts": {
+            "zh-Hans": "不急，我现在就帮你们接通。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_23",
+          "text": "漂泊者，秧秧，太好了，你们都平安无事……",
+          "texts": {
+            "zh-Hans": "漂泊者，秧秧，太好了，你们都平安无事……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_XLZHDLY_480_34",
+          "text": "我就猜到是你了。",
+          "texts": {
+            "zh-Hans": "我就猜到是你了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_35",
+          "text": "呵呵，本来想等长离老师从明庭回来后再联络你们，但我还是有点等不及。",
+          "texts": {
+            "zh-Hans": "呵呵，本来想等长离老师从明庭回来后再联络你们，但我还是有点等不及。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_36",
+          "text": "我已经找秋鸿卫长了解了如今玄方城大致的情况，漂泊者，你是要留在玄方地界，寻找岁主心吧。",
+          "texts": {
+            "zh-Hans": "我已经找秋鸿卫长了解了如今玄方城大致的情况，漂泊者，你是要留在玄方地界，寻找岁主心吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_39",
+          "text": "那么，秧秧，你的意愿呢？",
+          "texts": {
+            "zh-Hans": "那么，秧秧，你的意愿呢？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_40",
+          "text": "我……是夜归的一员，现在案子已结，按照军规，我得回到今州……",
+          "texts": {
+            "zh-Hans": "我……是夜归的一员，现在案子已结，按照军规，我得回到今州……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_42",
+          "text": "但是，今令尹，可否允许我和漂泊者一起，暂时留在玄方地界？我知道这不应当是军人该说出来的话——",
+          "texts": {
+            "zh-Hans": "但是，今令尹，可否允许我和漂泊者一起，暂时留在玄方地界？我知道这不应当是军人该说出来的话——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_43",
+          "text": "可现在玄方地界依旧动荡不安，这里还有很多人需要帮助。",
+          "texts": {
+            "zh-Hans": "可现在玄方地界依旧动荡不安，这里还有很多人需要帮助。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_44",
+          "text": "虽然我只是一介踏白，但这里肯定还有我能做的事。",
+          "texts": {
+            "zh-Hans": "虽然我只是一介踏白，但这里肯定还有我能做的事。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_45",
+          "text": "……秧秧，你不必如此看轻自己。现在的你所具备的力量，嗯……按照长离老师的话说，「肯定能在棋局上充当关键的一步」吧。",
+          "texts": {
+            "zh-Hans": "……秧秧，你不必如此看轻自己。现在的你所具备的力量，嗯……按照长离老师的话说，「肯定能在棋局上充当关键的一步」吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_46",
+          "text": "你与玄方地界缔结的这份情谊，最后肯定会以某种形式，回馈到这片土地本身。",
+          "texts": {
+            "zh-Hans": "你与玄方地界缔结的这份情谊，最后肯定会以某种形式，回馈到这片土地本身。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_47",
+          "text": "所以，我尊重你的决定。秋鸿卫长，你意下如何？",
+          "texts": {
+            "zh-Hans": "所以，我尊重你的决定。秋鸿卫长，你意下如何？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "秋鸿",
+          "speakers": {
+            "zh-Hans": "秋鸿"
+          },
+          "speakerId": 350151,
+          "textKey": "Main_HuangLong_XLZHDLY_480_48",
+          "text": "求之不得，现在地界中还有大量从咎庭出逃的残象流窜，正是急需战力的时刻。秧秧的能力更是能帮上不少忙。",
+          "texts": {
+            "zh-Hans": "求之不得，现在地界中还有大量从咎庭出逃的残象流窜，正是急需战力的时刻。秧秧的能力更是能帮上不少忙。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "秋鸿",
+          "speakers": {
+            "zh-Hans": "秋鸿"
+          },
+          "speakerId": 350151,
+          "textKey": "Main_HuangLong_XLZHDLY_480_49",
+          "text": "秧秧，可否请你在这段时间，出任后玄骑使一职？我想，椋羽应该也很乐意听到这个消息。",
+          "texts": {
+            "zh-Hans": "秧秧，可否请你在这段时间，出任后玄骑使一职？我想，椋羽应该也很乐意听到这个消息。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_50",
+          "text": "……如果能帮到大家的话。",
+          "texts": {
+            "zh-Hans": "……如果能帮到大家的话。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_51",
+          "text": "秧秧，我之后会同忌炎将军商议，将你暂时调至玄方地界的军策府麾下。",
+          "texts": {
+            "zh-Hans": "秧秧，我之后会同忌炎将军商议，将你暂时调至玄方地界的军策府麾下。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_52",
+          "text": "漂泊者，可要代表我们今州人照顾好秧秧哦？",
+          "texts": {
+            "zh-Hans": "漂泊者，可要代表我们今州人照顾好秧秧哦？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_HuangLong_XLZHDLY_480_53",
+              "text": "我们互相照顾。",
+              "texts": {
+                "zh-Hans": "我们互相照顾。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 19,
+              "talkIndex": 18,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_HuangLong_XLZHDLY_480_54",
+              "text": "等我们的好消息吧。",
+              "texts": {
+                "zh-Hans": "等我们的好消息吧。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 19,
+              "talkIndex": 18,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 19,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_55",
+          "text": "嗯，到时候，就把大家都聚在一起，开个庆功宴吧。",
+          "texts": {
+            "zh-Hans": "嗯，到时候，就把大家都聚在一起，开个庆功宴吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 20,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Main_HuangLong_XLZHDLY_480_56",
+          "text": "好主意，那么，我在今州等你们回家。",
+          "texts": {
+            "zh-Hans": "好主意，那么，我在今州等你们回家。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 21,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_59",
+          "text": "啊，是你呀……",
+          "texts": {
+            "zh-Hans": "啊，是你呀……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 22,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_XLZHDLY_480_60",
+          "text": "它一路上帮了不少忙呢。",
+          "texts": {
+            "zh-Hans": "它一路上帮了不少忙呢。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 23,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "秋鸿",
+          "speakers": {
+            "zh-Hans": "秋鸿"
+          },
+          "speakerId": 350151,
+          "textKey": "Main_HuangLong_XLZHDLY_480_61",
+          "text": "这只梁鸢……我此前从未见过……",
+          "texts": {
+            "zh-Hans": "这只梁鸢……我此前从未见过……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_HuangLong_XLZHDLY_480_62",
+              "text": "你好像对梁鸢很有研究？",
+              "texts": {
+                "zh-Hans": "你好像对梁鸢很有研究？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 24,
+              "talkIndex": 23,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_HuangLong_XLZHDLY_480_63",
+              "text": "总觉得它像是有智慧一样。",
+              "texts": {
+                "zh-Hans": "总觉得它像是有智慧一样。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 24,
+              "talkIndex": 23,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/23/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 24,
+          "talkIndex": 23,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/23/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "秋鸿",
+          "speakers": {
+            "zh-Hans": "秋鸿"
+          },
+          "speakerId": 350151,
+          "textKey": "Main_HuangLong_XLZHDLY_480_64",
+          "text": "梁鸢……最初是玄方地界的工匠们为纪念玄翎雀而造，然而传承至今，其中衍生繁多，有的形象甚至也已与玄翎雀大相径庭。",
+          "texts": {
+            "zh-Hans": "梁鸢……最初是玄方地界的工匠们为纪念玄翎雀而造，然而传承至今，其中衍生繁多，有的形象甚至也已与玄翎雀大相径庭。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/24/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 25,
+          "talkIndex": 24,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/24/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "秋鸿",
+          "speakers": {
+            "zh-Hans": "秋鸿"
+          },
+          "speakerId": 350151,
+          "textKey": "Main_HuangLong_XLZHDLY_480_65",
+          "text": "但这只梁鸢……以我多年的眼力，至少是两百年前的作品了。",
+          "texts": {
+            "zh-Hans": "但这只梁鸢……以我多年的眼力，至少是两百年前的作品了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/25/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 26,
+          "talkIndex": 25,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/25/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "秋鸿",
+          "speakers": {
+            "zh-Hans": "秋鸿"
+          },
+          "speakerId": 350151,
+          "textKey": "Main_HuangLong_XLZHDLY_480_66",
+          "text": "制作它的工匠，肯定曾见过真正的玄翎雀飞翔于天际的模样。",
+          "texts": {
+            "zh-Hans": "制作它的工匠，肯定曾见过真正的玄翎雀飞翔于天际的模样。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/26/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 27,
+          "talkIndex": 26,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/26/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "秋鸿",
+          "speakers": {
+            "zh-Hans": "秋鸿"
+          },
+          "speakerId": 350151,
+          "textKey": "Main_HuangLong_XLZHDLY_480_67",
+          "text": "我能从它身上，感受到一股深深的……怀念之情。",
+          "texts": {
+            "zh-Hans": "我能从它身上，感受到一股深深的……怀念之情。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_HuangLong_XLZHDLY_480_68",
+              "text": "这点卫长您也不差多少了……",
+              "texts": {
+                "zh-Hans": "这点卫长您也不差多少了……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 28,
+              "talkIndex": 27,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_HuangLong_XLZHDLY_480_69",
+              "text": "可能是某位与玄翎雀结缘的人制作的。",
+              "texts": {
+                "zh-Hans": "可能是某位与玄翎雀结缘的人制作的。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 28,
+              "talkIndex": 27,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/27/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 28,
+          "talkIndex": 27,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/27/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_70",
+          "text": "也可能，它不单只是一只梁鸢呢……",
+          "texts": {
+            "zh-Hans": "也可能，它不单只是一只梁鸢呢……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/28/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 29,
+          "talkIndex": 28,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/28/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_71",
+          "text": "不管怎样，谢谢你……你的愿望，现在就在我的心里。",
+          "texts": {
+            "zh-Hans": "不管怎样，谢谢你……你的愿望，现在就在我的心里。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/29/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 30,
+          "talkIndex": 29,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/29/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_XLZHDLY_480_73",
+          "text": "飞吧，飞到你想去的任何地方。",
+          "texts": {
+            "zh-Hans": "飞吧，飞到你想去的任何地方。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/30/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 31,
+          "talkIndex": 30,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/30/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Main_HuangLong_XLZHDLY_480_76",
+          "text": "有劳了，吾友。",
+          "texts": {
+            "zh-Hans": "有劳了，吾友。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/31/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 32,
+          "talkIndex": 31,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/31/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Main_HuangLong_XLZHDLY_480_77",
+          "text": "……是吗，如此丰沛的情感与意志，于你我而言也是久违了。",
+          "texts": {
+            "zh-Hans": "……是吗，如此丰沛的情感与意志，于你我而言也是久违了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/32/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 33,
+          "talkIndex": 32,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/32/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 34,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Main_HuangLong_XLZHDLY_480_78",
+          "text": "若你觉得，他们是值得托付之人……",
+          "texts": {
+            "zh-Hans": "若你觉得，他们是值得托付之人……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/33/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 34,
+          "talkIndex": 33,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/33/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 35,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Main_HuangLong_XLZHDLY_480_79",
+          "text": "便让这灯火，再亮一些时日吧。",
+          "texts": {
+            "zh-Hans": "便让这灯火，再亮一些时日吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/34/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_后日谈梦州",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 35,
+          "talkIndex": 34,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "QuestNodeData:/Data/FinishActions/0/Params -> 剧情_3_5_后日谈梦州_7_1:/6/TalkItems/34/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 1
+          }
+        ]
+      }
+    }
+  ]
+}

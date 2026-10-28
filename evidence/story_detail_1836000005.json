@@ -1,0 +1,1118 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1836000005",
+  "task_name": "烟云幽远心剑鸣",
+  "version": "3.6版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1836000005",
+  "fetched_at": "2026-10-27T11:02:22+08:00",
+  "source_sha256": "b9e4864665c32514c33e8774683bbd0651fb6e72a51bb662004bfc96f9c50173",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 0,
+      "kind": "manual-override-node",
+      "title": "前往军策府和秧秧会合",
+      "titles": {
+        "zh-Hans": "前往军策府和秧秧会合"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-3",
+      "sourceNodeKey": "node:2",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_3_6_后日谈",
+          "flowId": 12,
+          "stateId": 1,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_3_6_后日谈",
+          "flowId": 3,
+          "stateId": 1,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_3_6_后日谈",
+          "flowId": 4,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_647_1",
+          "text": "（穗穗似乎有事要联络我们，先去军策府和秧秧会合吧。）",
+          "texts": {
+            "zh-Hans": "（穗穗似乎有事要联络我们，先去军策府和秧秧会合吧。）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/1/Flow -> 剧情_3_6_后日谈_12_1:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 12,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/1/Flow -> 剧情_3_6_后日谈_12_1:/1/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_1",
+          "text": "……太好了，你们都没事。秧秧，快凑近点给姐姐瞧瞧，有没有哪里伤到了？",
+          "texts": {
+            "zh-Hans": "……太好了，你们都没事。秧秧，快凑近点给姐姐瞧瞧，有没有哪里伤到了？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_650_2",
+          "text": "姐姐，我真的没什么……漂泊者和清宵司骑才是一路深入了神宫之中，遇到了很多危险。",
+          "texts": {
+            "zh-Hans": "姐姐，我真的没什么……漂泊者和清宵司骑才是一路深入了神宫之中，遇到了很多危险。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_650_3",
+              "text": "秧秧这次表现得特别可靠。",
+              "texts": {
+                "zh-Hans": "秧秧这次表现得特别可靠。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_650_4",
+              "text": "她已经是玄方城的中流砥柱了。",
+              "texts": {
+                "zh-Hans": "她已经是玄方城的中流砥柱了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_650_5",
+          "text": "漂泊者，别在姐姐面前这么夸我……",
+          "texts": {
+            "zh-Hans": "漂泊者，别在姐姐面前这么夸我……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_6",
+          "text": "好啦好啦，你们就不要互相捧对方了。接下来——我该以「昭明商会」理事的身份来谈正事了。",
+          "texts": {
+            "zh-Hans": "好啦好啦，你们就不要互相捧对方了。接下来——我该以「昭明商会」理事的身份来谈正事了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_8",
+          "text": "回梦州城后，我用商会的人脉去调查了木禺这个人的底细，也和琢钧堂总舵进行了接触。",
+          "texts": {
+            "zh-Hans": "回梦州城后，我用商会的人脉去调查了木禺这个人的底细，也和琢钧堂总舵进行了接触。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_9",
+          "text": "木禺确是两百年前负责设计渊城的机关术天才，是琢钧堂资历极老的成员，和梦州的华胥研究院也曾有深度合作。",
+          "texts": {
+            "zh-Hans": "木禺确是两百年前负责设计渊城的机关术天才，是琢钧堂资历极老的成员，和梦州的华胥研究院也曾有深度合作。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_10",
+          "text": "二十多年前，他本预定接替「花间傀」成为下任堂主，却宣称脱离组织，其后便不知去向了。",
+          "texts": {
+            "zh-Hans": "二十多年前，他本预定接替「花间傀」成为下任堂主，却宣称脱离组织，其后便不知去向了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_650_11",
+          "text": "那之后……木禺多半是化名来玄方地界蛰伏，筹备他的计划了。",
+          "texts": {
+            "zh-Hans": "那之后……木禺多半是化名来玄方地界蛰伏，筹备他的计划了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_12",
+          "text": "琢钧堂明面上完全和他划清了界限，还表示愿意提供木禺的相关资料，协助商会调查。",
+          "texts": {
+            "zh-Hans": "琢钧堂明面上完全和他划清了界限，还表示愿意提供木禺的相关资料，协助商会调查。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_13",
+          "text": "但我们知道，木禺暗地还通过那位线人从琢钧堂获得过支持呢。对了，你见到「鬼猫挈灯」了吗？",
+          "texts": {
+            "zh-Hans": "但我们知道，木禺暗地还通过那位线人从琢钧堂获得过支持呢。对了，你见到「鬼猫挈灯」了吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_650_14",
+              "text": "（告知穗穗关于景燃的事。）",
+              "texts": {
+                "zh-Hans": "（告知穗穗关于景燃的事。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 10,
+              "talkIndex": 9,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_15",
+          "text": "……是吗？在神宫分开后就没再现身了……他是江湖上出了名的神出鬼没，可能哪天就又冒出来了。",
+          "texts": {
+            "zh-Hans": "……是吗？在神宫分开后就没再现身了……他是江湖上出了名的神出鬼没，可能哪天就又冒出来了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_650_16",
+          "text": "我也相信，他会平安的。",
+          "texts": {
+            "zh-Hans": "我也相信，他会平安的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_650_17",
+          "text": "木禺的背后是否有残星会的参与？先前对峙时，他提起过一名残星会的会监。",
+          "texts": {
+            "zh-Hans": "木禺的背后是否有残星会的参与？先前对峙时，他提起过一名残星会的会监。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_18",
+          "text": "只有一条有关情报，还是那位神秘堂主「花间傀」提供的——木禺曾在早年与残星会有过技术交流，但很快就断了联络。",
+          "texts": {
+            "zh-Hans": "只有一条有关情报，还是那位神秘堂主「花间傀」提供的——木禺曾在早年与残星会有过技术交流，但很快就断了联络。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_19",
+          "text": "这到底是不是琢钧堂用来和木禺撇开关系的手段，尚未可知。",
+          "texts": {
+            "zh-Hans": "这到底是不是琢钧堂用来和木禺撇开关系的手段，尚未可知。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_20",
+          "text": "这几天……除了调查琢钧堂外，我还亲自去了梦州边庭一趟。",
+          "texts": {
+            "zh-Hans": "这几天……除了调查琢钧堂外，我还亲自去了梦州边庭一趟。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_650_21",
+              "text": "又去闯边庭了啊……",
+              "texts": {
+                "zh-Hans": "又去闯边庭了啊……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 16,
+              "talkIndex": 15,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_22",
+          "text": "唉，上次在今州还是边喝茶边等，这次……直接吃了闭门羹，说是梦州令尹不便见客。",
+          "texts": {
+            "zh-Hans": "唉，上次在今州还是边喝茶边等，这次……直接吃了闭门羹，说是梦州令尹不便见客。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_23",
+          "text": "玄方地界接连出了大事，梦州边庭却是一片平静，态度实在让人生疑。",
+          "texts": {
+            "zh-Hans": "玄方地界接连出了大事，梦州边庭却是一片平静，态度实在让人生疑。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_650_24",
+          "text": "之前边庭承诺的支援倒是得到了兑现，近期就会有一批人员和物资从梦州城过来。今州的新一批援助物资也到了。",
+          "texts": {
+            "zh-Hans": "之前边庭承诺的支援倒是得到了兑现，近期就会有一批人员和物资从梦州城过来。今州的新一批援助物资也到了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 19,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_25",
+          "text": "形势总是在变好的。边庭的事你们不用挂念，我会想办法。",
+          "texts": {
+            "zh-Hans": "形势总是在变好的。边庭的事你们不用挂念，我会想办法。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 20,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_650_26",
+          "text": "有劳你了，穗穗。",
+          "texts": {
+            "zh-Hans": "有劳你了，穗穗。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 21,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_27",
+          "text": "我听你这语气，就知道你还有很多事压在心上。别一直紧绷着了。",
+          "texts": {
+            "zh-Hans": "我听你这语气，就知道你还有很多事压在心上。别一直紧绷着了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 22,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_650_28",
+          "text": "嗯……眼下，玄方地界确实恢复了平静。",
+          "texts": {
+            "zh-Hans": "嗯……眼下，玄方地界确实恢复了平静。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 23,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_650_29",
+          "text": "希望这样的日子，可以长久一些。",
+          "texts": {
+            "zh-Hans": "希望这样的日子，可以长久一些。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/23/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 24,
+          "talkIndex": 23,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/23/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_30",
+          "text": "过些天，梦州各地就要陆续办朝月会了。玄方城想必也不例外，你们可以好好放松一下。",
+          "texts": {
+            "zh-Hans": "过些天，梦州各地就要陆续办朝月会了。玄方城想必也不例外，你们可以好好放松一下。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/24/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 25,
+          "talkIndex": 24,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/24/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "穗穗（通讯中）",
+          "speakers": {
+            "zh-Hans": "穗穗（通讯中）"
+          },
+          "speakerId": 800498,
+          "textKey": "Main_Mengzhou_3_6_650_31",
+          "text": "那就回见咯。漂泊者，你可别忘了我们的……「下次」哦~",
+          "texts": {
+            "zh-Hans": "那就回见咯。漂泊者，你可别忘了我们的……「下次」哦~"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/25/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 26,
+          "talkIndex": 25,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/4/Flow -> 剧情_3_6_后日谈_3_1:/3/TalkItems/25/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_651_1",
+          "text": "漂泊者，姐姐说的「下次」是……？",
+          "texts": {
+            "zh-Hans": "漂泊者，姐姐说的「下次」是……？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/5/Flow -> 剧情_3_6_后日谈_4_1:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/5/Flow -> 剧情_3_6_后日谈_4_1:/1/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_651_2",
+          "text": "……哪天，再一起回今州看看吧。",
+          "texts": {
+            "zh-Hans": "……哪天，再一起回今州看看吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/5/Flow -> 剧情_3_6_后日谈_4_1:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/5/Flow -> 剧情_3_6_后日谈_4_1:/1/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_651_3",
+          "text": "好啊。",
+          "texts": {
+            "zh-Hans": "好啊。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:936000005/Data/5/Flow -> 剧情_3_6_后日谈_4_1:/1/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_后日谈",
+            "flowId": 4,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:936000005/Data/5/Flow -> 剧情_3_6_后日谈_4_1:/1/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 3,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 5
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "schema": "yangyang-human-review-v1",
+  "pack_id": "formal-task-page-v2-20261027",
+  "source_digest": "6d55ee1d0a43cc472cbc81937f26dc83b3f96633375e141c610298e953917e9b",
+  "exported_at": "2026-10-27T11:32:15.224Z",
+  "reviewer": null,
+  "entries": [
+    {
+      "case_id": "choice-HuanglongM1_1_14_6",
+      "display_id": "选项-001",
+      "type": "choice",
+      "source_ids": [
+        "CHOICE-6e713baa8309fe70",
+        "HuanglongM1_1_14_6"
+      ],
+      "status": "exclude",
+      "updated_at": "2026-10-27T02:28:14.288Z",
+      "actual_choice": "无",
+      "finding": "不确定选择后接到哪里",
+      "scope": "archive",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "choice-Huanglong_main_1_2_4_5",
+      "display_id": "选项-002",
+      "type": "choice",
+      "source_ids": [
+        "CHOICE-3411716d5cbfb608",
+        "Huanglong_main_1_2_4_5"
+      ],
+      "status": "exclude",
+      "updated_at": "2026-10-27T02:28:17.937Z",
+      "actual_choice": "无",
+      "finding": "不确定选择后接到哪里",
+      "scope": "archive",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "choice-Huanglong_main_1_6_23_10",
+      "display_id": "选项-003",
+      "type": "choice",
+      "source_ids": [
+        "CHOICE-4541ce1de530c59f",
+        "Huanglong_main_1_6_23_10"
+      ],
+      "status": "exclude",
+      "updated_at": "2026-10-27T02:28:21.219Z",
+      "actual_choice": "无",
+      "finding": "不确定选择后接到哪里",
+      "scope": "archive",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-0fc004a3559e",
+      "display_id": "回合-001",
+      "type": "turn",
+      "source_ids": [
+        "T7-0fc004a3559e",
+        "Huanglong_main_1_2_134_1"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T02:37:34.128Z",
+      "actual_choice": "无",
+      "finding": "无",
+      "merge_decision": "merge",
+      "evidence": "在面对漂泊者晕倒后醒来，所说的话",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-4eed1133fdc5",
+      "display_id": "回合-002",
+      "type": "turn",
+      "source_ids": [
+        "T7-4eed1133fdc5",
+        "HuanglongM1_1_14_3"
+      ],
+      "finding": "无",
+      "updated_at": "2026-10-27T03:27:15.402Z",
+      "status": "exclude",
+      "actual_choice": "无",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-a747792f15f3",
+      "display_id": "回合-003",
+      "type": "turn",
+      "source_ids": [
+        "T7-a747792f15f3",
+        "Huanglong_main_1_2_128_2"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T02:37:42.315Z",
+      "evidence": "在面对漂泊者晕倒后做出的焦急呼唤",
+      "finding": "无",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-bfcbf08586bd",
+      "display_id": "回合-004",
+      "type": "turn",
+      "source_ids": [
+        "T7-bfcbf08586bd",
+        "Huanglong_main_1_2_134_2"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T03:28:28.049Z",
+      "actual_choice": "无",
+      "finding": "无",
+      "merge_decision": "merge",
+      "evidence": "在面对漂泊者晕倒苏醒后，对同伴的询问",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-09dd6d5d4a6f",
+      "display_id": "回合-005",
+      "type": "turn",
+      "source_ids": [
+        "T7-09dd6d5d4a6f",
+        "Main_HuangLong_SYYLFML_294_12"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T03:30:30.557Z",
+      "actual_choice": "无",
+      "merge_decision": "merge",
+      "scene": "秧秧视角，发生在过去的事",
+      "finding": "无",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-120072497b86",
+      "display_id": "回合-006",
+      "type": "turn",
+      "source_ids": [
+        "T7-120072497b86",
+        "Main_HuangLong_SYYLFML_430_11"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T03:32:02.184Z",
+      "actual_choice": "无",
+      "merge_decision": "merge",
+      "scene": "秧秧视角，留给漂泊者者的信",
+      "finding": "无",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-1ac6dc342ba6",
+      "display_id": "回合-007",
+      "type": "turn",
+      "source_ids": [
+        "T7-1ac6dc342ba6",
+        "Main_HuangLong_SYYLFML_430_15"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T03:35:12.689Z",
+      "actual_choice": "无",
+      "merge_decision": "merge",
+      "scene": "秧秧视角，留给漂泊者者的信",
+      "finding": "无",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-3700be30927b",
+      "display_id": "回合-008",
+      "type": "turn",
+      "source_ids": [
+        "T7-3700be30927b",
+        "Main_HuangLong_SYYLFML_400_2"
+      ],
+      "finding": "剧情_3_5_玄方城_秧秧_2_2_3\n秧秧作为侦察兵发生的事",
+      "updated_at": "2026-10-27T03:34:51.543Z",
+      "status": "confirmed",
+      "actual_choice": "无",
+      "merge_decision": "merge",
+      "scene": "秧秧视角，发生在漂泊者主视角过去的事",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-3d2a36bd19b8",
+      "display_id": "回合-009",
+      "type": "turn",
+      "source_ids": [
+        "T7-3d2a36bd19b8",
+        "Main_HuangLong_SYYLFML_430_9"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T11:22:53.543Z",
+      "actual_choice": "无",
+      "finding": "无",
+      "merge_decision": "merge",
+      "scene": "秧秧视角，发生在漂泊者主视角过去的事",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-45f23c6c8ec6",
+      "display_id": "回合-010",
+      "type": "turn",
+      "source_ids": [
+        "T7-45f23c6c8ec6",
+        "Main_HuangLong_SYYLFML_400_3"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T11:23:35.445Z",
+      "actual_choice": "无",
+      "finding": "无",
+      "scene": "秧秧视角，发生在漂泊者主视角过去的事",
+      "merge_decision": "merge",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-4e0e095fe7c5",
+      "display_id": "回合-011",
+      "type": "turn",
+      "source_ids": [
+        "T7-4e0e095fe7c5",
+        "Main_HuangLong_SYYLFML_294_14"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T11:27:43.457Z",
+      "actual_choice": "无",
+      "finding": "剧情_3_5_玄方城_秧秧_2_1_10\n方式在过去视角，秧秧穿越山门，昏迷后醒来刚开始发生的事",
+      "scene": "秧秧视角，发生在漂泊者主视角过去的事",
+      "merge_decision": "merge",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-6103c74a7c21",
+      "display_id": "回合-012",
+      "type": "turn",
+      "source_ids": [
+        "T7-6103c74a7c21",
+        "Main_HuangLong_SYYLFML_400_1"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T11:28:50.934Z",
+      "actual_choice": "无",
+      "finding": "剧情_3_5_玄方城_秧秧_2_2_3\n方式在秧秧当侦查兵，为了椋羽等人探路时发生的事",
+      "scene": "秧秧视角，发生在漂泊者主视角过去的事",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-6e023f2a6625",
+      "display_id": "回合-013",
+      "type": "turn",
+      "source_ids": [
+        "T7-6e023f2a6625",
+        "Main_HuangLong_SYYLFML_430_12"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T11:30:07.440Z",
+      "actual_choice": "无",
+      "finding": "发生在过去，这句话出现在秧秧留给漂泊者的信上",
+      "merge_decision": "merge",
+      "scene": "过去秧秧留给漂泊者的信",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-d398130df6b6",
+      "display_id": "回合-014",
+      "type": "turn",
+      "source_ids": [
+        "T7-d398130df6b6",
+        "Main_HuangLong_SYYLFML_380_2"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T11:30:50.503Z",
+      "actual_choice": "无",
+      "finding": "剧情_3_5_玄方城_秧秧_2_2_3\n方式在秧秧当侦查兵，为了椋羽等人探路时发生的事",
+      "merge_decision": "merge",
+      "scene": "秧秧视角，发生在漂泊者主视角过去的事",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-d892351234bd",
+      "display_id": "回合-015",
+      "type": "turn",
+      "source_ids": [
+        "T7-d892351234bd",
+        "Main_HuangLong_SYYLFML_390_2"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T11:31:22.283Z",
+      "actual_choice": "无",
+      "finding": "剧情_3_5_玄方城_秧秧_2_2_3\n方式在秧秧当侦查兵，为了椋羽等人探路时发生的事",
+      "scene": "秧秧视角，发生在漂泊者主视角过去的事",
+      "merge_decision": "merge",
+      "scope": "active",
+      "training_export_approved": false
+    },
+    {
+      "case_id": "turn-T7-d9c2b5ecbb20",
+      "display_id": "回合-016",
+      "type": "turn",
+      "source_ids": [
+        "T7-d9c2b5ecbb20",
+        "Main_HuangLong_SYYLFML_430_7"
+      ],
+      "status": "confirmed",
+      "updated_at": "2026-10-27T11:32:09.240Z",
+      "actual_choice": "无",
+      "finding": "发生在过去，这句话出现在秧秧留给漂泊者的信上",
+      "scene": "过去秧秧留给漂泊者的信",
+      "merge_decision": "merge",
+      "scope": "active",
+      "training_export_approved": false
+    }
+  ]
+}

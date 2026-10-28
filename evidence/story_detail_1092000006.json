@@ -1,0 +1,1312 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1092000006",
+  "task_name": "山雨欲来风满楼",
+  "version": "3.5版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1092000006",
+  "fetched_at": "2026-10-27T11:01:44+08:00",
+  "source_sha256": "f3752368963eb427f583bdbdb35429e677d2406181a23aeeef57a33add26caf5",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 2,
+      "kind": "manual-override-node",
+      "title": "给秧秧回信",
+      "titles": {
+        "zh-Hans": "给秧秧回信"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-2",
+      "sourceNodeKey": "node:1",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_3_5_拉海洛今州",
+          "flowId": 50,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_1",
+          "text": "（给秧秧的信，写些什么好呢……）",
+          "texts": {
+            "zh-Hans": "（给秧秧的信，写些什么好呢……）"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157754",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157754",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "漂泊者_选项",
+          "speakers": {
+            "zh-Hans": "漂泊者_选项"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_2",
+          "text": "（写下和学院的大家对抗虚无鸣式的事）",
+          "texts": {
+            "zh-Hans": "（写下和学院的大家对抗虚无鸣式的事）"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157755",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157755",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "漂泊者_选项",
+          "speakers": {
+            "zh-Hans": "漂泊者_选项"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_3",
+          "text": "（写下拉贝尔学部废除危机的事）",
+          "texts": {
+            "zh-Hans": "（写下拉贝尔学部废除危机的事）"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157756",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157756",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_7",
+          "text": "虚无鸣式阿列夫一……那是能吞噬人的意志，否定人存在意义的可怖存在……多亏了隧者「拉海洛」，星炬学院的大家，还有当地的罗伊人们，我们才得以击败它。",
+          "texts": {
+            "zh-Hans": "虚无鸣式阿列夫一……那是能吞噬人的意志，否定人存在意义的可怖存在……多亏了隧者「拉海洛」，星炬学院的大家，还有当地的罗伊人们，我们才得以击败它。"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157757",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157757",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_9",
+          "text": "那之后……拉海洛，想必能诞生出一支崭新的，璀璨耀眼的「文明」吧。",
+          "texts": {
+            "zh-Hans": "那之后……拉海洛，想必能诞生出一支崭新的，璀璨耀眼的「文明」吧。"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157758",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157758",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_10",
+          "text": "隧者消失后，深空联合的投资方一度想要关闭拉贝尔学部……但在洛瑟菈校长的据理力争，和学院大家的实际行动下，拉贝尔学部得以保留。",
+          "texts": {
+            "zh-Hans": "隧者消失后，深空联合的投资方一度想要关闭拉贝尔学部……但在洛瑟菈校长的据理力争，和学院大家的实际行动下，拉贝尔学部得以保留。"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157759",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157759",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_12",
+          "text": "未来，他们仍会朝着天空努力前进。",
+          "texts": {
+            "zh-Hans": "未来，他们仍会朝着天空努力前进。"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157760",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157760",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_4",
+          "text": "（还有……）",
+          "texts": {
+            "zh-Hans": "（还有……）"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157761",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157761",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "漂泊者_选项",
+          "speakers": {
+            "zh-Hans": "漂泊者_选项"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_5",
+          "text": "（问问今州大家的近况）",
+          "texts": {
+            "zh-Hans": "（问问今州大家的近况）"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157762",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157762",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "漂泊者_选项",
+          "speakers": {
+            "zh-Hans": "漂泊者_选项"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_6",
+          "text": "（问问秧秧的近况）",
+          "texts": {
+            "zh-Hans": "（问问秧秧的近况）"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157763",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157763",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_13",
+          "text": "今州的大家过得怎么样？那次追月节过后，似乎就很难有机会与大家重聚了。",
+          "texts": {
+            "zh-Hans": "今州的大家过得怎么样？那次追月节过后，似乎就很难有机会与大家重聚了。"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157764",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157764",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_14",
+          "text": "我的脚步……不知不觉已经迈出很远了。",
+          "texts": {
+            "zh-Hans": "我的脚步……不知不觉已经迈出很远了。"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157765",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157765",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_15",
+          "text": "有时我也会想着……要不要偶尔停歇下来，回到熟悉的地方。可每当冒出这种念头的时候，总有新的麻烦找上门来……",
+          "texts": {
+            "zh-Hans": "有时我也会想着……要不要偶尔停歇下来，回到熟悉的地方。可每当冒出这种念头的时候，总有新的麻烦找上门来……"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157766",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157766",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_17",
+          "text": "秧秧，最近你还好吗？",
+          "texts": {
+            "zh-Hans": "秧秧，最近你还好吗？"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157767",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157767",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "{PlayerName}",
+          "speakers": {
+            "zh-Hans": "{PlayerName}"
+          },
+          "speakerId": null,
+          "textKey": "Main_HuangLong_SYYLFML_20_18",
+          "text": "每当收到你的来信的时候，我都能意识到，自己离起点已经迈出了多远的距离。我相信我不在的这段时间里，你肯定也在朝着自己的目标努力……下次见面的时候，我们能够分享彼此的成果就好了。",
+          "texts": {
+            "zh-Hans": "每当收到你的来信的时候，我都能意识到，自己离起点已经迈出了多远的距离。我相信我不在的这段时间里，你肯定也在朝着自己的目标努力……下次见面的时候，我们能够分享彼此的成果就好了。"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:157768",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:157768",
+            "flowKey": "剧情_3_5_拉海洛今州_4_1",
+            "flowKeys": [
+              "剧情_3_5_拉海洛今州_4_1"
+            ]
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_SYYLFML_30_7",
+          "text": "（秧秧所做的那个梦……）",
+          "texts": {
+            "zh-Hans": "（秧秧所做的那个梦……）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_SYYLFML_30_8",
+          "text": "（自从被你唤醒之后，我也做过很多梦。美梦……噩梦，有的会像风一样一醒来就抛诸脑后，有的则会在心中烙印很久。）",
+          "texts": {
+            "zh-Hans": "（自从被你唤醒之后，我也做过很多梦。美梦……噩梦，有的会像风一样一醒来就抛诸脑后，有的则会在心中烙印很久。）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_SYYLFML_30_9",
+          "text": "（可它们终究只是梦，是不曾发生在现实中的，未被现在的我们吹出的余音。）",
+          "texts": {
+            "zh-Hans": "（可它们终究只是梦，是不曾发生在现实中的，未被现在的我们吹出的余音。）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_SYYLFML_30_10",
+          "text": "（然而，那场在云陵谷的邂逅，我们最初的相遇，是无论再多的梦也无法抹去的，属于我们的现实。）",
+          "texts": {
+            "zh-Hans": "（然而，那场在云陵谷的邂逅，我们最初的相遇，是无论再多的梦也无法抹去的，属于我们的现实。）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_SYYLFML_30_11",
+          "text": "（就像你当初取的这个名字一样，也许我注定一路漂泊，也许我的旅途注定充满未知。）",
+          "texts": {
+            "zh-Hans": "（就像你当初取的这个名字一样，也许我注定一路漂泊，也许我的旅途注定充满未知。）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_HuangLong_SYYLFML_30_12",
+          "text": "（可那也意味着……）",
+          "texts": {
+            "zh-Hans": "（可那也意味着……）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_30_1",
+          "text": "可那也意味着……",
+          "texts": {
+            "zh-Hans": "可那也意味着……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_30_2",
+          "text": "在无数的明天，我们的轨迹……",
+          "texts": {
+            "zh-Hans": "在无数的明天，我们的轨迹……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_30_3",
+          "text": "就有无数个交错的可能。",
+          "texts": {
+            "zh-Hans": "就有无数个交错的可能。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 68
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 3,
+      "kind": "manual-override-node",
+      "title": "继续前进",
+      "titles": {
+        "zh-Hans": "继续前进"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-3",
+      "sourceNodeKey": "node:2",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_3_5_拉海洛今州",
+          "flowId": 50,
+          "stateId": 1,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_3_5_拉海洛今州",
+          "flowId": 50,
+          "stateId": 2,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_3_5_拉海洛今州",
+          "flowId": 50,
+          "stateId": 3,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_3_5_拉海洛今州",
+          "flowId": 50,
+          "stateId": 4,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Main_HuangLong_SYYLFML_30_4",
+          "text": "喂——！秧秧，该走啦！",
+          "texts": {
+            "zh-Hans": "喂——！秧秧，该走啦！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_30_5",
+          "text": "嗯，我就来。",
+          "texts": {
+            "zh-Hans": "嗯，我就来。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/3/Flow -> 剧情_3_5_拉海洛今州_50_1:/5/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Main_HuangLong_SYYLFML_33_6",
+          "text": "我看看我看看……穿过前面的哨卡就是玄方地界了。没想到一路跟着线索跑，最后居然会到这么远的地方来。",
+          "texts": {
+            "zh-Hans": "我看看我看看……穿过前面的哨卡就是玄方地界了。没想到一路跟着线索跑，最后居然会到这么远的地方来。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 2
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_33_7",
+          "text": "那些失踪的人，最后都来到了这里……",
+          "texts": {
+            "zh-Hans": "那些失踪的人，最后都来到了这里……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 2
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Main_HuangLong_SYYLFML_33_8",
+          "text": "这也要多亏秧秧你的<te href=750055>流息</te>啦！要是没你把那些蛛丝马迹串联起来，我们不知要在今州兜多少圈呢！",
+          "texts": {
+            "zh-Hans": "这也要多亏秧秧你的<te href=750055>流息</te>啦！要是没你把那些蛛丝马迹串联起来，我们不知要在今州兜多少圈呢！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 2
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_33_9",
+          "text": "太夸张了，炽霞……按今巡尉的调查结果，他们都是因各种原因要往梦州去，而玄方地界就在必经之路上。",
+          "texts": {
+            "zh-Hans": "太夸张了，炽霞……按今巡尉的调查结果，他们都是因各种原因要往梦州去，而玄方地界就在必经之路上。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 2
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_33_10",
+          "text": "结果既没有人去到梦州，也无人折返回来……可如果我没记错的话，玄方地界——",
+          "texts": {
+            "zh-Hans": "结果既没有人去到梦州，也无人折返回来……可如果我没记错的话，玄方地界——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 2
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Main_HuangLong_SYYLFML_33_11",
+          "text": "去了不就知道发生了什么嘛。我已经跟上头申请过调查令了，只要给哨卡的人看过文书，应该就会放我们进城了。",
+          "texts": {
+            "zh-Hans": "去了不就知道发生了什么嘛。我已经跟上头申请过调查令了，只要给哨卡的人看过文书，应该就会放我们进城了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 2
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Main_HuangLong_SYYLFML_33_12",
+          "text": "呼……我还是头一次出这么远的外勤呢。总之，要把那些下落不明的人平安带回来！对吧，秧秧？",
+          "texts": {
+            "zh-Hans": "呼……我还是头一次出这么远的外勤呢。总之，要把那些下落不明的人平安带回来！对吧，秧秧？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 2
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_33_13",
+          "text": "嗯，我们走吧。",
+          "texts": {
+            "zh-Hans": "嗯，我们走吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 2
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/4/Flow -> 剧情_3_5_拉海洛今州_50_2:/7/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Main_HuangLong_SYYLFML_40_1",
+          "text": "话说，刚才你在那一个人看些什么呀？总感觉你看的时候一直在笑……好少见你露出那种表情哦。",
+          "texts": {
+            "zh-Hans": "话说，刚才你在那一个人看些什么呀？总感觉你看的时候一直在笑……好少见你露出那种表情哦。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/6/Flow -> 剧情_3_5_拉海洛今州_50_3:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 3
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/6/Flow -> 剧情_3_5_拉海洛今州_50_3:/1/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_40_2",
+          "text": "咦？我平时应该也没有那么严肃……吧？",
+          "texts": {
+            "zh-Hans": "咦？我平时应该也没有那么严肃……吧？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/6/Flow -> 剧情_3_5_拉海洛今州_50_3:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 3
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/6/Flow -> 剧情_3_5_拉海洛今州_50_3:/1/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Main_HuangLong_SYYLFML_40_3",
+          "text": "不一样不一样，明眼人都能看出来啦，笑也是分很多种的。比如习惯性的笑，和发自内心的笑肯定就不一样。能让秧秧发自内心笑出来的东西，我想想……",
+          "texts": {
+            "zh-Hans": "不一样不一样，明眼人都能看出来啦，笑也是分很多种的。比如习惯性的笑，和发自内心的笑肯定就不一样。能让秧秧发自内心笑出来的东西，我想想……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/6/Flow -> 剧情_3_5_拉海洛今州_50_3:/1/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 3
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/6/Flow -> 剧情_3_5_拉海洛今州_50_3:/1/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_40_4",
+          "text": "……现在还是专心出任务吧，炽霞。",
+          "texts": {
+            "zh-Hans": "……现在还是专心出任务吧，炽霞。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/6/Flow -> 剧情_3_5_拉海洛今州_50_3:/1/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 3
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/6/Flow -> 剧情_3_5_拉海洛今州_50_3:/1/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Main_HuangLong_SYYLFML_50_1",
+          "text": "奇怪……这里的人呢？按理来说应该会有守卫驻扎才是……",
+          "texts": {
+            "zh-Hans": "奇怪……这里的人呢？按理来说应该会有守卫驻扎才是……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/7/Flow -> 剧情_3_5_拉海洛今州_50_4:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 4
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/7/Flow -> 剧情_3_5_拉海洛今州_50_4:/1/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_HuangLong_SYYLFML_50_8",
+          "text": "……谨慎一点，炽霞。",
+          "texts": {
+            "zh-Hans": "……谨慎一点，炽霞。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:192000006/Data/7/Flow -> 剧情_3_5_拉海洛今州_50_4:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_5_拉海洛今州",
+            "flowId": 50,
+            "stateId": 4
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:192000006/Data/7/Flow -> 剧情_3_5_拉海洛今州_50_4:/1/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 4,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 68
+          }
+        ]
+      }
+    }
+  ]
+}

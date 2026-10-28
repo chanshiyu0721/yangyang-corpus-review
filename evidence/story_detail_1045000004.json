@@ -1,0 +1,2201 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1045000004",
+  "task_name": "来自毁灭的回声",
+  "version": "1.3版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1045000004",
+  "fetched_at": "2026-10-27T11:00:54+08:00",
+  "source_sha256": "dfabbb13bb1b645e307604041f4f4d714e4cba6e174ae92ac2efa162708d2317",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 0,
+      "kind": "manual-override-node",
+      "title": "前往归墟港市与秧秧会合",
+      "titles": {
+        "zh-Hans": "前往归墟港市与秧秧会合"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-1",
+      "sourceNodeKey": "node:0",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_1_3_黑海岸主线",
+          "flowId": 3,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_2_4",
+          "text": "喂喂喂，没想到还能在这儿见到夜归……",
+          "texts": {
+            "zh-Hans": "喂喂喂，没想到还能在这儿见到夜归……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_2_6",
+          "text": "啊！漂泊者，你终于来了……",
+          "texts": {
+            "zh-Hans": "啊！漂泊者，你终于来了……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_2_8",
+          "text": "哦？原来是漂泊者啊，久仰久仰！",
+          "texts": {
+            "zh-Hans": "哦？原来是漂泊者啊，久仰久仰！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_2_34",
+          "text": "对了，这位是今州城里的釉瑚，和陈皮先生一样，也是古玩方面的专家。",
+          "texts": {
+            "zh-Hans": "对了，这位是今州城里的釉瑚，和陈皮先生一样，也是古玩方面的专家。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_35",
+          "text": "正是在下！",
+          "texts": {
+            "zh-Hans": "正是在下！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_2_36",
+              "text": "古玩商人来这种地方，有何贵干？",
+              "texts": {
+                "zh-Hans": "古玩商人来这种地方，有何贵干？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_9",
+          "text": "当然是来寻找和宝物有关的线索啦！自从前些日子乘霄山畅通无阻，我和师父发现，市面上开始出现了些乘霄山的东西。",
+          "texts": {
+            "zh-Hans": "当然是来寻找和宝物有关的线索啦！自从前些日子乘霄山畅通无阻，我和师父发现，市面上开始出现了些乘霄山的东西。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_10",
+          "text": "里面除了稷廷的古董，还有些看不出属地的物件，也没有乘霄山的特征。",
+          "texts": {
+            "zh-Hans": "里面除了稷廷的古董，还有些看不出属地的物件，也没有乘霄山的特征。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_11",
+          "text": "所以……",
+          "texts": {
+            "zh-Hans": "所以……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_2_40",
+              "text": "所以——",
+              "texts": {
+                "zh-Hans": "所以——"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 8,
+              "talkIndex": 7,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_13",
+          "text": "没错！据我推测，很可能是归墟港市的古董！",
+          "texts": {
+            "zh-Hans": "没错！据我推测，很可能是归墟港市的古董！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_2_41",
+              "text": "我是接到了秧秧的消息……",
+              "texts": {
+                "zh-Hans": "我是接到了秧秧的消息……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 9,
+              "talkIndex": 8,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_2_16",
+          "text": "我请漂泊者过来，是因为之前你说过，想要去黑海岸寻找有关自己过去的线索。",
+          "texts": {
+            "zh-Hans": "我请漂泊者过来，是因为之前你说过，想要去黑海岸寻找有关自己过去的线索。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_2_42",
+          "text": "北落野的战斗告一段落后，今州的黑海岸成员就陆续撤回了。不过前几天，他们向夜归申报，要在归墟港市开展环境监测。",
+          "texts": {
+            "zh-Hans": "北落野的战斗告一段落后，今州的黑海岸成员就陆续撤回了。不过前几天，他们向夜归申报，要在归墟港市开展环境监测。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_2_43",
+          "text": "所以，趁着这个机会，我想或许我们可以过来找他们问问……",
+          "texts": {
+            "zh-Hans": "所以，趁着这个机会，我想或许我们可以过来找他们问问……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_2_19",
+              "text": "没想到你居然还记得。",
+              "texts": {
+                "zh-Hans": "没想到你居然还记得。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 12,
+              "talkIndex": 11,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_2_21",
+          "text": "诶！？",
+          "texts": {
+            "zh-Hans": "诶！？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_2_22",
+          "text": "因为这件事之前你说起过……",
+          "texts": {
+            "zh-Hans": "因为这件事之前你说起过……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_37",
+          "text": "哎哟哟，原来秧秧这么在乎你呀？还是该说她对你特别上心？",
+          "texts": {
+            "zh-Hans": "哎哟哟，原来秧秧这么在乎你呀？还是该说她对你特别上心？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_2_39",
+          "text": "我、我只是觉得这件事对你很重要……",
+          "texts": {
+            "zh-Hans": "我、我只是觉得这件事对你很重要……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_46",
+          "text": "好了好了，不打趣你啦。话说回来，原来漂泊者你也是来找黑海岸的人的？",
+          "texts": {
+            "zh-Hans": "好了好了，不打趣你啦。话说回来，原来漂泊者你也是来找黑海岸的人的？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_2_23",
+              "text": "我还有之前秋水给我的黑花。",
+              "texts": {
+                "zh-Hans": "我还有之前秋水给我的黑花。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 17,
+              "talkIndex": 16,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_2_24",
+              "text": "凭这个，应该可以去找他们吧？",
+              "texts": {
+                "zh-Hans": "凭这个，应该可以去找他们吧？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 17,
+              "talkIndex": 16,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_28",
+          "text": "不如，我们顺路做个伴？",
+          "texts": {
+            "zh-Hans": "不如，我们顺路做个伴？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_31",
+          "text": "就由本大师为你们保驾护航吧！有我和大名鼎鼎的漂泊者在，归墟港市也没什么好怕的！",
+          "texts": {
+            "zh-Hans": "就由本大师为你们保驾护航吧！有我和大名鼎鼎的漂泊者在，归墟港市也没什么好怕的！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_2_44",
+              "text": "那倒也没有那么夸张……",
+              "texts": {
+                "zh-Hans": "那倒也没有那么夸张……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 19,
+              "talkIndex": 18,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 19,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_2_32",
+          "text": "我有种预感，保不准，这会是你另一场冒险的开始。",
+          "texts": {
+            "zh-Hans": "我有种预感，保不准，这会是你另一场冒险的开始。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 20,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_2_45",
+          "text": "既然漂泊者已经到了，那我们先去和那位黑海岸的执花沟通下吧。",
+          "texts": {
+            "zh-Hans": "既然漂泊者已经到了，那我们先去和那位黑海岸的执花沟通下吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 1
+          },
+          "talkId": 21,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/1/Flow -> 剧情_1_3_黑海岸主线_3_1:/5/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 22
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 5,
+      "kind": "manual-override-node",
+      "title": "继续前往指定坐标",
+      "titles": {
+        "zh-Hans": "继续前往指定坐标"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-6",
+      "sourceNodeKey": "node:5",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_1_3_黑海岸主线",
+          "flowId": 3,
+          "stateId": 2,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_1_3_黑海岸主线",
+          "flowId": 3,
+          "stateId": 13,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_8_36",
+          "text": "这里……",
+          "texts": {
+            "zh-Hans": "这里……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8_37",
+          "text": "先救人！",
+          "texts": {
+            "zh-Hans": "先救人！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8_38",
+          "text": "已经……太晚了。",
+          "texts": {
+            "zh-Hans": "已经……太晚了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_8_39",
+          "text": "他们就是那位执花说的收容员吗……",
+          "texts": {
+            "zh-Hans": "他们就是那位执花说的收容员吗……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8_40",
+          "text": "这里到底发生了什么……",
+          "texts": {
+            "zh-Hans": "这里到底发生了什么……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_1",
+          "text": "……欢迎。",
+          "texts": {
+            "zh-Hans": "……欢迎。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_41",
+          "text": "群星的调律者，漂泊者。我们已经在这里等您很久了。",
+          "texts": {
+            "zh-Hans": "群星的调律者，漂泊者。我们已经在这里等您很久了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_8_7",
+              "text": "你们是谁？",
+              "texts": {
+                "zh-Hans": "你们是谁？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 7,
+              "talkIndex": 6,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_8",
+          "text": "我们……没错，我们。",
+          "texts": {
+            "zh-Hans": "我们……没错，我们。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_9",
+          "text": "您要找的东西，那个引力源，正是我们。",
+          "texts": {
+            "zh-Hans": "您要找的东西，那个引力源，正是我们。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_11",
+          "text": "时间……不多了。霍德，名字是，霍德。",
+          "texts": {
+            "zh-Hans": "时间……不多了。霍德，名字是，霍德。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_25",
+          "text": "这是我的名字，作为……黑海岸执花的名字。",
+          "texts": {
+            "zh-Hans": "这是我的名字，作为……黑海岸执花的名字。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_8_42",
+              "text": "这些死去的执花和你有什么关系！",
+              "texts": {
+                "zh-Hans": "这些死去的执花和你有什么关系！"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 11,
+              "talkIndex": 10,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_26",
+          "text": "——不只是他们，还有很多人，男人，女人，老人，孩子。",
+          "texts": {
+            "zh-Hans": "——不只是他们，还有很多人，男人，女人，老人，孩子。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_27",
+          "text": "你听到我们的“悲鸣”了吗？",
+          "texts": {
+            "zh-Hans": "你听到我们的“悲鸣”了吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_28",
+          "text": "想起来吧，全都，想起来吧……",
+          "texts": {
+            "zh-Hans": "想起来吧，全都，想起来吧……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_43",
+          "text": "全都想起来吧，你的过去……你割舍的过去……你作为黑海岸一员的过去……",
+          "texts": {
+            "zh-Hans": "全都想起来吧，你的过去……你割舍的过去……你作为黑海岸一员的过去……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_44",
+          "text": "回应你……回应你的承诺……走向未来……",
+          "texts": {
+            "zh-Hans": "回应你……回应你的承诺……走向未来……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_45",
+          "text": "“救赎的责任……是无人需要拯救”",
+          "texts": {
+            "zh-Hans": "“救赎的责任……是无人需要拯救”"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_29",
+          "text": "不，不行！他们想要你成为一部分，绝对不行……",
+          "texts": {
+            "zh-Hans": "不，不行！他们想要你成为一部分，绝对不行……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 18,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_30",
+          "text": "快跑！快跑！漂泊者！",
+          "texts": {
+            "zh-Hans": "快跑！快跑！漂泊者！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 19,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_31",
+          "text": "这小女孩身上的，你就能找到……",
+          "texts": {
+            "zh-Hans": "这小女孩身上的，你就能找到……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 20,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "？？？",
+          "speakers": {
+            "zh-Hans": "？？？"
+          },
+          "speakerId": 178,
+          "textKey": "Heihaian_main_1_3_8_46",
+          "text": "就在她身上……",
+          "texts": {
+            "zh-Hans": "就在她身上……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 21,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_8_13",
+          "text": "嗯？和我有啥关系啊？",
+          "texts": {
+            "zh-Hans": "嗯？和我有啥关系啊？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 22,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8_14",
+          "text": "消失了？不要贸然过去，漂泊者！",
+          "texts": {
+            "zh-Hans": "消失了？不要贸然过去，漂泊者！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_8_15",
+              "text": "这个影子刚才提到了引力源。",
+              "texts": {
+                "zh-Hans": "这个影子刚才提到了引力源。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 23,
+              "talkIndex": 22,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_8_16",
+              "text": "这也许就是执花们找的东西。",
+              "texts": {
+                "zh-Hans": "这也许就是执花们找的东西。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 23,
+              "talkIndex": 22,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 23,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8_17",
+          "text": "那里残留着的频率非常混乱，直觉告诉我……很危险。",
+          "texts": {
+            "zh-Hans": "那里残留着的频率非常混乱，直觉告诉我……很危险。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/23/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 24,
+          "talkIndex": 23,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/23/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_8_32",
+          "text": "等一下！喂喂喂，怎么突然就开始闪烁发光了啊！",
+          "texts": {
+            "zh-Hans": "等一下！喂喂喂，怎么突然就开始闪烁发光了啊！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/24/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 25,
+          "talkIndex": 24,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/24/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_8_33",
+          "text": "果然这是黑海岸的东西吧！漂泊者，这个！",
+          "texts": {
+            "zh-Hans": "果然这是黑海岸的东西吧！漂泊者，这个！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/25/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 26,
+          "talkIndex": 25,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/25/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": 83,
+          "textKey": "Heihaian_main_1_3_8_48",
+          "text": "有节律地闪烁着光效的神秘物件，似乎寄宿着某种频率。",
+          "texts": {
+            "zh-Hans": "有节律地闪烁着光效的神秘物件，似乎寄宿着某种频率。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/26/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 2
+          },
+          "talkId": 27,
+          "talkIndex": 26,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/14/Flow -> 剧情_1_3_黑海岸主线_3_2:/3/TalkItems/26/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_8001_2",
+          "text": "我就是来找这个宝贝的线索的！当时我和师父就猜测它绝对是黑海岸的东西，现在看来，错不了！",
+          "texts": {
+            "zh-Hans": "我就是来找这个宝贝的线索的！当时我和师父就猜测它绝对是黑海岸的东西，现在看来，错不了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 13
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8001_4",
+          "text": "漂泊者，那段异常频率和这些殒命于此的执花脱不了干系。",
+          "texts": {
+            "zh-Hans": "漂泊者，那段异常频率和这些殒命于此的执花脱不了干系。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 13
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8001_5",
+          "text": "它转而寄宿到这件物品之上，我能感到它对黑海岸有着很强烈的执念……",
+          "texts": {
+            "zh-Hans": "它转而寄宿到这件物品之上，我能感到它对黑海岸有着很强烈的执念……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 13
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8001_6",
+          "text": "这绝不是我们能轻易解决的事，刚才的声音还提到了漂泊者和归墟港市的毁灭。",
+          "texts": {
+            "zh-Hans": "这绝不是我们能轻易解决的事，刚才的声音还提到了漂泊者和归墟港市的毁灭。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 13
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "釉瑚",
+          "speakers": {
+            "zh-Hans": "釉瑚"
+          },
+          "speakerId": 1387,
+          "textKey": "Heihaian_main_1_3_8001_7",
+          "text": "我们最好还是回到那位执花那里和她说明情况，这种情况最好让黑海岸的专业人士来处理。",
+          "texts": {
+            "zh-Hans": "我们最好还是回到那位执花那里和她说明情况，这种情况最好让黑海岸的专业人士来处理。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Heihaian_main_1_3_8001_8",
+              "text": "最好还是把这些消息同步给她。",
+              "texts": {
+                "zh-Hans": "最好还是把这些消息同步给她。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 13
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8001_9",
+          "text": "走吧，漂泊者。不知道为何，我总有种不太好的预感。",
+          "texts": {
+            "zh-Hans": "走吧，漂泊者。不知道为何，我总有种不太好的预感。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 13
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 34,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8001_10",
+          "text": "这件事……没有我们想象中的那么简单。",
+          "texts": {
+            "zh-Hans": "这件事……没有我们想象中的那么简单。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 13
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 35,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Heihaian_main_1_3_8001_11",
+          "text": "归墟港市一定还有我们尚未知晓的秘密……",
+          "texts": {
+            "zh-Hans": "归墟港市一定还有我们尚未知晓的秘密……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 13
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 36,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": null,
+          "textKey": "Heihaian_main_1_3_8001_13",
+          "text": "行动的同时，秧秧也立刻向夜归同步了这里的情况，着手准备带出执花们的遗体……",
+          "texts": {
+            "zh-Hans": "行动的同时，秧秧也立刻向夜归同步了这里的情况，着手准备带出执花们的遗体……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_1_3_黑海岸主线",
+            "flowId": 3,
+            "stateId": 13
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:145000004/Data/15/Flow -> 剧情_1_3_黑海岸主线_3_13:/3/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 2,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 22
+          }
+        ]
+      }
+    }
+  ]
+}

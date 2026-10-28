@@ -1,0 +1,2186 @@
+[
+  {
+    "case_id": "choice-HuanglongM1_1_14_6",
+    "display_id": "选项-001",
+    "group": "archive",
+    "scope": "archive",
+    "task": "嘤鸣初相召",
+    "title": "我拿到了一颗糖。"
+  },
+  {
+    "case_id": "choice-Huanglong_main_1_2_4_5",
+    "display_id": "选项-002",
+    "group": "archive",
+    "scope": "archive",
+    "task": "嘤鸣初相召",
+    "title": "你太凶了，好吓人。"
+  },
+  {
+    "case_id": "choice-Huanglong_main_1_6_23_10",
+    "display_id": "选项-003",
+    "group": "archive",
+    "scope": "archive",
+    "task": "欲知天将雨",
+    "title": "我已经听到了……"
+  },
+  {
+    "case_id": "turn-T7-0fc004a3559e",
+    "display_id": "回合-001",
+    "group": "baseline",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "呼……太好了……"
+  },
+  {
+    "case_id": "turn-T7-4eed1133fdc5",
+    "display_id": "回合-002",
+    "group": "archive",
+    "scope": "archive",
+    "task": "嘤鸣初相召",
+    "title": "或许，这个糖丸是特定时代的东西？"
+  },
+  {
+    "case_id": "turn-T7-a747792f15f3",
+    "display_id": "回合-003",
+    "group": "baseline",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "漂泊者！漂泊者！"
+  },
+  {
+    "case_id": "turn-T7-bfcbf08586bd",
+    "display_id": "回合-004",
+    "group": "baseline",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "白芷，刚刚那是……什么情况？我们和漂泊者的联系突然就断开了。"
+  },
+  {
+    "case_id": "turn-T7-09dd6d5d4a6f",
+    "display_id": "回合-005",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "我没事……只是还不太清楚现在的情况……"
+  },
+  {
+    "case_id": "turn-T7-120072497b86",
+    "display_id": "回合-006",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "总觉得，她身上有一部分，和以前的我很像……希望我能分担一些她的压力。"
+  },
+  {
+    "case_id": "turn-T7-1ac6dc342ba6",
+    "display_id": "回合-007",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "如果我能借助「流息」获得一些线索……"
+  },
+  {
+    "case_id": "turn-T7-3700be30927b",
+    "display_id": "回合-008",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（应该就是椋羽提到的营地吧。）"
+  },
+  {
+    "case_id": "turn-T7-3d2a36bd19b8",
+    "display_id": "回合-009",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "……在衔翎村，我认识了椋羽，她年纪很轻，但已经是玄方城的「后玄骑使」。是她告诉我玄方地界近日的异变，而她的同伴此前牺牲在了咎庭中……"
+  },
+  {
+    "case_id": "turn-T7-45f23c6c8ec6",
+    "display_id": "回合-010",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（……看起来还有人在这里驻扎，得尽快赶到那里去。）"
+  },
+  {
+    "case_id": "turn-T7-4e0e095fe7c5",
+    "display_id": "回合-011",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "椋羽……后玄骑使……衔翎村……"
+  },
+  {
+    "case_id": "turn-T7-6103c74a7c21",
+    "display_id": "回合-012",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（那是……）"
+  },
+  {
+    "case_id": "turn-T7-6e023f2a6625",
+    "display_id": "回合-013",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "清剿残象的机傀……如今发生了异常，开始袭击人类。原因尚不清楚，但直觉告诉我，这不像是某种故障，而是人为引发的现象……然而，现在玄方城与外界断绝了联系，定玄卫们疲于应对机傀"
+  },
+  {
+    "case_id": "turn-T7-d398130df6b6",
+    "display_id": "回合-014",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（果然往这附近来了……得抓紧时间……）"
+  },
+  {
+    "case_id": "turn-T7-d892351234bd",
+    "display_id": "回合-015",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（能见度太低了……得找其他的路……）"
+  },
+  {
+    "case_id": "turn-T7-d9c2b5ecbb20",
+    "display_id": "回合-016",
+    "group": "baseline",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "不知道什么时候，有一只机关鸟跟在了我的身边，当地人叫它「梁鸢」，原型似乎是玄方地界曾经的某种灵兽……它很聪明，还似乎有意无意地引导着我……总觉得，就像一只真正的鸟儿一样。"
+  },
+  {
+    "case_id": "turn-T7-ec21775a0c5c",
+    "display_id": "回合-017",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "究竟发生什么了？我记得……玄方城的机傀，应该是帮助士兵对抗残象的武器，为什么会突然开始袭击人类？"
+  },
+  {
+    "case_id": "turn-T7-f783281e2f9d",
+    "display_id": "回合-018",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "……我叫秧秧，是今州夜归下属踏白，之所以来玄方地界，是为了协助今巡尉调查最近今州人口失踪的案子。"
+  },
+  {
+    "case_id": "turn-T7-4a3f0aaa43bc",
+    "display_id": "回合-019",
+    "group": "C",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "与残象共感……？"
+  },
+  {
+    "case_id": "turn-T7-eb5b770b8df4",
+    "display_id": "回合-020",
+    "group": "A",
+    "scope": "active",
+    "task": "烟云幽远心剑鸣③",
+    "title": "我们，绝不会输！"
+  },
+  {
+    "case_id": "turn-T7-30d89ed3ce20",
+    "display_id": "回合-021",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "姐姐……"
+  },
+  {
+    "case_id": "turn-T7-5e71f190537e",
+    "display_id": "回合-022",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "话说，刚才送来信物的那只鸟……漂泊者，难道……"
+  },
+  {
+    "case_id": "turn-T7-c2455aa87ee3",
+    "display_id": "回合-023",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "对不起，椋羽，我没能——"
+  },
+  {
+    "case_id": "turn-T7-ee1d150b14e7",
+    "display_id": "回合-024",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "我们——"
+  },
+  {
+    "case_id": "turn-T7-f61ece8068a3",
+    "display_id": "回合-025",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "随后，从过去走向明天。"
+  },
+  {
+    "case_id": "turn-T7-180895a26db6",
+    "display_id": "回合-026",
+    "group": "A",
+    "scope": "reference",
+    "task": "任务尚未定位",
+    "title": "安静、温煦，通过流息，我感受了大家实现心愿后的心情。"
+  },
+  {
+    "case_id": "turn-T7-576360a28a23",
+    "display_id": "回合-027",
+    "group": "B",
+    "scope": "reference",
+    "task": "任务尚未定位",
+    "title": "需要帮忙吗？风能感知到更多信息……听，那些心愿回应我了。"
+  },
+  {
+    "case_id": "turn-T7-5a7602debe62",
+    "display_id": "回合-028",
+    "group": "C",
+    "scope": "reference",
+    "task": "任务尚未定位",
+    "title": "要挑战一下吗？灯谜的答案也藏着不少追月节的习俗和寓意哦。"
+  },
+  {
+    "case_id": "turn-T7-7b413b8cd7a0",
+    "display_id": "回合-029",
+    "group": "A",
+    "scope": "reference",
+    "task": "任务尚未定位",
+    "title": "风听见了你的心声，但无论结果如何，与你同行的记忆又多了一份。"
+  },
+  {
+    "case_id": "turn-T7-3f69d2d8cbfb",
+    "display_id": "回合-030",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：1 3 角色试用 4 1",
+    "title": "云雀的歌，即将唱响。"
+  },
+  {
+    "case_id": "turn-T7-8acc090e60d4",
+    "display_id": "回合-031",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：3 5 战斗拍照复开 角色入场台词 2 1",
+    "title": "万音流转！"
+  },
+  {
+    "case_id": "turn-T7-f3fb8c3c6a42",
+    "display_id": "回合-032",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：3 5 战斗拍照复开 角色入场台词 9 1",
+    "title": "翩若惊鸿！"
+  },
+  {
+    "case_id": "turn-T7-bb772c1a750c",
+    "display_id": "回合-033",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：3 5 拉海洛今州 2 1",
+    "title": "漂泊者： 不知你在星炬学院过得还好么？今天所照拂我的阳光，要隔多久才能到你那儿去呢？ 最近……我偶尔会做一个梦。梦见自己独自一人身处云陵谷，不断地跑着跑着……每当我像是要…"
+  },
+  {
+    "case_id": "turn-T7-3867009e32fc",
+    "display_id": "回合-034",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：3 5 每日 华胥院找药材 26 1",
+    "title": "嗯，好！"
+  },
+  {
+    "case_id": "turn-T7-552118f0f437",
+    "display_id": "回合-035",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：3 5 每日 华胥院找药材 26 1",
+    "title": "……太好了！"
+  },
+  {
+    "case_id": "turn-T7-7c8af151fd96",
+    "display_id": "回合-036",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：3 5 每日 华胥院找药材 26 1",
+    "title": "白芷呢？感冒好些了吗？"
+  },
+  {
+    "case_id": "turn-T7-14765f0c7a67",
+    "display_id": "回合-037",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：3 5 每日 华胥院找药材 3 1",
+    "title": "了解！白芷真好~"
+  },
+  {
+    "case_id": "turn-T7-5d4c7bffa58f",
+    "display_id": "回合-038",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：3 5 每日 华胥院找药材 3 1",
+    "title": "是啊，我也……很想念大家。"
+  },
+  {
+    "case_id": "turn-T7-a73a801126f0",
+    "display_id": "回合-039",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：3 5 每日 华胥院找药材 3 1",
+    "title": "等这边稳定下来，我马上回去陪你。"
+  },
+  {
+    "case_id": "turn-T7-c2ebf56519a5",
+    "display_id": "回合-040",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "我们——"
+  },
+  {
+    "case_id": "turn-T7-7b517c35f0c9",
+    "display_id": "回合-041",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：3 5 玄方城 秧秧 2 1 15",
+    "title": "（这间屋子似乎已经没有人了……）"
+  },
+  {
+    "case_id": "turn-T7-7ec1a984465d",
+    "display_id": "回合-042",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：3 5 玄方城 秧秧 2 2 12",
+    "title": "（流息中的频率改变了……这里的确是一处索诺拉……）"
+  },
+  {
+    "case_id": "turn-T7-f05441ecaac5",
+    "display_id": "回合-043",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：3 5 玄方城 秧秧 2 2 24",
+    "title": "那条路……似乎能避开大部分的机傀……"
+  },
+  {
+    "case_id": "turn-T7-372743aa9a99",
+    "display_id": "回合-044",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（能见度太低了……得找其他的路……）"
+  },
+  {
+    "case_id": "turn-T7-644f0c41df93",
+    "display_id": "回合-045",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：3 5 玄方城 秧秧 2 3 8",
+    "title": "渊城战场……即便过了那么多年，还是那么的……"
+  },
+  {
+    "case_id": "turn-T7-2792cf62ce9d",
+    "display_id": "回合-046",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：3 6 玄方城 2 1",
+    "title": "姐姐就在我边上……我们快到离开玄方地界的关口了。"
+  },
+  {
+    "case_id": "turn-T7-983963443d4f",
+    "display_id": "回合-047",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：3 6 玄方城 2 1",
+    "title": "嗯，我们等你。"
+  },
+  {
+    "case_id": "turn-T7-b42904a71eb4",
+    "display_id": "回合-048",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：3 6 玄方城 2 1",
+    "title": "姐姐……"
+  },
+  {
+    "case_id": "turn-T7-0ab2904ba183",
+    "display_id": "回合-049",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：3 7 梦枢天罗 3 8",
+    "title": "虽然知道是你的话一定没问题，但神宫之内一切未知……我还是有些担心。"
+  },
+  {
+    "case_id": "turn-T7-6a10f764f795",
+    "display_id": "回合-050",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：3 7 梦枢天罗 3 8",
+    "title": "嗯……"
+  },
+  {
+    "case_id": "turn-T7-db36d4162c8f",
+    "display_id": "回合-051",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：3 7 梦枢天罗 3 8",
+    "title": "{PlayerName}！"
+  },
+  {
+    "case_id": "turn-T7-2456ca33b7ae",
+    "display_id": "回合-052",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：3.5玄方 主线差分配音 4 1",
+    "title": "……刀剑无眼，小心了！"
+  },
+  {
+    "case_id": "turn-T7-991054b25c6c",
+    "display_id": "回合-053",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：3.5玄方 主线差分配音 4 3",
+    "title": "啊……！好的。"
+  },
+  {
+    "case_id": "turn-T7-16fcee99dd2e",
+    "display_id": "回合-054",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：3.5玄方 主线差分配音 4 5",
+    "title": "……承让了，我们点到为止吧。"
+  },
+  {
+    "case_id": "turn-T7-2a96f2a890ea",
+    "display_id": "回合-055",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：3.5玄方 主线差分配音 4 7",
+    "title": "嗯……应该……不会有那么大阵仗吧……？"
+  },
+  {
+    "case_id": "turn-T7-7eace6945e28",
+    "display_id": "回合-056",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：3.5玄方 主线差分配音 4 7",
+    "title": "哈哈……是吗？那么，希望她能快点痊愈吧。"
+  },
+  {
+    "case_id": "turn-T7-caf2b09ebdf2",
+    "display_id": "回合-057",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：3.5玄方 主线差分配音 4 9",
+    "title": "侥幸而已……我也还有很多要学的。剑术方面……我没什么天赋，只是练的时间比较久，有些基础吧。"
+  },
+  {
+    "case_id": "turn-T7-f0b94126ef17",
+    "display_id": "回合-058",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：序章 1 6",
+    "title": "漂泊者的手背有声痕，身上也携带着葫芦，虽然看上去样式有些不同，但这两者都是共鸣者的象征。"
+  },
+  {
+    "case_id": "turn-T7-8e34a4b770a3",
+    "display_id": "回合-059",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：摩托车共乘 SP秧秧 1 1",
+    "title": "今天，要去哪里呢？"
+  },
+  {
+    "case_id": "turn-T7-3e3cb0954ee8",
+    "display_id": "回合-060",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：摩托车共乘 SP秧秧 1 2",
+    "title": "天气正好，要去哪里逛逛吗？"
+  },
+  {
+    "case_id": "turn-T7-0d48cce3c50a",
+    "display_id": "回合-061",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：摩托车共乘 SP秧秧 1 3",
+    "title": "下雨了……注意别感冒着凉哦。"
+  },
+  {
+    "case_id": "turn-T7-711d3880c1fc",
+    "display_id": "回合-062",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：摩托车共乘 SP秧秧 1 4",
+    "title": "……好安静，希望这段时间，能持续得久一些……"
+  },
+  {
+    "case_id": "turn-T7-bdff15c0fd5d",
+    "display_id": "回合-063",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：摩托车共乘 SP秧秧 1 5",
+    "title": "这种天气下，会有些看不清吧？没关系，流息会指引我们的方向。"
+  },
+  {
+    "case_id": "turn-T7-9ca0b73f93b3",
+    "display_id": "回合-064",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：生日短信2025 秧秧 1 1",
+    "title": "嗯，如果这些话能让你的今天变得稍微更好一些，那就够了。"
+  },
+  {
+    "case_id": "turn-T7-dccb2955c3be",
+    "display_id": "回合-065",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：生日短信2025 秧秧 1 1",
+    "title": "{PlayerName}，你……收到了吧？"
+  },
+  {
+    "case_id": "turn-T7-dd34124dee99",
+    "display_id": "回合-066",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：生日短信2025 秧秧 1 1",
+    "title": "嗯，今天是你的生日嘛，用飞讯这种方式给你祝福，还是第一次……但比起书信，果然我还是更想用这种可以立刻传达心意的方式——"
+  },
+  {
+    "case_id": "turn-T7-271d86ffedfd",
+    "display_id": "回合-067",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：生日短信2026 秧秧 2 1",
+    "title": "那就好。"
+  },
+  {
+    "case_id": "turn-T7-2e55024a5258",
+    "display_id": "回合-068",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：生日短信2026 秧秧 2 1",
+    "title": "用这样的方式，向你送上祝福，似乎还是第一次……希望你不会因为突然收到这样的飞讯而觉得冒昧。"
+  },
+  {
+    "case_id": "turn-T7-c2ed11b1eaa6",
+    "display_id": "回合-069",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：生日短信2026 秧秧 2 1",
+    "title": "嗯，{PlayerName}……"
+  },
+  {
+    "case_id": "turn-T7-0201ba8aafc7",
+    "display_id": "回合-070",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：第一章 第四幕 奔策候残星 3 1",
+    "title": "漂泊者？"
+  },
+  {
+    "case_id": "turn-T7-af2d625966ab",
+    "display_id": "回合-071",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：第一章 第四幕 奔策候残星 3 1",
+    "title": "……那是，中曲台地，祈池村。"
+  },
+  {
+    "case_id": "turn-T7-56740aba195d",
+    "display_id": "回合-072",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：第五章1 8 9",
+    "title": "嗯，搬运物资的事情，就交给我们吧。"
+  },
+  {
+    "case_id": "turn-T7-8849eb88112c",
+    "display_id": "回合-073",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：第八章 5 4",
+    "title": "道路又被碎石阻断了……这块碎石好像被什么挡住了？怎么也移不开……"
+  },
+  {
+    "case_id": "turn-T7-613a65fff124",
+    "display_id": "回合-074",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：第八章 5 6",
+    "title": "障碍清除掉了，可以将原本阻挡气流的碎石移开了！"
+  },
+  {
+    "case_id": "turn-T7-8a70bd820270",
+    "display_id": "回合-075",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：第八章 5 7",
+    "title": "马上就要抵达最顶端了。这块巨大的碎石，必须要将它挪开才行……"
+  },
+  {
+    "case_id": "turn-T7-a76976130827",
+    "display_id": "回合-076",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：第八章 5 8",
+    "title": "呼……成功了！"
+  },
+  {
+    "case_id": "turn-T7-4e0770594517",
+    "display_id": "回合-077",
+    "group": "archive",
+    "scope": "archive",
+    "task": "场景线索：第八章 5 9",
+    "title": "还差一点……"
+  },
+  {
+    "case_id": "turn-T7-3e31e3fbb871",
+    "display_id": "回合-078",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 2 1",
+    "title": "{PlayerName}，你来了啊。说起来，你有好好逛过衔翎村了吗？"
+  },
+  {
+    "case_id": "turn-T7-4a6dfa82ae5d",
+    "display_id": "回合-079",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 2 1",
+    "title": "嗯，这次就不用拜托呜呜物流，我自己就能把信交到你手上了。"
+  },
+  {
+    "case_id": "turn-T7-d3ec143a6c9a",
+    "display_id": "回合-080",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 2 1",
+    "title": "椋羽把她家的屋子腾了出来，说如果是我们的话，想住多久都可以……我怎么也劝不过，就只好把钥匙收下了。"
+  },
+  {
+    "case_id": "turn-T7-d8f3bfb896ad",
+    "display_id": "回合-081",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 2 1",
+    "title": "是吗……不知道为什么，可能是玄翎雀的缘故吧，这里的一切总能给我带来熟悉的感觉。"
+  },
+  {
+    "case_id": "turn-T7-e44bfa650604",
+    "display_id": "回合-082",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 2 1",
+    "title": "……对了，虽然会有些奇怪，毕竟都在同一个地方——"
+  },
+  {
+    "case_id": "turn-T7-96d62daff22a",
+    "display_id": "回合-083",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 3 1",
+    "title": "嗯，我也希望，你也能一直保持着你那个，最初的愿望。"
+  },
+  {
+    "case_id": "turn-T7-a211ee79b30c",
+    "display_id": "回合-084",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 3 1",
+    "title": "是……也不是吧？现在能看到的玄翎雀，本质上，是由我通过共鸣力凝聚而成的。有时候，流息也会化作玄翎雀的样子，可能也是受了我的共鸣能力的影响吧。"
+  },
+  {
+    "case_id": "turn-T7-b2f5ed6411d9",
+    "display_id": "回合-085",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 3 1",
+    "title": "然而，他对天工，对玄方地界造成的伤害是板上钉钉的。"
+  },
+  {
+    "case_id": "turn-T7-b8d38f446c9c",
+    "display_id": "回合-086",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 3 1",
+    "title": "木禺……他所说的话，我思考过很久。关于岁主，关于情感……"
+  },
+  {
+    "case_id": "turn-T7-f2b642b808e7",
+    "display_id": "回合-087",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 3 1",
+    "title": "{PlayerName}，好巧啊。今天过得怎么样？要是觉得累了的话，一定要注意休息哦。"
+  },
+  {
+    "case_id": "turn-T7-93b72e3bed76",
+    "display_id": "回合-088",
+    "group": "B",
+    "scope": "reference",
+    "task": "场景线索：角色生态 秧秧 3 5 4 1",
+    "title": "对了，{PlayerName}，如果有空的话，偶尔也抽空回今州看看吧。"
+  },
+  {
+    "case_id": "turn-T7-484e6c75ea29",
+    "display_id": "回合-089",
+    "group": "C",
+    "scope": "reference",
+    "task": "场景线索：角色试用正式语音汇总 2 1",
+    "title": "云雀的歌，即将唱响。"
+  },
+  {
+    "case_id": "turn-T7-ef1e689207d6",
+    "display_id": "回合-090",
+    "group": "A",
+    "scope": "reference",
+    "task": "场景线索：角色试用正式语音汇总 46 1",
+    "title": "听凭风的指引。"
+  },
+  {
+    "case_id": "turn-T7-19fc5e6f2af9",
+    "display_id": "回合-091",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "……进入玄方地界后，不知出于什么原因，玄方城原本的守卫机傀与残象一起向我发起攻击。那之后，玄方城的定玄卫将我救下，随后，我便来到了衔翎村……"
+  },
+  {
+    "case_id": "turn-T7-c5f924babd81",
+    "display_id": "回合-092",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（那边是……异常机傀。）"
+  },
+  {
+    "case_id": "turn-T7-fb878356b521",
+    "display_id": "回合-093",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "请问……"
+  },
+  {
+    "case_id": "turn-T7-054c18ec76c7",
+    "display_id": "回合-094",
+    "group": "B",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "啊……不要再说了！"
+  },
+  {
+    "case_id": "turn-T7-360005c7d967",
+    "display_id": "回合-095",
+    "group": "C",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "啊……不要再说了！"
+  },
+  {
+    "case_id": "turn-T7-296d976d5158",
+    "display_id": "回合-096",
+    "group": "A",
+    "scope": "reference",
+    "task": "灵籁之契冥相因",
+    "title": "……等我之后回今州，再慢慢讲给你听吧？"
+  },
+  {
+    "case_id": "turn-T7-47fe1f5c8e8e",
+    "display_id": "回合-097",
+    "group": "B",
+    "scope": "reference",
+    "task": "灵籁之契冥相因",
+    "title": "这个……是个很长的故事呢……"
+  },
+  {
+    "case_id": "turn-T7-5f8d3d96b931",
+    "display_id": "回合-098",
+    "group": "C",
+    "scope": "reference",
+    "task": "灵籁之契冥相因",
+    "title": "诶？突然间怎么了……"
+  },
+  {
+    "case_id": "turn-T7-71fdf0d71617",
+    "display_id": "回合-099",
+    "group": "A",
+    "scope": "reference",
+    "task": "灵籁之契冥相因",
+    "title": "白芷说你现在各项指标都恢复得不错，不用太担心。"
+  },
+  {
+    "case_id": "turn-T7-d19fa31dd9f6",
+    "display_id": "回合-100",
+    "group": "B",
+    "scope": "reference",
+    "task": "灵籁之契冥相因",
+    "title": "先好好休息，再养几天，很快就能解放了。"
+  },
+  {
+    "case_id": "turn-T7-d283c8808107",
+    "display_id": "回合-101",
+    "group": "C",
+    "scope": "reference",
+    "task": "灵籁之契冥相因",
+    "title": "先别聊我了，你呢？"
+  },
+  {
+    "case_id": "turn-T7-f3847a788afa",
+    "display_id": "回合-102",
+    "group": "A",
+    "scope": "reference",
+    "task": "灵籁之契冥相因",
+    "title": "是不是哪里不舒服，头还痛吗？要不要先喝点水？"
+  },
+  {
+    "case_id": "turn-T7-f8fb9ed2975e",
+    "display_id": "回合-103",
+    "group": "B",
+    "scope": "reference",
+    "task": "灵籁之契冥相因",
+    "title": "嗯╭(●`●)╯╰(●''●)╮"
+  },
+  {
+    "case_id": "turn-T7-527fd0f22ec5",
+    "display_id": "回合-104",
+    "group": "C",
+    "scope": "active",
+    "task": "烟云幽远心剑鸣①",
+    "title": "这里不安全了，大家去井栈的凌空栈！"
+  },
+  {
+    "case_id": "turn-T7-acd4add29cd9",
+    "display_id": "回合-105",
+    "group": "A",
+    "scope": "reference",
+    "task": "烟云幽远心剑鸣",
+    "title": "{PlayerName}，现在有空吗？"
+  },
+  {
+    "case_id": "turn-T7-17fe871ffbaf",
+    "display_id": "回合-106",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "不行……不能让它们落到城里……"
+  },
+  {
+    "case_id": "turn-T7-23a4e44e91c9",
+    "display_id": "回合-107",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "我同意，得把大家搜集到的情报汇集起来才行。"
+  },
+  {
+    "case_id": "turn-T7-11562ae4c857",
+    "display_id": "回合-108",
+    "group": "A",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "就是这座龙形雕像的真身，今州的<ano=指引机枢>岁主</ano>，瑝珑共有一庭六州，各有一位岁主。身形样貌有相似相近，也有不同。"
+  },
+  {
+    "case_id": "turn-T7-3f6b48e0e83d",
+    "display_id": "回合-109",
+    "group": "B",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "我……没做什么，是漂泊者厉害。"
+  },
+  {
+    "case_id": "turn-T7-6031f6300497",
+    "display_id": "回合-110",
+    "group": "C",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "这里是云陵谷，瑝珑属下今州城的边地野外。"
+  },
+  {
+    "case_id": "turn-T7-839b2cd9c7be",
+    "display_id": "回合-111",
+    "group": "A",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "蛰伏期根据无音区形成时间有变化，一般来说，形成的时间越短，蛰伏期则越长。但蛰伏期越长，无音区孕育生成的残象则越加强大。"
+  },
+  {
+    "case_id": "turn-T7-641c71826022",
+    "display_id": "回合-112",
+    "group": "B",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "「类书」，可以理解为数据库，「瑝览类书」一般指的是瑝珑特有的大型数据库中枢。"
+  },
+  {
+    "case_id": "turn-T7-9aabe7da7094",
+    "display_id": "回合-113",
+    "group": "C",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "是个很好说话的人呢。"
+  },
+  {
+    "case_id": "turn-T7-e134d358eb3a",
+    "display_id": "回合-114",
+    "group": "A",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "那说明我们找寻的方向是正确的，漂泊者说不定很快就能找回自己的记忆。"
+  },
+  {
+    "case_id": "turn-T7-1cf9a22949d0",
+    "display_id": "回合-115",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（梁鸢……这是你的名字么？）"
+  },
+  {
+    "case_id": "turn-T7-30a39f15f8bd",
+    "display_id": "回合-116",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "哪怕直到现在，我还是会因为听到这些声音而心悸。"
+  },
+  {
+    "case_id": "turn-T7-3319938cf9fe",
+    "display_id": "回合-117",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "但是椋羽，我们是军人，我们有职责在身，不能在这种时候任性。"
+  },
+  {
+    "case_id": "turn-T7-49e8b6c60402",
+    "display_id": "回合-118",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（今州的失踪案……也正巧是在那段时间发生的……不能忽视这个线索……）"
+  },
+  {
+    "case_id": "turn-T7-5ce584001a82",
+    "display_id": "回合-119",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（董叔……是失踪名单上的一员……！）"
+  },
+  {
+    "case_id": "turn-T7-96331bd81d1c",
+    "display_id": "回合-120",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "悲剧的回响，灾祸的余音……明明一切已经尘埃落定，明明我已经什么也做不到了，它却还是执着地……让我听见。"
+  },
+  {
+    "case_id": "turn-T7-a292119eb4cb",
+    "display_id": "回合-121",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "它很方便，很有用……它能让我察觉，在那些不曾被留意的地方，有人正等待着一只向他伸出的手。"
+  },
+  {
+    "case_id": "turn-T7-b3d4ace2186f",
+    "display_id": "回合-122",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "可有时候，它也……很讨厌。"
+  },
+  {
+    "case_id": "turn-T7-e67484955386",
+    "display_id": "回合-123",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "……我的共鸣能力，能让我感知到来自远方的，由风捎来的讯息。"
+  },
+  {
+    "case_id": "turn-T7-f88f7b56bda6",
+    "display_id": "回合-124",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "换作平时，我……肯定不想勉强你这么做。"
+  },
+  {
+    "case_id": "turn-T7-fc6d3a57051c",
+    "display_id": "回合-125",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（这个人……总觉得有些……）"
+  },
+  {
+    "case_id": "turn-T7-325631d76e7f",
+    "display_id": "回合-126",
+    "group": "A",
+    "scope": "active",
+    "task": "庭际刀刃鸣",
+    "title": "十二时辰，<color=Highlight>未时</color>。"
+  },
+  {
+    "case_id": "turn-T7-ae5fffb9c0f3",
+    "display_id": "回合-127",
+    "group": "B",
+    "scope": "active",
+    "task": "庭际刀刃鸣",
+    "title": "曾改变过今州历史的人、即将要复苏的鸣式引发的战争、暗流涌动的残星会......"
+  },
+  {
+    "case_id": "turn-T7-ec876b5db8f5",
+    "display_id": "回合-128",
+    "group": "C",
+    "scope": "active",
+    "task": "庭际刀刃鸣",
+    "title": "嗯……"
+  },
+  {
+    "case_id": "turn-T7-06bde2feb2ce",
+    "display_id": "回合-129",
+    "group": "A",
+    "scope": "active",
+    "task": "待得团圆时",
+    "title": "嗯！既然如此……漂泊者还有什么想去的地方吗？"
+  },
+  {
+    "case_id": "turn-T7-90f6d4faab09",
+    "display_id": "回合-130",
+    "group": "B",
+    "scope": "active",
+    "task": "待得团圆时",
+    "title": "嗯！所以……我很喜欢现在的今州。"
+  },
+  {
+    "case_id": "turn-T7-de93b364dc31",
+    "display_id": "回合-131",
+    "group": "C",
+    "scope": "active",
+    "task": "待得团圆时",
+    "title": "一起答？这样可以吗？"
+  },
+  {
+    "case_id": "turn-T7-87988ab818f8",
+    "display_id": "回合-132",
+    "group": "A",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "……那是，中曲台地，祈池村。"
+  },
+  {
+    "case_id": "turn-T7-a2081ce2403a",
+    "display_id": "回合-133",
+    "group": "B",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "天空海和声弦是存在的，而在漂泊者的描述里，声弦落下的地界，确确实实是云陵谷和北落野。"
+  },
+  {
+    "case_id": "turn-T7-afcb62ff4203",
+    "display_id": "回合-134",
+    "group": "C",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "会这么巧吗？我们来到战场附近，正巧镇戍军将领正率军冲锋陷阵，又凑巧正是此刻……"
+  },
+  {
+    "case_id": "turn-T7-ecba232e8386",
+    "display_id": "回合-135",
+    "group": "A",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "你描述的那个男人……率军的青龙具气吞四野，凌跃万军之势，那正是夜归的旌旗，也是独属于夜归军将领……忌炎的象征。"
+  },
+  {
+    "case_id": "turn-T7-f620052a365a",
+    "display_id": "回合-136",
+    "group": "B",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "漂泊者是认为，残象潮是令尹想要通过莽吉柿告诉漂泊者的重要信息吗？"
+  },
+  {
+    "case_id": "turn-T7-6cad00e2e86a",
+    "display_id": "回合-137",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "木禺也许就是用这种办法，操控机傀的……"
+  },
+  {
+    "case_id": "turn-T7-747afb513d4c",
+    "display_id": "回合-138",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "（她……就是之前在记忆里看到的那位……难道说……她是椋羽的……）"
+  },
+  {
+    "case_id": "turn-T7-1c265219d615",
+    "display_id": "回合-139",
+    "group": "B",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "这里不是久留之地，如果漂泊者暂时没有其他打算的话，或许可以先和我们同行？"
+  },
+  {
+    "case_id": "turn-T7-2ef885c7f569",
+    "display_id": "回合-140",
+    "group": "C",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "刚才我并没有感应到任何无音区的气息……"
+  },
+  {
+    "case_id": "turn-T7-37dabcd6e841",
+    "display_id": "回合-141",
+    "group": "A",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "不知道为什么会在这里……也不记得自己是哪里人，什么身份吗。"
+  },
+  {
+    "case_id": "turn-T7-6bf4ffe1013b",
+    "display_id": "回合-142",
+    "group": "B",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "记忆里出现了岁主的影像？"
+  },
+  {
+    "case_id": "turn-T7-7721975c1144",
+    "display_id": "回合-143",
+    "group": "C",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "……无音区中央……"
+  },
+  {
+    "case_id": "turn-T7-aad48ba4450c",
+    "display_id": "回合-144",
+    "group": "A",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "啊，这是……遗留的残响？"
+  },
+  {
+    "case_id": "turn-T7-e4f7164f47ae",
+    "display_id": "回合-145",
+    "group": "B",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "漂泊者现在有什么打算吗？"
+  },
+  {
+    "case_id": "turn-T7-f847485a5a98",
+    "display_id": "回合-146",
+    "group": "C",
+    "scope": "active",
+    "task": "万象新声·上",
+    "title": "刚形成的无音区会有一段时间的“蛰伏期”，这一段时间是相对安全的。"
+  },
+  {
+    "case_id": "turn-T7-2665fba66690",
+    "display_id": "回合-147",
+    "group": "A",
+    "scope": "active",
+    "task": "不白之罪",
+    "title": "正是。若能查明木禺在天工部的行为痕迹，或许能启动二次筛查，减少机傀损耗，漂泊者，这件事可以拜托你吗？"
+  },
+  {
+    "case_id": "turn-T7-dd65693f3ded",
+    "display_id": "回合-148",
+    "group": "B",
+    "scope": "active",
+    "task": "不白之罪",
+    "title": "漂泊者？不妥……为了保护玄方城，你消耗很大，请好好休养，不然我会担心……"
+  },
+  {
+    "case_id": "turn-T7-6ba870c9fc03",
+    "display_id": "回合-149",
+    "group": "C",
+    "scope": "active",
+    "task": "千里卷戎旌②",
+    "title": "旁边的那个平台，也许可以利用？"
+  },
+  {
+    "case_id": "turn-T7-f687058d22ae",
+    "display_id": "回合-150",
+    "group": "A",
+    "scope": "active",
+    "task": "千里卷戎旌①",
+    "title": "漂泊者，你看见了吗？"
+  },
+  {
+    "case_id": "turn-T7-28fcec59ec02",
+    "display_id": "回合-151",
+    "group": "B",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "看来莫特斐先生还需要一些时间，在这里旁听着会不会不太好？"
+  },
+  {
+    "case_id": "turn-T7-445366c44a3e",
+    "display_id": "回合-152",
+    "group": "C",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "漂泊者，你有没有感觉，莫特斐先生现在的表情变得柔和了……？"
+  },
+  {
+    "case_id": "turn-T7-4d146f6f1382",
+    "display_id": "回合-153",
+    "group": "A",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "白芷说漂泊者的身体很健康，没有异常。"
+  },
+  {
+    "case_id": "turn-T7-735e80eb0479",
+    "display_id": "回合-154",
+    "group": "B",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "莫特斐先生……？"
+  },
+  {
+    "case_id": "turn-T7-8399e3e11980",
+    "display_id": "回合-155",
+    "group": "C",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "虽然没明白漂泊者在想什么，但我想总之先见一面，去亲自确认一下，会比较好？"
+  },
+  {
+    "case_id": "turn-T7-bb49c3dd5d8c",
+    "display_id": "回合-156",
+    "group": "A",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "麻烦您了。"
+  },
+  {
+    "case_id": "turn-T7-dc22db8bf86f",
+    "display_id": "回合-157",
+    "group": "B",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "既然这样的话。"
+  },
+  {
+    "case_id": "turn-T7-dedbec0e7cb3",
+    "display_id": "回合-158",
+    "group": "C",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "是令尹的贴身近卫。"
+  },
+  {
+    "case_id": "turn-T7-e55e1d4221f7",
+    "display_id": "回合-159",
+    "group": "A",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "真的很抱歉……"
+  },
+  {
+    "case_id": "turn-T7-e72b855b76e4",
+    "display_id": "回合-160",
+    "group": "B",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "记忆里，是护士姐姐给的糖果。"
+  },
+  {
+    "case_id": "turn-T7-f1f955358169",
+    "display_id": "回合-161",
+    "group": "C",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "现在晷面的两轮轮盘可以转动了……？"
+  },
+  {
+    "case_id": "turn-T7-f57a9ec365e0",
+    "display_id": "回合-162",
+    "group": "A",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "大多数是已经申请过会面的客人了，但听说他们都被婉拒劝回了，并没有见到令尹。"
+  },
+  {
+    "case_id": "turn-T7-f9bc9a35c600",
+    "display_id": "回合-163",
+    "group": "B",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "大多是一开始办手续时便被近卫好声劝回，反而是代为办理的和坚持见面的人留了下来。"
+  },
+  {
+    "case_id": "turn-T7-fbcede47845a",
+    "display_id": "回合-164",
+    "group": "C",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "海蚀是人类对悲鸣过后异常现象的总称，无音区的形成、天空海、溯回雨、失重等等，一切不同于往日的异常都被称为「海蚀现象」。"
+  },
+  {
+    "case_id": "turn-T7-ff1cd7b92ab5",
+    "display_id": "回合-165",
+    "group": "A",
+    "scope": "active",
+    "task": "嘤鸣初相召",
+    "title": "漂泊者的意思是？"
+  },
+  {
+    "case_id": "turn-T7-12299a3170e4",
+    "display_id": "回合-166",
+    "group": "B",
+    "scope": "active",
+    "task": "奔策候残星",
+    "title": "没有，我无法做到那样的事。我只是在它身上感知到一些复杂的情绪……浓烈的悲伤，与一种异样的期许。"
+  },
+  {
+    "case_id": "turn-T7-2092d05f6320",
+    "display_id": "回合-167",
+    "group": "C",
+    "scope": "active",
+    "task": "奔策候残星",
+    "title": "呼……谢谢你，漂泊者。请一定要提高警惕。"
+  },
+  {
+    "case_id": "turn-T7-e3769be6a642",
+    "display_id": "回合-168",
+    "group": "A",
+    "scope": "active",
+    "task": "奔策候残星",
+    "title": "它似乎在等待着解脱与救赎，但这种期许并不是指向它自身，我听见了它的悲鸣……不，是来自这座村庄的悲鸣。"
+  },
+  {
+    "case_id": "turn-T7-0fc79f4d8440",
+    "display_id": "回合-169",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "我……"
+  },
+  {
+    "case_id": "turn-T7-139734d0f431",
+    "display_id": "回合-170",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "怎么样？说出来，会好受些吧？"
+  },
+  {
+    "case_id": "turn-T7-2dde9477f30c",
+    "display_id": "回合-171",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "方擎西峰……为什么？那里有什么吗？"
+  },
+  {
+    "case_id": "turn-T7-38faa3b287dd",
+    "display_id": "回合-172",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（刚才看到的那名女子……就是要去参加云渊之役么？）"
+  },
+  {
+    "case_id": "turn-T7-430f82885be3",
+    "display_id": "回合-173",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "这些……声音……是……？"
+  },
+  {
+    "case_id": "turn-T7-4c046fce6c9a",
+    "display_id": "回合-174",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "机傀异常的原因尚未明了，如你所说，机傀与残象聚集于悬天构，你独自一人前往悬天构，怎么保证自身安全？"
+  },
+  {
+    "case_id": "turn-T7-782c477dd31d",
+    "display_id": "回合-175",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "没关系……我都知道，因为，我已经……听见了。"
+  },
+  {
+    "case_id": "turn-T7-7a5287a53654",
+    "display_id": "回合-176",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "那么，就把目光放在还活着的人身上吧。"
+  },
+  {
+    "case_id": "turn-T7-814497e3e960",
+    "display_id": "回合-177",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "您是……刚才与椋羽说话的那位……"
+  },
+  {
+    "case_id": "turn-T7-851490e0149c",
+    "display_id": "回合-178",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "不必道歉，虽然没有证据，但我隐约感觉，这一系列事件……应该存在某种联系。"
+  },
+  {
+    "case_id": "turn-T7-8a42002fd825",
+    "display_id": "回合-179",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "刚才那是……"
+  },
+  {
+    "case_id": "turn-T7-8b7843d2ad81",
+    "display_id": "回合-180",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "村长先生，请问，此处供奉的这柄剑是……？"
+  },
+  {
+    "case_id": "turn-T7-9372708fd01e",
+    "display_id": "回合-181",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "那在这之前，我去确认一下大家的情况吧。"
+  },
+  {
+    "case_id": "turn-T7-9459af6c8f6c",
+    "display_id": "回合-182",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（说起来……之前它也引了椋羽他们来帮我……）"
+  },
+  {
+    "case_id": "turn-T7-947ac38ad47b",
+    "display_id": "回合-183",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "是么……"
+  },
+  {
+    "case_id": "turn-T7-99af07bbad92",
+    "display_id": "回合-184",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "其他人我不知道，但到了最后，我的脑海里基本一片空白，只靠本能在战斗了。"
+  },
+  {
+    "case_id": "turn-T7-a1f6731d0bf6",
+    "display_id": "回合-185",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "（两百年前……指的是那场令今州始建的<te href=750053>云渊之役</te>吧。）"
+  },
+  {
+    "case_id": "turn-T7-bd727db2946f",
+    "display_id": "回合-186",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "所以你怀疑……那里或许藏着有关机傀发狂的线索？"
+  },
+  {
+    "case_id": "turn-T7-bd7b629fc747",
+    "display_id": "回合-187",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "对了，刚才那首歌是……？"
+  },
+  {
+    "case_id": "turn-T7-d06bc72d4aa2",
+    "display_id": "回合-188",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼①",
+    "title": "嗯，我就来。"
+  },
+  {
+    "case_id": "turn-T7-d1836341ba56",
+    "display_id": "回合-189",
+    "group": "A",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "原来如此……我知道了，我想想办法，看能不能替她分忧。"
+  },
+  {
+    "case_id": "turn-T7-ed01bba1740d",
+    "display_id": "回合-190",
+    "group": "B",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "我们来聊聊吧。"
+  },
+  {
+    "case_id": "turn-T7-fc17c07fd8bf",
+    "display_id": "回合-191",
+    "group": "C",
+    "scope": "active",
+    "task": "山雨欲来风满楼②",
+    "title": "……我只是觉得，大家听到这段旋律后，可能心情会变好一些。"
+  },
+  {
+    "case_id": "turn-T7-24e3fe499ed7",
+    "display_id": "回合-192",
+    "group": "A",
+    "scope": "active",
+    "task": "庭际刀刃鸣",
+    "title": "漂泊者的意思是……"
+  },
+  {
+    "case_id": "turn-T7-36c4ba3f9952",
+    "display_id": "回合-193",
+    "group": "B",
+    "scope": "active",
+    "task": "庭际刀刃鸣",
+    "title": "看来，确实是伤痕把那个女孩带走了……"
+  },
+  {
+    "case_id": "turn-T7-7122de728222",
+    "display_id": "回合-194",
+    "group": "C",
+    "scope": "active",
+    "task": "庭际刀刃鸣",
+    "title": "……"
+  },
+  {
+    "case_id": "turn-T7-b9eb9ae399a5",
+    "display_id": "回合-195",
+    "group": "A",
+    "scope": "active",
+    "task": "庭际刀刃鸣",
+    "title": "后来怎么样了？"
+  },
+  {
+    "case_id": "turn-T7-53197954cef5",
+    "display_id": "回合-196",
+    "group": "B",
+    "scope": "active",
+    "task": "待得团圆时",
+    "title": "诶，要我来选吗？嗯……那就，这个吧。"
+  },
+  {
+    "case_id": "turn-T7-5fc11f1f2c49",
+    "display_id": "回合-197",
+    "group": "C",
+    "scope": "active",
+    "task": "待得团圆时",
+    "title": "嗯……比起灯谜，更像是书院里常见的算术题……"
+  },
+  {
+    "case_id": "turn-T7-7e0e277e631c",
+    "display_id": "回合-198",
+    "group": "A",
+    "scope": "active",
+    "task": "待得团圆时",
+    "title": "嗯，好，我试试看……"
+  },
+  {
+    "case_id": "turn-T7-54d8820c65e4",
+    "display_id": "回合-199",
+    "group": "B",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "你们只破坏了这一个侦查塔吗？"
+  },
+  {
+    "case_id": "turn-T7-8816e0bf47d1",
+    "display_id": "回合-200",
+    "group": "C",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "刚才怎么了？有哪里不舒服吗？"
+  },
+  {
+    "case_id": "turn-T7-888eed4f6579",
+    "display_id": "回合-201",
+    "group": "A",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "漂泊者想到了什么？"
+  },
+  {
+    "case_id": "turn-T7-d1a0fbbc7d5d",
+    "display_id": "回合-202",
+    "group": "B",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "好，我们知道了。"
+  },
+  {
+    "case_id": "turn-T7-d79f26363407",
+    "display_id": "回合-203",
+    "group": "C",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "请问，这个侦查塔……"
+  },
+  {
+    "case_id": "turn-T7-ed5f0cce816f",
+    "display_id": "回合-204",
+    "group": "A",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "这场战事本身便是某种异动的征兆，或者二者兼有之。"
+  },
+  {
+    "case_id": "turn-T7-ff7d97cf6ad5",
+    "display_id": "回合-205",
+    "group": "B",
+    "scope": "active",
+    "task": "撞金止行阵",
+    "title": "但那边的侦查塔……？"
+  },
+  {
+    "case_id": "turn-T7-608dea9806ca",
+    "display_id": "回合-206",
+    "group": "C",
+    "scope": "active",
+    "task": "月下祈愿其四·筹备",
+    "title": "炽霞，放在这边就可以了。"
+  },
+  {
+    "case_id": "turn-T7-58b16ee61dba",
+    "display_id": "回合-207",
+    "group": "A",
+    "scope": "active",
+    "task": "月从今夜满",
+    "title": "这个提议好，漂泊者，和我们一同过节吧。追月节那天晚上，一定会有更多有趣的事。"
+  },
+  {
+    "case_id": "turn-T7-c7b873b6a275",
+    "display_id": "回合-208",
+    "group": "B",
+    "scope": "active",
+    "task": "月从今夜满",
+    "title": "嗯，过些天就是追月节了。"
+  },
+  {
+    "case_id": "turn-T7-1bfb2034507a",
+    "display_id": "回合-209",
+    "group": "C",
+    "scope": "active",
+    "task": "来自毁灭的回声",
+    "title": "消失了？不要贸然过去，漂泊者！"
+  },
+  {
+    "case_id": "turn-T7-4b3c74a144d2",
+    "display_id": "回合-210",
+    "group": "A",
+    "scope": "active",
+    "task": "来自毁灭的回声",
+    "title": "走吧，漂泊者。不知道为何，我总有种不太好的预感。"
+  },
+  {
+    "case_id": "turn-T7-7000f223c4ed",
+    "display_id": "回合-211",
+    "group": "B",
+    "scope": "active",
+    "task": "来自毁灭的回声",
+    "title": "我请漂泊者过来，是因为之前你说过，想要去黑海岸寻找有关自己过去的线索。"
+  },
+  {
+    "case_id": "turn-T7-93f3594d816f",
+    "display_id": "回合-212",
+    "group": "C",
+    "scope": "active",
+    "task": "来自毁灭的回声",
+    "title": "那里残留着的频率非常混乱，直觉告诉我……很危险。"
+  },
+  {
+    "case_id": "turn-T7-f20130ab64de",
+    "display_id": "回合-213",
+    "group": "A",
+    "scope": "active",
+    "task": "来自毁灭的回声",
+    "title": "诶！？"
+  },
+  {
+    "case_id": "turn-T7-1ba8fb1185db",
+    "display_id": "回合-214",
+    "group": "B",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "你想和我们分开行动？会不会太危险了？"
+  },
+  {
+    "case_id": "turn-T7-263b7f1867df",
+    "display_id": "回合-215",
+    "group": "C",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "方才我和炽霞按你说的，分别戴着黑花在大街上游走，可惜我没打听到什么有用的情报……"
+  },
+  {
+    "case_id": "turn-T7-3c917e1f30ce",
+    "display_id": "回合-216",
+    "group": "A",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "炽霞，你能再说一遍吗？"
+  },
+  {
+    "case_id": "turn-T7-47b142304544",
+    "display_id": "回合-217",
+    "group": "B",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "维里奈，你们是怎么遇见的？"
+  },
+  {
+    "case_id": "turn-T7-77b7f3308d84",
+    "display_id": "回合-218",
+    "group": "C",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "假设这朵黑花是黑海岸成员的信物，那么他们一定会注意到这朵黑花。"
+  },
+  {
+    "case_id": "turn-T7-80b9cf12ac14",
+    "display_id": "回合-219",
+    "group": "A",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "我明白你的意思。"
+  },
+  {
+    "case_id": "turn-T7-8e9ea19a13fa",
+    "display_id": "回合-220",
+    "group": "B",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "……那我去知会一下炽霞，我们会按照刚才的提议，戴上黑花尝试找出黑海岸的成员。"
+  },
+  {
+    "case_id": "turn-T7-c2423b9c6b54",
+    "display_id": "回合-221",
+    "group": "C",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "你会好奇这些……是今汐给你留下什么关于自己身份的线索了吗？"
+  },
+  {
+    "case_id": "turn-T7-ce805fe12c28",
+    "display_id": "回合-222",
+    "group": "A",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "就是这朵黑花了。"
+  },
+  {
+    "case_id": "turn-T7-fa073a1e9894",
+    "display_id": "回合-223",
+    "group": "B",
+    "scope": "active",
+    "task": "欲知天将雨",
+    "title": "没什么，都是一些寒暄之类的……"
+  },
+  {
+    "case_id": "turn-T7-1d650ab6ec45",
+    "display_id": "回合-224",
+    "group": "C",
+    "scope": "active",
+    "task": "灵籁之契冥相因",
+    "title": "其实，在你醒来之前……"
+  },
+  {
+    "case_id": "turn-T7-23402be0cd3f",
+    "display_id": "回合-225",
+    "group": "A",
+    "scope": "active",
+    "task": "灵籁之契冥相因",
+    "title": "漂泊者……？"
+  },
+  {
+    "case_id": "turn-T7-3ea67b83e254",
+    "display_id": "回合-226",
+    "group": "B",
+    "scope": "active",
+    "task": "灵籁之契冥相因",
+    "title": "我的……旅途……？"
+  },
+  {
+    "case_id": "turn-T7-45c504ddc495",
+    "display_id": "回合-227",
+    "group": "C",
+    "scope": "active",
+    "task": "灵籁之契冥相因",
+    "title": "这份力量……虽然还不清楚它到底是什么……"
+  },
+  {
+    "case_id": "turn-T7-605cc0af61ef",
+    "display_id": "回合-228",
+    "group": "A",
+    "scope": "active",
+    "task": "灵籁之契冥相因",
+    "title": "那么，漂泊者，待会儿再见。"
+  },
+  {
+    "case_id": "turn-T7-bafabf0bc79c",
+    "display_id": "回合-229",
+    "group": "B",
+    "scope": "active",
+    "task": "灵籁之契冥相因",
+    "title": "连华胥研究院都不知道吗……"
+  },
+  {
+    "case_id": "turn-T7-0cd7a3527989",
+    "display_id": "回合-230",
+    "group": "C",
+    "scope": "active",
+    "task": "烟云幽远心剑鸣②",
+    "title": "嗯，再次并肩而战吧。"
+  },
+  {
+    "case_id": "turn-T7-1f297d761dc7",
+    "display_id": "回合-231",
+    "group": "A",
+    "scope": "active",
+    "task": "烟云幽远心剑鸣②",
+    "title": "好……我知道了。"
+  },
+  {
+    "case_id": "turn-T7-4c8ecb549e1a",
+    "display_id": "回合-232",
+    "group": "B",
+    "scope": "active",
+    "task": "烟云幽远心剑鸣②",
+    "title": "不用担心。最后一批零星散落的民众，也都平安无事地撤到了防线的后方。"
+  },
+  {
+    "case_id": "turn-T7-857952fb4f6f",
+    "display_id": "回合-233",
+    "group": "C",
+    "scope": "active",
+    "task": "烟云幽远心剑鸣①",
+    "title": "漂泊者，清宵司骑！"
+  },
+  {
+    "case_id": "turn-T7-e983a9848b66",
+    "display_id": "回合-234",
+    "group": "A",
+    "scope": "active",
+    "task": "烟云幽远心剑鸣④",
+    "title": "漂泊者，别在姐姐面前这么夸我……"
+  },
+  {
+    "case_id": "turn-T7-f9a86c95ced0",
+    "display_id": "回合-235",
+    "group": "B",
+    "scope": "active",
+    "task": "烟云幽远心剑鸣①",
+    "title": "清宵司骑……你们一定要平安归来。"
+  },
+  {
+    "case_id": "turn-T7-01b522e85ce1",
+    "display_id": "回合-236",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音③",
+    "title": "嗯，到时候，就把大家都聚在一起，开个庆功宴吧。"
+  },
+  {
+    "case_id": "turn-T7-087288718a38",
+    "display_id": "回合-237",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "不过，现在至少知道，我们该阻止的人是谁了。"
+  },
+  {
+    "case_id": "turn-T7-0dacbc04ea00",
+    "display_id": "回合-238",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "而且，在此之前……"
+  },
+  {
+    "case_id": "turn-T7-1d2dcae18c28",
+    "display_id": "回合-239",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "乱说，明明是姐姐去哪儿都要我陪着，害我翘了那么多节声乐课……"
+  },
+  {
+    "case_id": "turn-T7-3233d91bded9",
+    "display_id": "回合-240",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音③",
+    "title": "也可能，它不单只是一只梁鸢呢……"
+  },
+  {
+    "case_id": "turn-T7-3741e17b8e4c",
+    "display_id": "回合-241",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "在这之前，我们得先阻止机傀继续暴乱才行。"
+  },
+  {
+    "case_id": "turn-T7-40d60b905a3b",
+    "display_id": "回合-242",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "没什么，有句话，刚才没来得及说，现在再说，感觉又好像有点晚……"
+  },
+  {
+    "case_id": "turn-T7-448bca65ee4a",
+    "display_id": "回合-243",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "太好了……"
+  },
+  {
+    "case_id": "turn-T7-49fd1fd6fced",
+    "display_id": "回合-244",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "漂泊者，你也听到了吗？"
+  },
+  {
+    "case_id": "turn-T7-4b817e8ca123",
+    "display_id": "回合-245",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "那个自称木禺的人……两百年前确实是琢钧堂的人……但如今他似乎已经和那里断了关系……"
+  },
+  {
+    "case_id": "turn-T7-68318a8f71af",
+    "display_id": "回合-246",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音③",
+    "title": "嗯，我知道了，白芷。"
+  },
+  {
+    "case_id": "turn-T7-6ce7e22bb920",
+    "display_id": "回合-247",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "那是……但姐姐不也经常在睡觉的时候跑出去看戏……"
+  },
+  {
+    "case_id": "turn-T7-728e1dba0545",
+    "display_id": "回合-248",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音③",
+    "title": "……对不起，我害大家担心了。"
+  },
+  {
+    "case_id": "turn-T7-79de2adc448c",
+    "display_id": "回合-249",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "……是一样的。"
+  },
+  {
+    "case_id": "turn-T7-7c178a0cc2ae",
+    "display_id": "回合-250",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "漂泊者……真是的，这怎么可能嘛……"
+  },
+  {
+    "case_id": "turn-T7-85fae839dd11",
+    "display_id": "回合-251",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "……对了！你有去今州见过炽霞吗？她怎么样了？她之前和残象战斗的时候受了伤——"
+  },
+  {
+    "case_id": "turn-T7-bd25265f12ca",
+    "display_id": "回合-252",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "是吗……就是，比我想象的要早了很多。"
+  },
+  {
+    "case_id": "turn-T7-bd96925ecf9e",
+    "display_id": "回合-253",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音③",
+    "title": "相里首席……！你也在啊。"
+  },
+  {
+    "case_id": "turn-T7-bdd924e4384e",
+    "display_id": "回合-254",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "不必担心，她一定会健康地、平安地长大。"
+  },
+  {
+    "case_id": "turn-T7-bf21488cda95",
+    "display_id": "回合-255",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "……我知道了，漂泊者，我们去吧！"
+  },
+  {
+    "case_id": "turn-T7-cadfb0c7fa9d",
+    "display_id": "回合-256",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "……不，没什么。"
+  },
+  {
+    "case_id": "turn-T7-da0e8e32f8fe",
+    "display_id": "回合-257",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "这些声音是……！"
+  },
+  {
+    "case_id": "turn-T7-e5a8a43e3744",
+    "display_id": "回合-258",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音③",
+    "title": "……如果能帮到大家的话。"
+  },
+  {
+    "case_id": "turn-T7-e7cdfef67d8c",
+    "display_id": "回合-259",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "……好久不见，漂泊者。"
+  },
+  {
+    "case_id": "turn-T7-f1b4af1945f3",
+    "display_id": "回合-260",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "抱歉，我没能拦住他……"
+  },
+  {
+    "case_id": "turn-T7-f62fb428709a",
+    "display_id": "回合-261",
+    "group": "A",
+    "scope": "active",
+    "task": "玄翎振壑定澜音③",
+    "title": "唔……"
+  },
+  {
+    "case_id": "turn-T7-f6f830766644",
+    "display_id": "回合-262",
+    "group": "B",
+    "scope": "active",
+    "task": "玄翎振壑定澜音①",
+    "title": "不过，你说得对。等回去之后，我得向大家道歉。"
+  },
+  {
+    "case_id": "turn-T7-fd4f972b0241",
+    "display_id": "回合-263",
+    "group": "C",
+    "scope": "active",
+    "task": "玄翎振壑定澜音②",
+    "title": "……你错了。"
+  },
+  {
+    "case_id": "turn-T7-00474c42fc82",
+    "display_id": "回合-264",
+    "group": "A",
+    "scope": "active",
+    "task": "紧急事件：核心危机",
+    "title": "……别听她的，漂泊者！他们……他们可是对玄方城……"
+  },
+  {
+    "case_id": "turn-T7-1df4f1ee65a3",
+    "display_id": "回合-265",
+    "group": "B",
+    "scope": "active",
+    "task": "行路遇新知",
+    "title": "这么说来，阿布的特殊能力也是被动触发或者有限制条件的？或者说，阿布目前还没掌握随时使用的方法。"
+  },
+  {
+    "case_id": "turn-T7-4f0f5a9a52ba",
+    "display_id": "回合-266",
+    "group": "C",
+    "scope": "active",
+    "task": "行路遇新知",
+    "title": "原来的名字和失去的记忆一起，无迹可寻。重新起一个名字，既方便称呼，也预示着一段新的开始。"
+  },
+  {
+    "case_id": "turn-T7-53a72959cb15",
+    "display_id": "回合-267",
+    "group": "A",
+    "scope": "active",
+    "task": "行路遇新知",
+    "title": "呃，大意是说……你和小家伙虽是两个相对独立的个体，却会受到依附存在的另一方的影响。你们共享能量、生命状态，甚至会拥有和对方相近或相同的感受。"
+  },
+  {
+    "case_id": "turn-T7-97130f5f8f94",
+    "display_id": "回合-268",
+    "group": "B",
+    "scope": "active",
+    "task": "行路遇新知",
+    "title": "不过……这样一来，线索好像又断了。一时之间，我也想不到什么很好的切入点了。"
+  },
+  {
+    "case_id": "turn-T7-bb0b08490418",
+    "display_id": "回合-269",
+    "group": "C",
+    "scope": "active",
+    "task": "行路遇新知",
+    "title": "那……差不多就是这样？原本，该是白芷亲自和你们说明的，但诏州那边突现蜃境，她不得不过去一趟，所以就由我代劳了。"
+  },
+  {
+    "case_id": "turn-T7-d6bf2ca7aa90",
+    "display_id": "回合-270",
+    "group": "A",
+    "scope": "active",
+    "task": "行路遇新知",
+    "title": "就是大家约定俗成的对于一些特殊声骸的称呼，可以理解成人类的名字，有时候我们会从残象的特征、能力或者所处环境之类的对他们进行命名。"
+  }
+]

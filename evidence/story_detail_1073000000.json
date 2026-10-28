@@ -1,0 +1,2576 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1073000000",
+  "task_name": "烟云幽远心剑鸣",
+  "version": "3.6版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1073000000",
+  "fetched_at": "2026-10-27T11:01:20+08:00",
+  "source_sha256": "1920a40a457a347e6862170866ff20ee2b6d82d3697cf27de4f6bd0da920b298",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 0,
+      "kind": "manual-override-node",
+      "title": "阅读秧秧发来的飞讯",
+      "titles": {
+        "zh-Hans": "阅读秧秧发来的飞讯"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-1",
+      "sourceNodeKey": "node:0",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_3_6_玄方城",
+          "flowId": 2,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "【飞讯】秧秧·玄翎",
+          "speakers": {
+            "zh-Hans": "【飞讯】秧秧·玄翎"
+          },
+          "speakerId": 750924,
+          "textKey": "Main_Mengzhou_3_6_1_1",
+          "text": "漂泊者，现在有空吗？",
+          "texts": {
+            "zh-Hans": "漂泊者，现在有空吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 2,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": null,
+          "textKey": "Main_Mengzhou_3_6_1_4",
+          "text": "对方戳了戳你",
+          "texts": {
+            "zh-Hans": "对方戳了戳你"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_1_5",
+              "text": "怎么了？",
+              "texts": {
+                "zh-Hans": "怎么了？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 4,
+              "talkIndex": 3,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000003,
+                "targetTalkId": 5
+              },
+              "targetTalkId": 5,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 2,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "【飞讯】漂泊者",
+          "speakers": {
+            "zh-Hans": "【飞讯】漂泊者"
+          },
+          "speakerId": 701052,
+          "textKey": "Main_Mengzhou_3_6_1_6",
+          "text": "发生什么了，有急事？",
+          "texts": {
+            "zh-Hans": "发生什么了，有急事？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 2,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000004,
+            "targetTalkId": 6
+          },
+          "targetTalkId": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "【飞讯】秧秧·玄翎",
+          "speakers": {
+            "zh-Hans": "【飞讯】秧秧·玄翎"
+          },
+          "speakerId": 750924,
+          "textKey": "Main_Mengzhou_3_6_1_7",
+          "text": "姐姐……",
+          "texts": {
+            "zh-Hans": "姐姐……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 2,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "【飞讯】秧秧·玄翎",
+          "speakers": {
+            "zh-Hans": "【飞讯】秧秧·玄翎"
+          },
+          "speakerId": 750924,
+          "textKey": "Main_Mengzhou_3_6_1_8",
+          "text": "姐姐马上就要回梦州城了！",
+          "texts": {
+            "zh-Hans": "姐姐马上就要回梦州城了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_1_9",
+              "text": "这么突然？",
+              "texts": {
+                "zh-Hans": "这么突然？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 7,
+              "talkIndex": 6,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000005,
+                "targetTalkId": 8
+              },
+              "targetTalkId": 8,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 2,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "【飞讯】漂泊者",
+          "speakers": {
+            "zh-Hans": "【飞讯】漂泊者"
+          },
+          "speakerId": 701052,
+          "textKey": "Main_Mengzhou_3_6_1_10",
+          "text": "穗穗现在在什么地方？她还没出发吧？",
+          "texts": {
+            "zh-Hans": "穗穗现在在什么地方？她还没出发吧？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 2,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000006,
+            "targetTalkId": 9
+          },
+          "targetTalkId": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "【飞讯】秧秧·玄翎",
+          "speakers": {
+            "zh-Hans": "【飞讯】秧秧·玄翎"
+          },
+          "speakerId": 750924,
+          "textKey": "Main_Mengzhou_3_6_1_11",
+          "text": "姐姐就在我边上……我们快到离开玄方地界的关口了。",
+          "texts": {
+            "zh-Hans": "姐姐就在我边上……我们快到离开玄方地界的关口了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_1_12",
+              "text": "等我一下。",
+              "texts": {
+                "zh-Hans": "等我一下。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 9,
+              "talkIndex": 8,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000007,
+                "targetTalkId": 10
+              },
+              "targetTalkId": 10,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 2,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "【飞讯】漂泊者",
+          "speakers": {
+            "zh-Hans": "【飞讯】漂泊者"
+          },
+          "speakerId": 701052,
+          "textKey": "Main_Mengzhou_3_6_1_13",
+          "text": "等我一下，我马上就到。",
+          "texts": {
+            "zh-Hans": "等我一下，我马上就到。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 2,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000008,
+            "targetTalkId": 11
+          },
+          "targetTalkId": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "【飞讯】秧秧·玄翎",
+          "speakers": {
+            "zh-Hans": "【飞讯】秧秧·玄翎"
+          },
+          "speakerId": 750924,
+          "textKey": "Main_Mengzhou_3_6_1_14",
+          "text": "嗯，我们等你。",
+          "texts": {
+            "zh-Hans": "嗯，我们等你。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 2,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PhoneMsgByQuestNode:/Data/Condition/PhoneMessageId -> PhoneMsg/36000/FlowParam -> 剧情_3_6_玄方城_2_1:/1/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 67
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 15,
+      "kind": "manual-override-node",
+      "title": "前往井栈的凌空栈",
+      "titles": {
+        "zh-Hans": "前往井栈的凌空栈"
+      },
+      "isHideUi": false,
+      "nodeId": "manual-node-mtis0kvc-h40gzj-1",
+      "sourceNodeKey": "",
+      "manualInserted": true,
+      "flows": [
+        {
+          "flowListName": "剧情_3_6_玄方城",
+          "flowId": 24,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_110_1",
+          "text": "这是……",
+          "texts": {
+            "zh-Hans": "这是……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "？？？（若云）",
+          "speakers": {
+            "zh-Hans": "？？？（若云）"
+          },
+          "speakerId": 400042,
+          "textKey": "Main_Mengzhou_3_6_110_2",
+          "text": "哎，本以为不需要让玄翎雀去麻烦你下山的。",
+          "texts": {
+            "zh-Hans": "哎，本以为不需要让玄翎雀去麻烦你下山的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "？？？（若云）",
+          "speakers": {
+            "zh-Hans": "？？？（若云）"
+          },
+          "speakerId": 400042,
+          "textKey": "Main_Mengzhou_3_6_110_3",
+          "text": "没想到光靠刃偶还是无法抵挡这次的残象潮……",
+          "texts": {
+            "zh-Hans": "没想到光靠刃偶还是无法抵挡这次的残象潮……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_110_4",
+          "text": "带其他人疏散，余下的我会处理。",
+          "texts": {
+            "zh-Hans": "带其他人疏散，余下的我会处理。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_110_6",
+          "text": "……？",
+          "texts": {
+            "zh-Hans": "……？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_110_7",
+          "text": "怎么了？",
+          "texts": {
+            "zh-Hans": "怎么了？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_110_8",
+          "text": "这幅旧画像里的……好像是你和玄翎雀？",
+          "texts": {
+            "zh-Hans": "这幅旧画像里的……好像是你和玄翎雀？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_110_9",
+          "text": "不错。当时它总静不下来，要啄我的头发。",
+          "texts": {
+            "zh-Hans": "不错。当时它总静不下来，要啄我的头发。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_110_10",
+          "text": "（我记得，玄翎雀早在两百年前的<te href=750053>云渊之役</te>就灭绝了……）",
+          "texts": {
+            "zh-Hans": "（我记得，玄翎雀早在两百年前的<te href=750053>云渊之役</te>就灭绝了……）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_110_11",
+              "text": "清宵司骑，敢问你今年贵庚啊？",
+              "texts": {
+                "zh-Hans": "清宵司骑，敢问你今年贵庚啊？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 10,
+              "talkIndex": 8,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000150,
+                "targetTalkId": 13
+              },
+              "targetTalkId": 13,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_110_12",
+              "text": "……你在玄方地界待了多久？",
+              "texts": {
+                "zh-Hans": "……你在玄方地界待了多久？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 10,
+              "talkIndex": 8,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000151,
+                "targetTalkId": 18
+              },
+              "targetTalkId": 18,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_110_13",
+          "text": "不必拘谨。修行者求的是长生久视。年岁寿数于我，已没有太多意义。",
+          "texts": {
+            "zh-Hans": "不必拘谨。修行者求的是长生久视。年岁寿数于我，已没有太多意义。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_110_14",
+          "text": "况且……你的年纪并不比我小。",
+          "texts": {
+            "zh-Hans": "况且……你的年纪并不比我小。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_110_15",
+              "text": "……",
+              "texts": {
+                "zh-Hans": "……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 14,
+              "talkIndex": 10,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000160,
+                "targetTalkId": 16
+              },
+              "targetTalkId": 16,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_110_16",
+          "text": "不算太长，仅停留了两百余年。",
+          "texts": {
+            "zh-Hans": "不算太长，仅停留了两百余年。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_110_17",
+              "text": "……这已经很长了吧？",
+              "texts": {
+                "zh-Hans": "……这已经很长了吧？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 18,
+              "talkIndex": 11,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000161,
+                "targetTalkId": 16
+              },
+              "targetTalkId": 16,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_110_18",
+          "text": "她来了。",
+          "texts": {
+            "zh-Hans": "她来了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/7/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_1",
+          "text": "呵呵呵……这幅画是我百年前的先祖留下来的，说是有辟邪纳福的功用。这么多年了也没褪色……",
+          "texts": {
+            "zh-Hans": "呵呵呵……这幅画是我百年前的先祖留下来的，说是有辟邪纳福的功用。这么多年了也没褪色……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_2",
+          "text": "清宵司骑，您也来了，早知道该给您备一壶好茶。",
+          "texts": {
+            "zh-Hans": "清宵司骑，您也来了，早知道该给您备一壶好茶。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_111_3",
+          "text": "不必费心，我们这次来，是想请你确认一件饰品。",
+          "texts": {
+            "zh-Hans": "不必费心，我们这次来，是想请你确认一件饰品。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_111_4",
+          "text": "这是在雾隐阁中找到的。",
+          "texts": {
+            "zh-Hans": "这是在雾隐阁中找到的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_111_6",
+          "text": "我们向其他村民打听过，这上面的铜钱与梦州的「寻幽客」有关。",
+          "texts": {
+            "zh-Hans": "我们向其他村民打听过，这上面的铜钱与梦州的「寻幽客」有关。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_7",
+          "text": "不错，这确实是据说能沟通阴阳的「阴钱」，寻幽客的随身物件。",
+          "texts": {
+            "zh-Hans": "不错，这确实是据说能沟通阴阳的「阴钱」，寻幽客的随身物件。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_111_8",
+              "text": "寻幽客……到底是做什么的？",
+              "texts": {
+                "zh-Hans": "寻幽客……到底是做什么的？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 7,
+              "talkIndex": 5,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_9",
+          "text": "想必你是听过一些不好的说法了吧？其实，他们更像是一群不惜命的“旧时代遗物”。",
+          "texts": {
+            "zh-Hans": "想必你是听过一些不好的说法了吧？其实，他们更像是一群不惜命的“旧时代遗物”。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_10",
+          "text": "自古以来，梦州便不乏风水奇诡、残响汇聚之地，若是放任不管，往往会发展为<ano=索诺拉>蜃境</ano>，滋生残象。",
+          "texts": {
+            "zh-Hans": "自古以来，梦州便不乏风水奇诡、残响汇聚之地，若是放任不管，往往会发展为<ano=索诺拉>蜃境</ano>，滋生残象。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_11",
+          "text": "寻幽客，便是指精通相地之术，专职探寻这些蜃境的探险者，是一门相当古老的行当。",
+          "texts": {
+            "zh-Hans": "寻幽客，便是指精通相地之术，专职探寻这些蜃境的探险者，是一门相当古老的行当。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_111_12",
+              "text": "听上去，像是先行公约做的事。",
+              "texts": {
+                "zh-Hans": "听上去，像是先行公约做的事。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 33,
+              "talkIndex": 9,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_13",
+          "text": "呵呵……可没那么光鲜。寻幽一门，一面破除蜃境以消除灾患，一面倒卖蜃境中的无主古物以行走江湖。",
+          "texts": {
+            "zh-Hans": "呵呵……可没那么光鲜。寻幽一门，一面破除蜃境以消除灾患，一面倒卖蜃境中的无主古物以行走江湖。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_14",
+          "text": "门规松散，鱼龙混杂，行在幽冥之地，自然招致了不少误解。",
+          "texts": {
+            "zh-Hans": "门规松散，鱼龙混杂，行在幽冥之地，自然招致了不少误解。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_15",
+          "text": "这些年寻幽客越来越少，只因这一行能善终的人不多。我老伴三刀，也是这样……最后连个念想也没给我留下。",
+          "texts": {
+            "zh-Hans": "这些年寻幽客越来越少，只因这一行能善终的人不多。我老伴三刀，也是这样……最后连个念想也没给我留下。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_16",
+          "text": "抱歉，有些跑题了。你们问的这件挂饰，便是寻幽客惯常携带的信物。",
+          "texts": {
+            "zh-Hans": "抱歉，有些跑题了。你们问的这件挂饰，便是寻幽客惯常携带的信物。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_17",
+          "text": "它象征着对神鬼之事的敬畏，对往生之人的尊重，往往能在蜃境里起一些特殊作用。",
+          "texts": {
+            "zh-Hans": "它象征着对神鬼之事的敬畏，对往生之人的尊重，往往能在蜃境里起一些特殊作用。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 32,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_111_24",
+          "text": "寻幽客在进入蜃境时，必定会带着这样的挂饰？",
+          "texts": {
+            "zh-Hans": "寻幽客在进入蜃境时，必定会带着这样的挂饰？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 22,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_25",
+          "text": "嗯，很少有例外。",
+          "texts": {
+            "zh-Hans": "嗯，很少有例外。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 23,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_111_18",
+          "text": "（这么说来，那个人留下这件饰品的用意很可能与蜃境相关。雾隐阁中的异状，或许也与他的行动有联系。）",
+          "texts": {
+            "zh-Hans": "（这么说来，那个人留下这件饰品的用意很可能与蜃境相关。雾隐阁中的异状，或许也与他的行动有联系。）"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_19",
+          "text": "等一下，它的这种编织手法，我好像在哪见过……",
+          "texts": {
+            "zh-Hans": "等一下，它的这种编织手法，我好像在哪见过……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "烟舒",
+          "speakers": {
+            "zh-Hans": "烟舒"
+          },
+          "speakerId": 400011,
+          "textKey": "Main_Mengzhou_3_6_111_20",
+          "text": "难道……是阿景的？可是……",
+          "texts": {
+            "zh-Hans": "难道……是阿景的？可是……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_111_21",
+          "text": "漂泊者，清宵司骑！",
+          "texts": {
+            "zh-Hans": "漂泊者，清宵司骑！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 19,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 34,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_111_22",
+          "text": "附近有咎庭停摆了，要尽快安排民众撤去玄方城。",
+          "texts": {
+            "zh-Hans": "附近有咎庭停摆了，要尽快安排民众撤去玄方城。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 20,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 35,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_111_23",
+          "text": "天字寰阵……？",
+          "texts": {
+            "zh-Hans": "天字寰阵……？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 24,
+            "stateId": 1
+          },
+          "talkId": 21,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/20/Flow -> 剧情_3_6_玄方城_24_1:/13/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 67
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 16,
+      "kind": "manual-override-node",
+      "title": "与此同时",
+      "titles": {
+        "zh-Hans": "与此同时"
+      },
+      "isHideUi": false,
+      "nodeId": "manual-node-mtis4yh6-jq4hg7-1",
+      "sourceNodeKey": "",
+      "manualInserted": true,
+      "flows": [
+        {
+          "flowListName": "剧情_3_6_玄方城",
+          "flowId": 27,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": null,
+          "textKey": "Main_Mengzhou_3_6_120_1",
+          "text": "这里不安全了，大家去井栈的凌空栈！",
+          "texts": {
+            "zh-Hans": "这里不安全了，大家去井栈的凌空栈！"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:129:324",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:129:324",
+            "flowKey": "剧情_3_6_玄方城_26_3",
+            "flowKeys": [
+              "剧情_3_6_玄方城_26_3"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": null,
+          "textKey": "Main_Mengzhou_3_6_120_2",
+          "text": "我来争取时间。",
+          "texts": {
+            "zh-Hans": "我来争取时间。"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:129:325",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:129:325",
+            "flowKey": "剧情_3_6_玄方城_26_3",
+            "flowKeys": [
+              "剧情_3_6_玄方城_26_3"
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_121_1",
+          "text": "有一部分残象已提前入阵，我会尽快清除它们。",
+          "texts": {
+            "zh-Hans": "有一部分残象已提前入阵，我会尽快清除它们。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/22/Flow -> 剧情_3_6_玄方城_27_1:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 27,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/22/Flow -> 剧情_3_6_玄方城_27_1:/1/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_121_3",
+          "text": "我也来，要确保撤离的路是安全的。",
+          "texts": {
+            "zh-Hans": "我也来，要确保撤离的路是安全的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/22/Flow -> 剧情_3_6_玄方城_27_1:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 27,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/22/Flow -> 剧情_3_6_玄方城_27_1:/1/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_121_4",
+          "text": "井栈那一侧更需要你。",
+          "texts": {
+            "zh-Hans": "井栈那一侧更需要你。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/22/Flow -> 剧情_3_6_玄方城_27_1:/1/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 27,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/22/Flow -> 剧情_3_6_玄方城_27_1:/1/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_121_5",
+          "text": "放心吧，秧秧和定玄卫们在那边照看。",
+          "texts": {
+            "zh-Hans": "放心吧，秧秧和定玄卫们在那边照看。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/22/Flow -> 剧情_3_6_玄方城_27_1:/1/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 27,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/22/Flow -> 剧情_3_6_玄方城_27_1:/1/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 67
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 31,
+      "kind": "manual-override-node",
+      "title": "去和清宵会合",
+      "titles": {
+        "zh-Hans": "去和清宵会合"
+      },
+      "isHideUi": false,
+      "nodeId": "manual-node-mtisk9g6-96froz-1",
+      "sourceNodeKey": "",
+      "manualInserted": true,
+      "flows": [
+        {
+          "flowListName": "剧情_3_6_玄方城",
+          "flowId": 47,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_170_1",
+          "text": "漂泊者，昨晚休息得还好吗？清宵司骑已经等了你一会儿了。",
+          "texts": {
+            "zh-Hans": "漂泊者，昨晚休息得还好吗？清宵司骑已经等了你一会儿了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_170_2",
+              "text": "还不错。",
+              "texts": {
+                "zh-Hans": "还不错。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 1,
+              "talkIndex": 0,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_170_4",
+          "text": "那就好，神宫内还不知道是什么情况，要养足精神。",
+          "texts": {
+            "zh-Hans": "那就好，神宫内还不知道是什么情况，要养足精神。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_170_6",
+          "text": "军策府这边情况还好吗？",
+          "texts": {
+            "zh-Hans": "军策府这边情况还好吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_170_7",
+          "text": "周边的布防都完成了，有不少民众自发来帮忙。来自今州的新一批支援也在刚才顺利赶到了玄方城。",
+          "texts": {
+            "zh-Hans": "周边的布防都完成了，有不少民众自发来帮忙。来自今州的新一批支援也在刚才顺利赶到了玄方城。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_170_8",
+              "text": "又有夜归军的支援了啊。",
+              "texts": {
+                "zh-Hans": "又有夜归军的支援了啊。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 7,
+              "talkIndex": 3,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_170_9",
+          "text": "今州第一时间回应了我们的求援，但北落野近期出现了鸣式的异动，牵制住了夜归的主力。",
+          "texts": {
+            "zh-Hans": "今州第一时间回应了我们的求援，但北落野近期出现了鸣式的异动，牵制住了夜归的主力。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_170_10",
+          "text": "无相燹主……",
+          "texts": {
+            "zh-Hans": "无相燹主……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_170_11",
+          "text": "虽然能来的人不算多，但他们都是夜归中的精锐，对局势帮助很大。",
+          "texts": {
+            "zh-Hans": "虽然能来的人不算多，但他们都是夜归中的精锐，对局势帮助很大。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_170_12",
+          "text": "目前我们已足够应对出现在城内的残象，只是……附近出现了一些异常的机关部件。你们看——",
+          "texts": {
+            "zh-Hans": "目前我们已足够应对出现在城内的残象，只是……附近出现了一些异常的机关部件。你们看——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_170_13",
+          "text": "就像……是从什么地方外溢到城里来的。天工的匠人们去检查过，目前它们对人没有实质性的危害。",
+          "texts": {
+            "zh-Hans": "就像……是从什么地方外溢到城里来的。天工的匠人们去检查过，目前它们对人没有实质性的危害。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 48,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_170_14",
+          "text": "我会尽快完成神宫内的调查，一旦情况明了，就立即赶回来。",
+          "texts": {
+            "zh-Hans": "我会尽快完成神宫内的调查，一旦情况明了，就立即赶回来。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_170_15",
+          "text": "如果遇到危险的情况，不要太勉强自己。",
+          "texts": {
+            "zh-Hans": "如果遇到危险的情况，不要太勉强自己。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_170_16",
+          "text": "嗯，你也是。我会和大家一起守住防线。玄方城会一直屹立于此。",
+          "texts": {
+            "zh-Hans": "嗯，你也是。我会和大家一起守住防线。玄方城会一直屹立于此。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_170_17",
+          "text": "秧秧。",
+          "texts": {
+            "zh-Hans": "秧秧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_170_18",
+          "text": "此剑是我的剑意所化，虽不具备破军之威能，却也能护你一二。",
+          "texts": {
+            "zh-Hans": "此剑是我的剑意所化，虽不具备破军之威能，却也能护你一二。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Main_Mengzhou_3_6_170_19",
+          "text": "清宵司骑……你们一定要平安归来。",
+          "texts": {
+            "zh-Hans": "清宵司骑……你们一定要平安归来。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_玄方城",
+            "flowId": 47,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:173000000/Data/55/Flow -> 剧情_3_6_玄方城_47_1:/5/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 67
+          }
+        ]
+      }
+    }
+  ]
+}

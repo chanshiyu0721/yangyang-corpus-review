@@ -1,0 +1,1903 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1040000004",
+  "task_name": "千里卷戎旌",
+  "version": "1.0版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1040000004",
+  "fetched_at": "2026-10-27T11:01:09+08:00",
+  "source_sha256": "d8e84962ea7fad1a9dc113c878f7e618d5a20e3d00b46952ce20e172d91405d0",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 18,
+      "kind": "manual-override-node",
+      "title": "解救被围困的士兵",
+      "titles": {
+        "zh-Hans": "解救被围困的士兵"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-26",
+      "sourceNodeKey": "node:25",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_新主线_第五章1",
+          "flowId": 2,
+          "stateId": 17,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_新主线_第五章1",
+          "flowId": 2,
+          "stateId": 12,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_155_1",
+          "text": "呼……终于……",
+          "texts": {
+            "zh-Hans": "呼……终于……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/25/Flow -> 剧情_新主线_第五章1_2_17:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 17
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/25/Flow -> 剧情_新主线_第五章1_2_17:/1/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "被解救的士兵",
+          "speakers": {
+            "zh-Hans": "被解救的士兵"
+          },
+          "speakerId": 800018,
+          "textKey": "Huanglong_main_1_7_155_2",
+          "text": "得救了！谢谢你们！",
+          "texts": {
+            "zh-Hans": "得救了！谢谢你们！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/25/Flow -> 剧情_新主线_第五章1_2_17:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 17
+          },
+          "talkId": 0,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/25/Flow -> 剧情_新主线_第五章1_2_17:/1/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_155_3",
+          "text": "这里危险，我们先迅速撤出这里吧。",
+          "texts": {
+            "zh-Hans": "这里危险，我们先迅速撤出这里吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/25/Flow -> 剧情_新主线_第五章1_2_17:/1/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 17
+          },
+          "talkId": 2,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/25/Flow -> 剧情_新主线_第五章1_2_17:/1/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_7_21_1",
+          "text": "这下……总该结束了吧！",
+          "texts": {
+            "zh-Hans": "这下……总该结束了吧！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_7_21_2",
+          "text": "漂泊者，你的身手还是这么老练，这么多残象竟然都不在话下。",
+          "texts": {
+            "zh-Hans": "漂泊者，你的身手还是这么老练，这么多残象竟然都不在话下。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_3",
+              "text": "唯手熟尔。",
+              "texts": {
+                "zh-Hans": "唯手熟尔。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_58",
+              "text": "多亏了大家。",
+              "texts": {
+                "zh-Hans": "多亏了大家。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_4",
+              "text": "一天不打残象，我浑身难受。",
+              "texts": {
+                "zh-Hans": "一天不打残象，我浑身难受。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 2,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_5",
+              "text": "残象潮的攻势有些过于凶猛了。",
+              "texts": {
+                "zh-Hans": "残象潮的攻势有些过于凶猛了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 3,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_7_21_6",
+          "text": "漂泊者，你看见了吗？",
+          "texts": {
+            "zh-Hans": "漂泊者，你看见了吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_7",
+              "text": "月亮更模糊了。",
+              "texts": {
+                "zh-Hans": "月亮更模糊了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 41,
+              "talkIndex": 3,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_21_8",
+          "text": "此时的月亮，和三年前“弯刀之役”那时几乎一模一样了。",
+          "texts": {
+            "zh-Hans": "此时的月亮，和三年前“弯刀之役”那时几乎一模一样了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 4,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_21_9",
+          "text": "恐怕，留给今州的时间已经不多了。",
+          "texts": {
+            "zh-Hans": "恐怕，留给今州的时间已经不多了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 5,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_10",
+          "text": "战况如何？",
+          "texts": {
+            "zh-Hans": "战况如何？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 6,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_21_11",
+          "text": "报告令尹，防护罩已经修复完毕，居民也已全部回归城内，已将损伤控制在最小范围内。",
+          "texts": {
+            "zh-Hans": "报告令尹，防护罩已经修复完毕，居民也已全部回归城内，已将损伤控制在最小范围内。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 7,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_12",
+          "text": "嗯，做得很好。",
+          "texts": {
+            "zh-Hans": "嗯，做得很好。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_13",
+              "text": "好久不见。",
+              "texts": {
+                "zh-Hans": "好久不见。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 8,
+              "talkIndex": 8,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_14",
+              "text": "事情都还顺利吗？",
+              "texts": {
+                "zh-Hans": "事情都还顺利吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 8,
+              "talkIndex": 8,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_15",
+              "text": "这也是提前录好的影像吗？",
+              "texts": {
+                "zh-Hans": "这也是提前录好的影像吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 8,
+              "talkIndex": 8,
+              "optionIndex": 2,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 8,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_16",
+          "text": "好久不见了，漂泊者。",
+          "texts": {
+            "zh-Hans": "好久不见了，漂泊者。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 9,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_17",
+          "text": "事情的进展还算顺利。针对目前的状况，我已预先做好了对策。",
+          "texts": {
+            "zh-Hans": "事情的进展还算顺利。针对目前的状况，我已预先做好了对策。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_18",
+              "text": "是角的指示？",
+              "texts": {
+                "zh-Hans": "是角的指示？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 10,
+              "talkIndex": 10,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_19",
+              "text": "找到角了吗？",
+              "texts": {
+                "zh-Hans": "找到角了吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 10,
+              "talkIndex": 10,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 10,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_20",
+          "text": "今州情况危急，我身为令尹，也不能总是习惯依赖于角的力量。这是我的决定，也是我的职责所在。",
+          "texts": {
+            "zh-Hans": "今州情况危急，我身为令尹，也不能总是习惯依赖于角的力量。这是我的决定，也是我的职责所在。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 11,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_21",
+          "text": "此前我前往瑝都，已为今州申请到了一些实际性的援助。天工与研究院的几位，应该都已就位了。",
+          "texts": {
+            "zh-Hans": "此前我前往瑝都，已为今州申请到了一些实际性的援助。天工与研究院的几位，应该都已就位了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 12,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_22",
+          "text": "漂泊者，你还记得之前，角为你留下的信息吗？",
+          "texts": {
+            "zh-Hans": "漂泊者，你还记得之前，角为你留下的信息吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 13,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_23",
+          "text": "溯洄的雨幕已经降下，夜归的将军，此刻正在北落野的前线，准备对战争的鸣式「无相燹主」，发起最后的进攻。",
+          "texts": {
+            "zh-Hans": "溯洄的雨幕已经降下，夜归的将军，此刻正在北落野的前线，准备对战争的鸣式「无相燹主」，发起最后的进攻。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 14,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_24",
+          "text": "这应当就是角所说的那一时刻了。",
+          "texts": {
+            "zh-Hans": "这应当就是角所说的那一时刻了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 15,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_25",
+          "text": "漂泊者，此去凶险，可能……你将会与鸣式展开正面交锋。",
+          "texts": {
+            "zh-Hans": "漂泊者，此去凶险，可能……你将会与鸣式展开正面交锋。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_26",
+              "text": "我已做好觉悟。",
+              "texts": {
+                "zh-Hans": "我已做好觉悟。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 16,
+              "talkIndex": 16,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000208,
+                "targetTalkId": 17
+              },
+              "targetTalkId": 17,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_27",
+              "text": "我没得选择。",
+              "texts": {
+                "zh-Hans": "我没得选择。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 16,
+              "talkIndex": 16,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000209,
+                "targetTalkId": 18
+              },
+              "targetTalkId": 18,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_28",
+              "text": "我愿意帮助今州。",
+              "texts": {
+                "zh-Hans": "我愿意帮助今州。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 16,
+              "talkIndex": 16,
+              "optionIndex": 2,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000210,
+                "targetTalkId": 20
+              },
+              "targetTalkId": 20,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 16,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_29",
+          "text": "你的眼神，还是一如既往的坚定。",
+          "texts": {
+            "zh-Hans": "你的眼神，还是一如既往的坚定。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 17,
+          "talkIndex": 17,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000211,
+            "targetTalkId": 21
+          },
+          "targetTalkId": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_30",
+          "text": "我明白你此刻的心情，漂泊者。",
+          "texts": {
+            "zh-Hans": "我明白你此刻的心情，漂泊者。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 18,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_31",
+          "text": "我也同你一样，遇到过一些发生得过于突然，却又不得不面对的事情。",
+          "texts": {
+            "zh-Hans": "我也同你一样，遇到过一些发生得过于突然，却又不得不面对的事情。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 19,
+          "talkIndex": 19,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000212,
+            "targetTalkId": 21
+          },
+          "targetTalkId": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_32",
+          "text": "我代表今州，由衷感谢你，漂泊者。",
+          "texts": {
+            "zh-Hans": "我代表今州，由衷感谢你，漂泊者。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 20,
+          "talkIndex": 20,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000213,
+            "targetTalkId": 21
+          },
+          "targetTalkId": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_33",
+          "text": "此役之后，无论如何，你都将是帮助今州抵御外敌的英雄。",
+          "texts": {
+            "zh-Hans": "此役之后，无论如何，你都将是帮助今州抵御外敌的英雄。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 21,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "今汐（通讯中）",
+          "speakers": {
+            "zh-Hans": "今汐（通讯中）"
+          },
+          "speakerId": 1212,
+          "textKey": "Huanglong_main_1_7_21_34",
+          "text": "漂泊者，愿你穿越长夜，胜利归来。",
+          "texts": {
+            "zh-Hans": "漂泊者，愿你穿越长夜，胜利归来。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 22,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_21_35",
+          "text": "漂泊者，我已将你即将前往前线的消息告知各地关卡，现在你可以在今州境内畅行无阻了。",
+          "texts": {
+            "zh-Hans": "漂泊者，我已将你即将前往前线的消息告知各地关卡，现在你可以在今州境内畅行无阻了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/23/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 23,
+          "talkIndex": 23,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/23/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_21_37",
+          "text": "秧秧，你是踏白小队的成员，这一路就拜托你与漂泊者同行了。",
+          "texts": {
+            "zh-Hans": "秧秧，你是踏白小队的成员，这一路就拜托你与漂泊者同行了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/24/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 24,
+          "talkIndex": 24,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/24/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_21_38",
+          "text": "前往荒石兵营需要穿越一片无音区，路途凶险，请多加小心。",
+          "texts": {
+            "zh-Hans": "前往荒石兵营需要穿越一片无音区，路途凶险，请多加小心。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/25/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 25,
+          "talkIndex": 25,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/25/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_7_21_39",
+          "text": "漂泊者，秧秧，我会担负好巡尉的责任，守护好今州城，等你们平安回来的！",
+          "texts": {
+            "zh-Hans": "漂泊者，秧秧，我会担负好巡尉的责任，守护好今州城，等你们平安回来的！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_40",
+              "text": "加油，炽霞。",
+              "texts": {
+                "zh-Hans": "加油，炽霞。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 26,
+              "talkIndex": 26,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000215,
+                "targetTalkId": 27
+              },
+              "targetTalkId": 27,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_41",
+              "text": "加油，马小芳。",
+              "texts": {
+                "zh-Hans": "加油，马小芳。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 26,
+              "talkIndex": 26,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000216,
+                "targetTalkId": 28
+              },
+              "targetTalkId": 28,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_7_21_42",
+              "text": "加油，今州飞羽侠。",
+              "texts": {
+                "zh-Hans": "加油，今州飞羽侠。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 26,
+              "talkIndex": 26,
+              "optionIndex": 2,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000217,
+                "targetTalkId": 29
+              },
+              "targetTalkId": 29,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/26/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 26,
+          "talkIndex": 26,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/26/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_7_21_43",
+          "text": "嗯！我会加油的！",
+          "texts": {
+            "zh-Hans": "嗯！我会加油的！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/27/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 27,
+          "talkIndex": 27,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000218,
+            "targetTalkId": 30
+          },
+          "targetTalkId": 30,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/27/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_7_21_44",
+          "text": "漂泊者！都说了不要叫我……算了，这个时候，我就不计较这些了。",
+          "texts": {
+            "zh-Hans": "漂泊者！都说了不要叫我……算了，这个时候，我就不计较这些了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/28/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 28,
+          "talkIndex": 28,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000219,
+            "targetTalkId": 30
+          },
+          "targetTalkId": 30,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/28/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_7_21_45",
+          "text": "呜呜呜……谢谢你，漂泊者，没想到你还记得……我一定不会辜负这个名号的！",
+          "texts": {
+            "zh-Hans": "呜呜呜……谢谢你，漂泊者，没想到你还记得……我一定不会辜负这个名号的！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/29/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 29,
+          "talkIndex": 29,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000220,
+            "targetTalkId": 30
+          },
+          "targetTalkId": 30,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/29/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_21_46",
+          "text": "看来，这场雨还要下上一段时间呢。",
+          "texts": {
+            "zh-Hans": "看来，这场雨还要下上一段时间呢。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/30/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 30,
+          "talkIndex": 30,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/30/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 34,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_7_21_47",
+          "text": "今州城这边……",
+          "texts": {
+            "zh-Hans": "今州城这边……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/31/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 31,
+          "talkIndex": 31,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/31/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 35,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_7_21_48",
+          "text": "放心吧，这里，有我们呢！",
+          "texts": {
+            "zh-Hans": "放心吧，这里，有我们呢！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/32/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 32,
+          "talkIndex": 32,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/32/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 36,
+          "speaker": "渊武",
+          "speakers": {
+            "zh-Hans": "渊武"
+          },
+          "speakerId": 640,
+          "textKey": "Huanglong_main_1_7_21_49",
+          "text": "嗯，有我。",
+          "texts": {
+            "zh-Hans": "嗯，有我。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/33/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 33,
+          "talkIndex": 33,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/33/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 37,
+          "speaker": "维里奈",
+          "speakers": {
+            "zh-Hans": "维里奈"
+          },
+          "speakerId": 968,
+          "textKey": "Huanglong_main_1_7_21_50",
+          "text": "我……我也在！",
+          "texts": {
+            "zh-Hans": "我……我也在！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/34/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 34,
+          "talkIndex": 34,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/34/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 38,
+          "speaker": "凌阳",
+          "speakers": {
+            "zh-Hans": "凌阳"
+          },
+          "speakerId": 182,
+          "textKey": "Huanglong_main_1_7_21_51",
+          "text": "有瑞狮团的各位！",
+          "texts": {
+            "zh-Hans": "有瑞狮团的各位！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/35/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 35,
+          "talkIndex": 35,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/35/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 39,
+          "speaker": "众士兵",
+          "speakers": {
+            "zh-Hans": "众士兵"
+          },
+          "speakerId": 800062,
+          "textKey": "Huanglong_main_1_7_21_52",
+          "text": "还有我们！",
+          "texts": {
+            "zh-Hans": "还有我们！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/36/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 36,
+          "talkIndex": 36,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/36/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 40,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_21_53",
+          "text": "呵呵……你们也看到了。今州城的各位，可都在这里呢。",
+          "texts": {
+            "zh-Hans": "呵呵……你们也看到了。今州城的各位，可都在这里呢。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/37/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 37,
+          "talkIndex": 37,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/37/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 41,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_7_21_57",
+          "text": "漂泊者，秧秧，尽管放心去吧！",
+          "texts": {
+            "zh-Hans": "漂泊者，秧秧，尽管放心去吧！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/38/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 38,
+          "talkIndex": 38,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/38/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 42,
+          "speaker": "桃祈",
+          "speakers": {
+            "zh-Hans": "桃祈"
+          },
+          "speakerId": 97,
+          "textKey": "Huanglong_main_1_7_21_55",
+          "text": "我也已将你们出城的消息告知忌炎将军，他会尽快赶来与你们汇合。",
+          "texts": {
+            "zh-Hans": "我也已将你们出城的消息告知忌炎将军，他会尽快赶来与你们汇合。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/39/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 39,
+          "talkIndex": 39,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/39/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 43,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_7_21_56",
+          "text": "愿你们穿越长夜，胜利归来！",
+          "texts": {
+            "zh-Hans": "愿你们穿越长夜，胜利归来！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/40/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_第五章1",
+            "flowId": 2,
+            "stateId": 12
+          },
+          "talkId": 40,
+          "talkIndex": 40,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:140000004/Data/26/Flow -> 剧情_新主线_第五章1_2_12:/4/TalkItems/40/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 2,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 2
+          }
+        ]
+      }
+    }
+  ]
+}

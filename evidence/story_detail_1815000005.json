@@ -1,0 +1,1214 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1815000005",
+  "task_name": "烟云幽远心剑鸣",
+  "version": "3.6版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1815000005",
+  "fetched_at": "2026-10-27T11:02:20+08:00",
+  "source_sha256": "efdeecf8106bed448b62546c1b3089934d1f2d5ecbe068e2105ee42793e54beb",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 0,
+      "kind": "manual-override-node",
+      "title": "继续向前探索",
+      "titles": {
+        "zh-Hans": "继续向前探索"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-1",
+      "sourceNodeKey": "node:0",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_3_6_神宫幻境",
+          "flowId": 65,
+          "stateId": 1,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_3_6_神宫幻境",
+          "flowId": 67,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_1",
+          "text": "欢迎来到这艘以军策府为原型的云梭，只不过，它已不再需要人类的将士了。",
+          "texts": {
+            "zh-Hans": "欢迎来到这艘以军策府为原型的云梭，只不过，它已不再需要人类的将士了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_391_5",
+          "text": "木禺……你已将残响植入了机傀之中，却还要派出机傀袭击它们吗？",
+          "texts": {
+            "zh-Hans": "木禺……你已将残响植入了机傀之中，却还要派出机傀袭击它们吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_6",
+          "text": "因为，它们是失败的实验品。",
+          "texts": {
+            "zh-Hans": "因为，它们是失败的实验品。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_7",
+          "text": "意识劣化，记忆损失，自我认知淡薄，甚至无法自由行动……是时候换一批新的样本了。",
+          "texts": {
+            "zh-Hans": "意识劣化，记忆损失，自我认知淡薄，甚至无法自由行动……是时候换一批新的样本了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_391_8",
+          "text": "你亵渎无辜者的生命，把他们当作实验的耗材。",
+          "texts": {
+            "zh-Hans": "你亵渎无辜者的生命，把他们当作实验的耗材。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_9",
+          "text": "我更愿称其为……“合理的利用”。",
+          "texts": {
+            "zh-Hans": "我更愿称其为……“合理的利用”。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_10",
+          "text": "他们本就是散落在渊城遗址的残响，即使放任不管，也很可能会演变成残象。",
+          "texts": {
+            "zh-Hans": "他们本就是散落在渊城遗址的残响，即使放任不管，也很可能会演变成残象。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_11",
+          "text": "但现在他们成了一项伟大实验的样本——如果残响能融入机傀之躯，那就可以打破生死界限，创造出恒久不灭的生命。",
+          "texts": {
+            "zh-Hans": "但现在他们成了一项伟大实验的样本——如果残响能融入机傀之躯，那就可以打破生死界限，创造出恒久不灭的生命。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_12",
+          "text": "躯体衰朽，那就更换躯体，只要保有意识，便可永续存在。届时，生死将没有差异，死者亦可复生。",
+          "texts": {
+            "zh-Hans": "躯体衰朽，那就更换躯体，只要保有意识，便可永续存在。届时，生死将没有差异，死者亦可复生。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_391_13",
+              "text": "这也是琢钧堂真正的目的吗？",
+              "texts": {
+                "zh-Hans": "这也是琢钧堂真正的目的吗？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 9,
+              "talkIndex": 8,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000095,
+                "targetTalkId": 10
+              },
+              "targetTalkId": 10,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Main_Mengzhou_3_6_391_14",
+              "text": "归魂互助会……",
+              "texts": {
+                "zh-Hans": "归魂互助会……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 9,
+              "talkIndex": 8,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000096,
+                "targetTalkId": 11
+              },
+              "targetTalkId": 11,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_15",
+          "text": "别把我和那个眼界狭隘的女人相提并论，「花间傀」眼中只有梦州城那片浮华的乐土。",
+          "texts": {
+            "zh-Hans": "别把我和那个眼界狭隘的女人相提并论，「花间傀」眼中只有梦州城那片浮华的乐土。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000097,
+            "targetTalkId": 13
+          },
+          "targetTalkId": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_16",
+          "text": "噢，一个有趣的名字。我听过今州的这个小组织，明明连灵魂的本质都不曾触碰，却用记忆塑造出可笑的假象。",
+          "texts": {
+            "zh-Hans": "噢，一个有趣的名字。我听过今州的这个小组织，明明连灵魂的本质都不曾触碰，却用记忆塑造出可笑的假象。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_17",
+          "text": "<te href=750058>偃师</te>……一个不入流的傀儡师。只是指点过几下的工夫，我便能从他眼中看到那份沉溺于过往的软弱。",
+          "texts": {
+            "zh-Hans": "<te href=750058>偃师</te>……一个不入流的傀儡师。只是指点过几下的工夫，我便能从他眼中看到那份沉溺于过往的软弱。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000098,
+            "targetTalkId": 13
+          },
+          "targetTalkId": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_18",
+          "text": "还是换个你们更关心的话题吧。比如……现实中的军策府？",
+          "texts": {
+            "zh-Hans": "还是换个你们更关心的话题吧。比如……现实中的军策府？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_19",
+          "text": "猜猜看，随着咎庭继续释放出残象，那些定玄卫还能坚持多久？",
+          "texts": {
+            "zh-Hans": "猜猜看，随着咎庭继续释放出残象，那些定玄卫还能坚持多久？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_20",
+          "text": "增加一座咎庭的负担尚能支持，但如果两座呢，三座呢？即使他们能撑住，又要付出什么样的代价？",
+          "texts": {
+            "zh-Hans": "增加一座咎庭的负担尚能支持，但如果两座呢，三座呢？即使他们能撑住，又要付出什么样的代价？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_391_21",
+          "text": "你小看了玄方城的人们，正如你从未理解他们为何而战。",
+          "texts": {
+            "zh-Hans": "你小看了玄方城的人们，正如你从未理解他们为何而战。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_22",
+          "text": "呵，你们笃信脆弱的情感和意志，却不懂得人只有靠先进的技术才能掌握自己的命运。",
+          "texts": {
+            "zh-Hans": "呵，你们笃信脆弱的情感和意志，却不懂得人只有靠先进的技术才能掌握自己的命运。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_26",
+          "text": "他们很快就会崩溃，而我所做的，不过是加快了一点……咎庭停摆的速度。",
+          "texts": {
+            "zh-Hans": "他们很快就会崩溃，而我所做的，不过是加快了一点……咎庭停摆的速度。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 18,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_391_24",
+          "text": "……玄方城所有人都会活下来。",
+          "texts": {
+            "zh-Hans": "……玄方城所有人都会活下来。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 19,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_391_25",
+          "text": "清宵司骑，你再怎么神通广大，也不可能庇护外界的人。",
+          "texts": {
+            "zh-Hans": "清宵司骑，你再怎么神通广大，也不可能庇护外界的人。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 65,
+            "stateId": 1
+          },
+          "talkId": 20,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/1/Flow -> 剧情_3_6_神宫幻境_65_1:/3/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "清宵（传音）",
+          "speakers": {
+            "zh-Hans": "清宵（传音）"
+          },
+          "speakerId": null,
+          "textKey": "Main_Mengzhou_3_6_400_2",
+          "text": "「心」之所向，「剑」之所至。",
+          "texts": {
+            "zh-Hans": "「心」之所向，「剑」之所至。"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:129:1661",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:129:1661",
+            "flowKey": "剧情_3_6_神宫幻境_66_2",
+            "flowKeys": [
+              "剧情_3_6_神宫幻境_66_2"
+            ]
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": null,
+          "textKey": "Main_Mengzhou_3_6_400_3",
+          "text": "我们，绝不会输！",
+          "texts": {
+            "zh-Hans": "我们，绝不会输！"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:129:1662",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:129:1662",
+            "flowKey": "剧情_3_6_神宫幻境_66_2",
+            "flowKeys": [
+              "剧情_3_6_神宫幻境_66_2"
+            ]
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_405_1",
+          "text": "你……做了什么？",
+          "texts": {
+            "zh-Hans": "你……做了什么？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_405_2",
+          "text": "不对，你的频率竟衰弱到了这种程度……",
+          "texts": {
+            "zh-Hans": "不对，你的频率竟衰弱到了这种程度……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_405_3",
+          "text": "一直以来，云梭检测到的通向外界的特殊频率，就是源自你？",
+          "texts": {
+            "zh-Hans": "一直以来，云梭检测到的通向外界的特殊频率，就是源自你？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_405_4",
+          "text": "你到底将力量分给了多少人，整支定玄卫？整座玄方城？",
+          "texts": {
+            "zh-Hans": "你到底将力量分给了多少人，整支定玄卫？整座玄方城？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_405_5",
+          "text": "竟然是……整个玄方地界？",
+          "texts": {
+            "zh-Hans": "竟然是……整个玄方地界？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_405_6",
+          "text": "剑仙大人，你比我想的还要蠢。你能救这些人一时，还能庇护他们一辈子？",
+          "texts": {
+            "zh-Hans": "剑仙大人，你比我想的还要蠢。你能救这些人一时，还能庇护他们一辈子？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_405_7",
+          "text": "你明明比谁都清楚，普通人的性命相较你们这样的共鸣者有多脆弱。不久后，玄方城会崩塌，他们都会死。",
+          "texts": {
+            "zh-Hans": "你明明比谁都清楚，普通人的性命相较你们这样的共鸣者有多脆弱。不久后，玄方城会崩塌，他们都会死。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "木禺虚影",
+          "speakers": {
+            "zh-Hans": "木禺虚影"
+          },
+          "speakerId": 400019,
+          "textKey": "Main_Mengzhou_3_6_405_8",
+          "text": "你改变不了结果……你所做的一切，不过是白白地拖累了自己——",
+          "texts": {
+            "zh-Hans": "你改变不了结果……你所做的一切，不过是白白地拖累了自己——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_405_9",
+          "text": "……嗯？",
+          "texts": {
+            "zh-Hans": "……嗯？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_405_10",
+          "text": "木禺又一次现身，说明我们离他已经越来越近了。",
+          "texts": {
+            "zh-Hans": "木禺又一次现身，说明我们离他已经越来越近了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 750088,
+          "textKey": "Main_Mengzhou_3_6_405_11",
+          "text": "你状态不好，接下来的战斗我会处理。",
+          "texts": {
+            "zh-Hans": "你状态不好，接下来的战斗我会处理。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 34,
+          "speaker": "清宵",
+          "speakers": {
+            "zh-Hans": "清宵"
+          },
+          "speakerId": 350141,
+          "textKey": "Main_Mengzhou_3_6_405_12",
+          "text": "不用顾虑我……专心应对敌人。",
+          "texts": {
+            "zh-Hans": "不用顾虑我……专心应对敌人。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_3_6_神宫幻境",
+            "flowId": 67,
+            "stateId": 1
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:915000005/Data/3/Flow -> 剧情_3_6_神宫幻境_67_1:/3/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 2,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 40
+          }
+        ]
+      }
+    }
+  ]
+}

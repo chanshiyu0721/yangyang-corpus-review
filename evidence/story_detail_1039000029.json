@@ -1,0 +1,5523 @@
+{
+  "kind": "task_page_chapter_excerpt",
+  "complete_task_snapshot": false,
+  "story_id": "1039000029",
+  "task_name": "撞金止行阵",
+  "version": "1.0版本",
+  "source_url": "https://mc.yakitahome.com/story?storyId=1039000029",
+  "fetched_at": "2026-10-27T11:00:40+08:00",
+  "source_sha256": "785b3ddf0e0f51c0042895d38cf4c90182569c62283768e458b724be7c4a6c09",
+  "note": "只保留审查项目涉及的任务页展示章节；不是实际游玩分支或历史版本的独立证明。",
+  "displayChapters": [
+    {
+      "chapter_index": 1,
+      "kind": "manual-override-node",
+      "title": "前往攀花饭馆与炽霞见面",
+      "titles": {
+        "zh-Hans": "前往攀花饭馆与炽霞见面"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-5",
+      "sourceNodeKey": "node:4",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+          "flowId": 7,
+          "stateId": 1,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+          "flowId": 7,
+          "stateId": 2,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2_132_1",
+          "text": "攀花姨，我带朋友来了！这次要三碗小面，加辣的！",
+          "texts": {
+            "zh-Hans": "攀花姨，我带朋友来了！这次要三碗小面，加辣的！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/2/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_1:/5/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 1
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/2/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_1:/5/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_1",
+          "text": "所以说——早餐，来一碗热辣滚烫的小面，是真让人身心畅快！",
+          "texts": {
+            "zh-Hans": "所以说——早餐，来一碗热辣滚烫的小面，是真让人身心畅快！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_2",
+          "text": "漂泊者吃得惯吗？",
+          "texts": {
+            "zh-Hans": "漂泊者吃得惯吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_3",
+              "text": "还没吃上第一口。",
+              "texts": {
+                "zh-Hans": "还没吃上第一口。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_4",
+              "text": "太辣了。",
+              "texts": {
+                "zh-Hans": "太辣了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_5",
+              "text": "正正好是我的口味。",
+              "texts": {
+                "zh-Hans": "正正好是我的口味。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 2,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_6",
+          "text": "白芷似乎把自己锁在研究院了，说是自打昨天就没出来过，看来得把那些数据资料研究透了才能见到她了。",
+          "texts": {
+            "zh-Hans": "白芷似乎把自己锁在研究院了，说是自打昨天就没出来过，看来得把那些数据资料研究透了才能见到她了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_7",
+          "text": "哦，不对，漂泊者可能是特例，毕竟是数据样本来源之一，说不定绑在研究院门口——",
+          "texts": {
+            "zh-Hans": "哦，不对，漂泊者可能是特例，毕竟是数据样本来源之一，说不定绑在研究院门口——"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_8",
+          "text": "往外扯扯，能把华胥研究院所有人成串钓出来，最前头就是白芷，开口第一句就是问漂泊者情况！",
+          "texts": {
+            "zh-Hans": "往外扯扯，能把华胥研究院所有人成串钓出来，最前头就是白芷，开口第一句就是问漂泊者情况！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_9",
+              "text": "倒也可以试试。",
+              "texts": {
+                "zh-Hans": "倒也可以试试。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000261,
+                "targetTalkId": 6
+              },
+              "targetTalkId": 6,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_10",
+              "text": "哈哈哈哈。",
+              "texts": {
+                "zh-Hans": "哈哈哈哈。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000262,
+                "targetTalkId": 8
+              },
+              "targetTalkId": 8,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_11",
+              "text": "不开这种玩笑。",
+              "texts": {
+                "zh-Hans": "不开这种玩笑。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 2,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000263,
+                "targetTalkId": 7
+              },
+              "targetTalkId": 7,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_12",
+              "text": "倒也不必。",
+              "texts": {
+                "zh-Hans": "倒也不必。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 3,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000264,
+                "targetTalkId": 8
+              },
+              "targetTalkId": 8,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_13",
+          "text": "是吧是吧！下次有急事，就出动漂泊者！",
+          "texts": {
+            "zh-Hans": "是吧是吧！下次有急事，就出动漂泊者！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000265,
+            "targetTalkId": 8
+          },
+          "targetTalkId": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_14",
+          "text": "确实，这样说太不礼貌了，我有问题，该打！",
+          "texts": {
+            "zh-Hans": "确实，这样说太不礼貌了，我有问题，该打！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000266,
+            "targetTalkId": 8
+          },
+          "targetTalkId": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_15",
+          "text": "对了，昨儿不是说，糖丸和日晷都有眉目了，现在就剩奇怪的树叶跟一点也不奇怪的莽吉柿？",
+          "texts": {
+            "zh-Hans": "对了，昨儿不是说，糖丸和日晷都有眉目了，现在就剩奇怪的树叶跟一点也不奇怪的莽吉柿？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_16",
+          "text": "没想到顺路一趟研究院就解决了两，该说漂泊者太聪明还是令尹确实没打算为难人。",
+          "texts": {
+            "zh-Hans": "没想到顺路一趟研究院就解决了两，该说漂泊者太聪明还是令尹确实没打算为难人。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_17",
+          "text": "下一步，漂泊者打算怎么办？",
+          "texts": {
+            "zh-Hans": "下一步，漂泊者打算怎么办？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_18",
+              "text": "先调查莽吉柿。",
+              "texts": {
+                "zh-Hans": "先调查莽吉柿。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 10,
+              "talkIndex": 9,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000267,
+                "targetTalkId": 11
+              },
+              "targetTalkId": 11,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_19",
+              "text": "先调查有异常的树叶。",
+              "texts": {
+                "zh-Hans": "先调查有异常的树叶。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 10,
+              "talkIndex": 9,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000268,
+                "targetTalkId": 15
+              },
+              "targetTalkId": 15,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_20",
+              "text": "还有两天，等着就可以了。",
+              "texts": {
+                "zh-Hans": "还有两天，等着就可以了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 10,
+              "talkIndex": 9,
+              "optionIndex": 2,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000273,
+                "targetTalkId": 17
+              },
+              "targetTalkId": 17,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_21",
+              "text": "我有其他打算。",
+              "texts": {
+                "zh-Hans": "我有其他打算。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 10,
+              "talkIndex": 9,
+              "optionIndex": 3,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000274,
+                "targetTalkId": 18
+              },
+              "targetTalkId": 18,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_22",
+          "text": "莽吉柿的话，不远的市集就有在贩卖出售？去问问看或许有什么线索？",
+          "texts": {
+            "zh-Hans": "莽吉柿的话，不远的市集就有在贩卖出售？去问问看或许有什么线索？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_23",
+          "text": "莽吉柿并非今州本土的水果，应当是通过港口运输到今州城内的，或是先从源头寻起？",
+          "texts": {
+            "zh-Hans": "莽吉柿并非今州本土的水果，应当是通过港口运输到今州城内的，或是先从源头寻起？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_25",
+              "text": "出城看看吧。",
+              "texts": {
+                "zh-Hans": "出城看看吧。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 12,
+              "talkIndex": 11,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_27",
+          "text": "漂泊者是认为，接下来的信物一定是引导出城吗？",
+          "texts": {
+            "zh-Hans": "漂泊者是认为，接下来的信物一定是引导出城吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 14,
+          "talkIndex": 12,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000290,
+            "targetTalkId": 18
+          },
+          "targetTalkId": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_28",
+          "text": "白芷说过，树叶上有残象频率波动的痕迹，树木生长的地方应当在无音区附近。",
+          "texts": {
+            "zh-Hans": "白芷说过，树叶上有残象频率波动的痕迹，树木生长的地方应当在无音区附近。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 15,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_29",
+          "text": "如果要调查树叶，需要出城。",
+          "texts": {
+            "zh-Hans": "如果要调查树叶，需要出城。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 16,
+          "talkIndex": 14,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000294,
+            "targetTalkId": 18
+          },
+          "targetTalkId": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_30",
+          "text": "静观其变，这也不失为一种办法，那余下两天，漂泊者打算？",
+          "texts": {
+            "zh-Hans": "静观其变，这也不失为一种办法，那余下两天，漂泊者打算？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_31",
+              "text": "（诉说一开始的梦境。）",
+              "texts": {
+                "zh-Hans": "（诉说一开始的梦境。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 18,
+              "talkIndex": 16,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000296,
+                "targetTalkId": 19
+              },
+              "targetTalkId": 19,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_32",
+              "text": "令尹给了我通行权限。",
+              "texts": {
+                "zh-Hans": "令尹给了我通行权限。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 18,
+              "talkIndex": 16,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000297,
+                "targetTalkId": 26
+              },
+              "targetTalkId": 26,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_33",
+              "text": "我的身体渴望战斗！",
+              "texts": {
+                "zh-Hans": "我的身体渴望战斗！"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 18,
+              "talkIndex": 16,
+              "optionIndex": 2,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000298,
+                "targetTalkId": 29
+              },
+              "targetTalkId": 29,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 17,
+          "talkIndex": 15,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000295,
+            "targetTalkId": 18
+          },
+          "targetTalkId": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_34",
+          "text": "星海……黑发少女……倒悬的天空海……从手背声痕逸出的声弦……",
+          "texts": {
+            "zh-Hans": "星海……黑发少女……倒悬的天空海……从手背声痕逸出的声弦……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 19,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_35",
+          "text": "最近的方向是云陵谷和北落野……",
+          "texts": {
+            "zh-Hans": "最近的方向是云陵谷和北落野……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 20,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_36",
+          "text": "之前从未听漂泊者提起过这些。",
+          "texts": {
+            "zh-Hans": "之前从未听漂泊者提起过这些。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_37",
+              "text": "没找到合适的时机。",
+              "texts": {
+                "zh-Hans": "没找到合适的时机。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 21,
+              "talkIndex": 19,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_38",
+              "text": "我原以为那只是梦。",
+              "texts": {
+                "zh-Hans": "我原以为那只是梦。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 21,
+              "talkIndex": 19,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 21,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_39",
+          "text": "天空海和声弦是存在的，而在漂泊者的描述里，声弦落下的地界，确确实实是云陵谷和北落野。",
+          "texts": {
+            "zh-Hans": "天空海和声弦是存在的，而在漂泊者的描述里，声弦落下的地界，确确实实是云陵谷和北落野。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 22,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_40",
+          "text": "或许……那并不是梦。",
+          "texts": {
+            "zh-Hans": "或许……那并不是梦。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 23,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_41",
+          "text": "或许找到那个少女，是找回漂泊者记忆的关键，除去今令尹提供的信息，梦境的指向之一，是北落野。",
+          "texts": {
+            "zh-Hans": "或许找到那个少女，是找回漂泊者记忆的关键，除去今令尹提供的信息，梦境的指向之一，是北落野。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 24,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_42",
+          "text": "鸣式战争的战场，残象潮的发源地，也是，夜归军的前线驻地。",
+          "texts": {
+            "zh-Hans": "鸣式战争的战场，残象潮的发源地，也是，夜归军的前线驻地。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/23/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 25,
+          "talkIndex": 23,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000299,
+            "targetTalkId": 35
+          },
+          "targetTalkId": 35,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/23/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_43",
+          "text": "通行权限也是一种提示……",
+          "texts": {
+            "zh-Hans": "通行权限也是一种提示……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/24/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 26,
+          "talkIndex": 24,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/24/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_44",
+          "text": "城内并没有什么关口，除却边庭以外，是用不着什么通行权限的，除非一定要出城。",
+          "texts": {
+            "zh-Hans": "城内并没有什么关口，除却边庭以外，是用不着什么通行权限的，除非一定要出城。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/25/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 27,
+          "talkIndex": 25,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/25/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_45",
+          "text": "这也能联系起来想到？也太厉害了吧！",
+          "texts": {
+            "zh-Hans": "这也能联系起来想到？也太厉害了吧！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/26/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 28,
+          "talkIndex": 26,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000300,
+            "targetTalkId": 35
+          },
+          "targetTalkId": 35,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/26/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_46",
+          "text": "也确实，昨天之后一直在费脑子，也该活动活动筋骨了！",
+          "texts": {
+            "zh-Hans": "也确实，昨天之后一直在费脑子，也该活动活动筋骨了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_47",
+              "text": "我不知道我是谁。",
+              "texts": {
+                "zh-Hans": "我不知道我是谁。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 30,
+              "talkIndex": 28,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_48",
+              "text": "也不知道我在哪里。",
+              "texts": {
+                "zh-Hans": "也不知道我在哪里。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 31,
+              "talkIndex": 29,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_49",
+              "text": "但我知道我要大开杀戒！",
+              "texts": {
+                "zh-Hans": "但我知道我要大开杀戒！"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 32,
+              "talkIndex": 30,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/27/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 29,
+          "talkIndex": 27,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/27/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_50",
+          "text": "喔！喔！手撕残象！喔！喔！好有气势！",
+          "texts": {
+            "zh-Hans": "喔！喔！手撕残象！喔！喔！好有气势！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/31/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 33,
+          "talkIndex": 31,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/31/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_51",
+          "text": "……炽霞，漂泊者。",
+          "texts": {
+            "zh-Hans": "……炽霞，漂泊者。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/32/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 34,
+          "talkIndex": 32,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000301,
+            "targetTalkId": 35
+          },
+          "targetTalkId": 35,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/32/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_52",
+          "text": "不过出城的话，我就没法再跟着了，怕耽误了值勤时间。秧秧要保护好漂泊者啊，有啥事报个信报个平安！",
+          "texts": {
+            "zh-Hans": "不过出城的话，我就没法再跟着了，怕耽误了值勤时间。秧秧要保护好漂泊者啊，有啥事报个信报个平安！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_53",
+              "text": "说反了吧。",
+              "texts": {
+                "zh-Hans": "说反了吧。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 35,
+              "talkIndex": 33,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000302,
+                "targetTalkId": 37
+              },
+              "targetTalkId": 37,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_54",
+              "text": "我很强的。",
+              "texts": {
+                "zh-Hans": "我很强的。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 35,
+              "talkIndex": 33,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000303,
+                "targetTalkId": 37
+              },
+              "targetTalkId": 37,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_55",
+              "text": "等我们好消息。",
+              "texts": {
+                "zh-Hans": "等我们好消息。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 35,
+              "talkIndex": 33,
+              "optionIndex": 2,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000305,
+                "targetTalkId": 37
+              },
+              "targetTalkId": 37,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_480_56",
+              "text": "我会保护好秧秧的。",
+              "texts": {
+                "zh-Hans": "我会保护好秧秧的。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 35,
+              "talkIndex": 33,
+              "optionIndex": 3,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000306,
+                "targetTalkId": 36
+              },
+              "targetTalkId": 36,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/33/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 35,
+          "talkIndex": 33,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/33/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "炽霞",
+          "speakers": {
+            "zh-Hans": "炽霞"
+          },
+          "speakerId": 101,
+          "textKey": "Huanglong_main_1_2EX_480_57",
+          "text": "好好，我相信漂泊者！",
+          "texts": {
+            "zh-Hans": "好好，我相信漂泊者！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/34/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 36,
+          "talkIndex": 34,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000307,
+            "targetTalkId": 37
+          },
+          "targetTalkId": 37,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/34/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_480_58",
+          "text": "嗯，我会的。",
+          "texts": {
+            "zh-Hans": "嗯，我会的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/35/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第二幕_安此亿兆生",
+            "flowId": 7,
+            "stateId": 2
+          },
+          "talkId": 37,
+          "talkIndex": 35,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/3/Flow -> 剧情_新主线_CE版_第一章_第二幕_安此亿兆生_7_2:/7/TalkItems/35/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 2,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 3
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 10,
+      "kind": "manual-override-node",
+      "title": "跟随巡逻踪迹，找到侦查塔",
+      "titles": {
+        "zh-Hans": "跟随巡逻踪迹，找到侦查塔"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-16",
+      "sourceNodeKey": "node:15",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+          "flowId": 1,
+          "stateId": 4,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_42_1",
+          "text": "请问，你们在这里干什么呢？这里离战场很近，很危险的。",
+          "texts": {
+            "zh-Hans": "请问，你们在这里干什么呢？这里离战场很近，很危险的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/7/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/7/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "奇怪的平民？",
+          "speakers": {
+            "zh-Hans": "奇怪的平民？"
+          },
+          "speakerId": 1036,
+          "textKey": "Huanglong_main_1_2EX_42_2",
+          "text": "啊？我们……我们没干什么，我们这不是南下进城呢。",
+          "texts": {
+            "zh-Hans": "啊？我们……我们没干什么，我们这不是南下进城呢。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_42_3",
+              "text": "别藏了，你不会以为我看不到吧？",
+              "texts": {
+                "zh-Hans": "别藏了，你不会以为我看不到吧？"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 2,
+              "talkIndex": 1,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/7/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/7/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_42_4",
+          "text": "请问，这个侦查塔……",
+          "texts": {
+            "zh-Hans": "请问，这个侦查塔……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/7/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/7/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "奇怪的平民？",
+          "speakers": {
+            "zh-Hans": "奇怪的平民？"
+          },
+          "speakerId": 1036,
+          "textKey": "Huanglong_main_1_2EX_42_5",
+          "text": "大家快跑！",
+          "texts": {
+            "zh-Hans": "大家快跑！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_42_6",
+              "text": "有古怪。",
+              "texts": {
+                "zh-Hans": "有古怪。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 4,
+              "talkIndex": 3,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_42_7",
+              "text": "追。",
+              "texts": {
+                "zh-Hans": "追。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 4,
+              "talkIndex": 3,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/7/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/7/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "胆小的平民？",
+          "speakers": {
+            "zh-Hans": "胆小的平民？"
+          },
+          "speakerId": 1092,
+          "textKey": "Huanglong_main_1_2EX_43_1",
+          "text": "哥，我走不动了……太饿了……",
+          "texts": {
+            "zh-Hans": "哥，我走不动了……太饿了……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "慌张的平民？",
+          "speakers": {
+            "zh-Hans": "慌张的平民？"
+          },
+          "speakerId": 1093,
+          "textKey": "Huanglong_main_1_2EX_43_2",
+          "text": "别，别抓我们！我们……我们实在没办法了才偷东西的！",
+          "texts": {
+            "zh-Hans": "别，别抓我们！我们……我们实在没办法了才偷东西的！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_43_3",
+          "text": "你们是遇到什么困难了吗？",
+          "texts": {
+            "zh-Hans": "你们是遇到什么困难了吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "胆小的平民？",
+          "speakers": {
+            "zh-Hans": "胆小的平民？"
+          },
+          "speakerId": 1092,
+          "textKey": "Huanglong_main_1_2EX_43_4",
+          "text": "这不是现在北边战事紧张吗，我们这些人没有物资实在活不下去了，想来想去还是打算回城过活。",
+          "texts": {
+            "zh-Hans": "这不是现在北边战事紧张吗，我们这些人没有物资实在活不下去了，想来想去还是打算回城过活。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "胆小的平民？",
+          "speakers": {
+            "zh-Hans": "胆小的平民？"
+          },
+          "speakerId": 1092,
+          "textKey": "Huanglong_main_1_2EX_43_5",
+          "text": "我们只是太久没吃东西了，身上的钱也用完了，很多人饿得都快要走不动路了。",
+          "texts": {
+            "zh-Hans": "我们只是太久没吃东西了，身上的钱也用完了，很多人饿得都快要走不动路了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "胆小的平民？",
+          "speakers": {
+            "zh-Hans": "胆小的平民？"
+          },
+          "speakerId": 1092,
+          "textKey": "Huanglong_main_1_2EX_43_6",
+          "text": "我们路过这正好看到这里有些值钱设备，军队都去打仗了，现在这里也没什么人，所以才想趁机偷点东西去换钱。",
+          "texts": {
+            "zh-Hans": "我们路过这正好看到这里有些值钱设备，军队都去打仗了，现在这里也没什么人，所以才想趁机偷点东西去换钱。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_43_7",
+          "text": "侦测塔的损坏可能会让这个方位突然出现残象潮入侵。",
+          "texts": {
+            "zh-Hans": "侦测塔的损坏可能会让这个方位突然出现残象潮入侵。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_43_8",
+          "text": "你们有没有想过，如果真的发生了这种事情，前线将士们将陷入腹背受敌的境地。",
+          "texts": {
+            "zh-Hans": "你们有没有想过，如果真的发生了这种事情，前线将士们将陷入腹背受敌的境地。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "慌张的平民？",
+          "speakers": {
+            "zh-Hans": "慌张的平民？"
+          },
+          "speakerId": 1093,
+          "textKey": "Huanglong_main_1_2EX_43_9",
+          "text": "我们管不了那么多！要是不偷，残象潮还没来呢，我们就先饿死在这了！",
+          "texts": {
+            "zh-Hans": "我们管不了那么多！要是不偷，残象潮还没来呢，我们就先饿死在这了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_43_10",
+          "text": "不可窃取公物，请把零件还回去。",
+          "texts": {
+            "zh-Hans": "不可窃取公物，请把零件还回去。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_43_11",
+          "text": "这里到今州城还有段距离，我这有锅盔，给你们吃吧。",
+          "texts": {
+            "zh-Hans": "这里到今州城还有段距离，我这有锅盔，给你们吃吧。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_43_12",
+          "text": "这饼你拿着吧，喏，这还有一些吃的，还有这些钱你们也拿着，这些应该足够你们走到今州城了。",
+          "texts": {
+            "zh-Hans": "这饼你拿着吧，喏，这还有一些吃的，还有这些钱你们也拿着，这些应该足够你们走到今州城了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "胆小的平民？",
+          "speakers": {
+            "zh-Hans": "胆小的平民？"
+          },
+          "speakerId": 1092,
+          "textKey": "Huanglong_main_1_2EX_43_13",
+          "text": "这些……都给我们？谢谢……谢谢！",
+          "texts": {
+            "zh-Hans": "这些……都给我们？谢谢……谢谢！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "慌张的平民？",
+          "speakers": {
+            "zh-Hans": "慌张的平民？"
+          },
+          "speakerId": 1093,
+          "textKey": "Huanglong_main_1_2EX_43_14",
+          "text": "你！你们别抢！别光顾着吃了！快来谢谢恩人啊！",
+          "texts": {
+            "zh-Hans": "你！你们别抢！别光顾着吃了！快来谢谢恩人啊！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_43_15",
+          "text": "师父说过，常善救人，故无弃人。所以，不必客气！",
+          "texts": {
+            "zh-Hans": "师父说过，常善救人，故无弃人。所以，不必客气！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 354,
+          "textKey": "Huanglong_main_1_2EX_43_16",
+          "text": "小心！",
+          "texts": {
+            "zh-Hans": "小心！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 4
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/22/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_4:/13/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 3
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 11,
+      "kind": "manual-override-node",
+      "title": "打倒袭击的偷窃者",
+      "titles": {
+        "zh-Hans": "打倒袭击的偷窃者"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-17",
+      "sourceNodeKey": "node:16",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+          "flowId": 1,
+          "stateId": 24,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+          "flowId": 1,
+          "stateId": 6,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "奇怪的平民？",
+          "speakers": {
+            "zh-Hans": "奇怪的平民？"
+          },
+          "speakerId": 1036,
+          "textKey": "Huanglong_main_1_2EX_400_1",
+          "text": "嘁……还是块硬骨头。",
+          "texts": {
+            "zh-Hans": "嘁……还是块硬骨头。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 24
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_400_2",
+          "text": "小道好心相救，你为什么还要伤人？",
+          "texts": {
+            "zh-Hans": "小道好心相救，你为什么还要伤人？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 24
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "奇怪的平民？",
+          "speakers": {
+            "zh-Hans": "奇怪的平民？"
+          },
+          "speakerId": 1036,
+          "textKey": "Huanglong_main_1_2EX_400_3",
+          "text": "我们这么多人，你给的这点东西可不够，识相的话，就把你们身上所有值钱的东西和食物全部拿出来！",
+          "texts": {
+            "zh-Hans": "我们这么多人，你给的这点东西可不够，识相的话，就把你们身上所有值钱的东西和食物全部拿出来！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 24
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "奇怪的平民？",
+          "speakers": {
+            "zh-Hans": "奇怪的平民？"
+          },
+          "speakerId": 1036,
+          "textKey": "Huanglong_main_1_2EX_400_4",
+          "text": "我们也不想欺负你们三个年轻人，所以你们最好还是乖乖配合……",
+          "texts": {
+            "zh-Hans": "我们也不想欺负你们三个年轻人，所以你们最好还是乖乖配合……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 24
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "奇怪的平民？",
+          "speakers": {
+            "zh-Hans": "奇怪的平民？"
+          },
+          "speakerId": 1036,
+          "textKey": "Huanglong_main_1_2EX_400_5",
+          "text": "否则，这么多人下手没轻没重的，到时候丢了命可别怪我们。",
+          "texts": {
+            "zh-Hans": "否则，这么多人下手没轻没重的，到时候丢了命可别怪我们。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 24
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_400_6",
+          "text": "不义之事，小道不从。",
+          "texts": {
+            "zh-Hans": "不义之事，小道不从。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 24
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_400_7",
+          "text": "两位恩人请后退，勿要被伤及。",
+          "texts": {
+            "zh-Hans": "两位恩人请后退，勿要被伤及。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 24
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "奇怪的平民？",
+          "speakers": {
+            "zh-Hans": "奇怪的平民？"
+          },
+          "speakerId": 1036,
+          "textKey": "Huanglong_main_1_2EX_400_8",
+          "text": "不给是吧，不给别怪我们不客气！",
+          "texts": {
+            "zh-Hans": "不给是吧，不给别怪我们不客气！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 24
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/24/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_24:/1/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "慌张的平民？",
+          "speakers": {
+            "zh-Hans": "慌张的平民？"
+          },
+          "speakerId": 1093,
+          "textKey": "Huanglong_main_1_2EX_44_1",
+          "text": "停停停！我们认输！我们错了！别打了！真倒霉……",
+          "texts": {
+            "zh-Hans": "停停停！我们认输！我们错了！别打了！真倒霉……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_44_2",
+          "text": "我已经给了你们食物与钱，为什么还要抢劫？",
+          "texts": {
+            "zh-Hans": "我已经给了你们食物与钱，为什么还要抢劫？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_44_3",
+          "text": "难道除了我们看到的这些人，你们还有其他同伴吗？",
+          "texts": {
+            "zh-Hans": "难道除了我们看到的这些人，你们还有其他同伴吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_44_8",
+          "text": "看装扮和身手……你们应该不是普通百姓吧？",
+          "texts": {
+            "zh-Hans": "看装扮和身手……你们应该不是普通百姓吧？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_44_9",
+              "text": "说！你们到底是谁！",
+              "texts": {
+                "zh-Hans": "说！你们到底是谁！"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 4,
+              "talkIndex": 3,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "年长的流放者",
+          "speakers": {
+            "zh-Hans": "年长的流放者"
+          },
+          "speakerId": 852,
+          "textKey": "Huanglong_main_1_2EX_44_10",
+          "text": "谁说我们不是普通百姓！我们是啊！只不过……前段时间刚刚成为流放者而已。",
+          "texts": {
+            "zh-Hans": "谁说我们不是普通百姓！我们是啊！只不过……前段时间刚刚成为流放者而已。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "年长的流放者",
+          "speakers": {
+            "zh-Hans": "年长的流放者"
+          },
+          "speakerId": 852,
+          "textKey": "Huanglong_main_1_2EX_44_11",
+          "text": "本来是想出城躲开巡尉抓捕，谁能想到北边战事这么快就严重起来了，我们在营地里人还没认熟呢，老大的家底就被掏空了，我们想了想还是回城算了……",
+          "texts": {
+            "zh-Hans": "本来是想出城躲开巡尉抓捕，谁能想到北边战事这么快就严重起来了，我们在营地里人还没认熟呢，老大的家底就被掏空了，我们想了想还是回城算了……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "胆小的流放者",
+          "speakers": {
+            "zh-Hans": "胆小的流放者"
+          },
+          "speakerId": 791,
+          "textKey": "Huanglong_main_1_2EX_44_12",
+          "text": "我们走到半路，粮食和钱确实不够了，这才打起偷东西的主意的。",
+          "texts": {
+            "zh-Hans": "我们走到半路，粮食和钱确实不够了，这才打起偷东西的主意的。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "胆小的流放者",
+          "speakers": {
+            "zh-Hans": "胆小的流放者"
+          },
+          "speakerId": 791,
+          "textKey": "Huanglong_main_1_2EX_44_13",
+          "text": "要不是赶上军营这边没人，我们也不敢来偷军队的零件……",
+          "texts": {
+            "zh-Hans": "要不是赶上军营这边没人，我们也不敢来偷军队的零件……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "胆小的流放者",
+          "speakers": {
+            "zh-Hans": "胆小的流放者"
+          },
+          "speakerId": 791,
+          "textKey": "Huanglong_main_1_2EX_44_14",
+          "text": "对了，既然你们好心，不如再多给我们些盘缠吧。你看我们这么多人，现在又负伤一批，这点东西真的不够用啊……",
+          "texts": {
+            "zh-Hans": "对了，既然你们好心，不如再多给我们些盘缠吧。你看我们这么多人，现在又负伤一批，这点东西真的不够用啊……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_44_15",
+              "text": "我们还有些物资。",
+              "texts": {
+                "zh-Hans": "我们还有些物资。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 9,
+              "talkIndex": 8,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000087,
+                "targetTalkId": 10
+              },
+              "targetTalkId": 10,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_44_35",
+              "text": "不能给。",
+              "texts": {
+                "zh-Hans": "不能给。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 9,
+              "talkIndex": 8,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000088,
+                "targetTalkId": 11
+              },
+              "targetTalkId": 11,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_44_16",
+          "text": "等等，刚才给的物资应该已经足够他们到今州城了，应当还有一些富余。",
+          "texts": {
+            "zh-Hans": "等等，刚才给的物资应该已经足够他们到今州城了，应当还有一些富余。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000089,
+            "targetTalkId": 12
+          },
+          "targetTalkId": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_44_36",
+          "text": "抱歉，刚才给的物资应该已经足够大家到今州城了。即使有这么多人，也有所富余。",
+          "texts": {
+            "zh-Hans": "抱歉，刚才给的物资应该已经足够大家到今州城了。即使有这么多人，也有所富余。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000090,
+            "targetTalkId": 12
+          },
+          "targetTalkId": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_44_17",
+          "text": "小道曾净身下山，知道一个人存活于世、行至今州需要多少物资。",
+          "texts": {
+            "zh-Hans": "小道曾净身下山，知道一个人存活于世、行至今州需要多少物资。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "年长的流放者",
+          "speakers": {
+            "zh-Hans": "年长的流放者"
+          },
+          "speakerId": 852,
+          "textKey": "Huanglong_main_1_2EX_44_18",
+          "text": "嘿！你这丫头怎么回事！多给点怎么了，我看你们也不缺啊！",
+          "texts": {
+            "zh-Hans": "嘿！你这丫头怎么回事！多给点怎么了，我看你们也不缺啊！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 22,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_44_19",
+          "text": "贪欲多苦，知足者富。小道刚才所施只是为了你们可以顺利进城。",
+          "texts": {
+            "zh-Hans": "贪欲多苦，知足者富。小道刚才所施只是为了你们可以顺利进城。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 23,
+          "speaker": "胆小的流放者",
+          "speakers": {
+            "zh-Hans": "胆小的流放者"
+          },
+          "speakerId": 791,
+          "textKey": "Huanglong_main_1_2EX_44_20",
+          "text": "不是，小姑娘你不知道，现在这时节钱也不好赚……我们要是进城找不来活，那可难办啊……",
+          "texts": {
+            "zh-Hans": "不是，小姑娘你不知道，现在这时节钱也不好赚……我们要是进城找不来活，那可难办啊……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/14/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 15,
+          "talkIndex": 14,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/14/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 24,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_44_21",
+          "text": "小道也是从山上而来，一路行至今州。小道愚钝，世事半知不解，亦能在今州得一口饭吃，诸位明明各有能耐，为何不行？",
+          "texts": {
+            "zh-Hans": "小道也是从山上而来，一路行至今州。小道愚钝，世事半知不解，亦能在今州得一口饭吃，诸位明明各有能耐，为何不行？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/15/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 16,
+          "talkIndex": 15,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/15/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 25,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_44_22",
+          "text": "若是入城后确实找不着活计，可以到六羡茶馆寻小道，小道名鉴心，可以同诸位一起找活，做活。",
+          "texts": {
+            "zh-Hans": "若是入城后确实找不着活计，可以到六羡茶馆寻小道，小道名鉴心，可以同诸位一起找活，做活。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/16/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 17,
+          "talkIndex": 16,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/16/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 26,
+          "speaker": "年长的流放者",
+          "speakers": {
+            "zh-Hans": "年长的流放者"
+          },
+          "speakerId": 852,
+          "textKey": "Huanglong_main_1_2EX_44_24",
+          "text": "这！好吧，好吧，我们不要就是了。",
+          "texts": {
+            "zh-Hans": "这！好吧，好吧，我们不要就是了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/17/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 19,
+          "talkIndex": 17,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/17/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 27,
+          "speaker": "年长的流放者",
+          "speakers": {
+            "zh-Hans": "年长的流放者"
+          },
+          "speakerId": 852,
+          "textKey": "Huanglong_main_1_2EX_44_25",
+          "text": "我们走，快走，我可不想再听这个小道士的说教了。",
+          "texts": {
+            "zh-Hans": "我们走，快走，我可不想再听这个小道士的说教了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/18/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 20,
+          "talkIndex": 18,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/18/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 28,
+          "speaker": "鉴心",
+          "speakers": {
+            "zh-Hans": "鉴心"
+          },
+          "speakerId": 837,
+          "textKey": "Huanglong_main_1_2EX_44_26",
+          "text": "小道并非……算了，请等一等，零件留下。",
+          "texts": {
+            "zh-Hans": "小道并非……算了，请等一等，零件留下。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/19/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 21,
+          "talkIndex": 19,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/19/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 29,
+          "speaker": "年长的流放者",
+          "speakers": {
+            "zh-Hans": "年长的流放者"
+          },
+          "speakerId": 852,
+          "textKey": "Huanglong_main_1_2EX_44_27",
+          "text": "记性真好……给给给！都在这了！",
+          "texts": {
+            "zh-Hans": "记性真好……给给给！都在这了！"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/20/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 22,
+          "talkIndex": 20,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/20/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 30,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_44_28",
+          "text": "你们只破坏了这一个侦查塔吗？",
+          "texts": {
+            "zh-Hans": "你们只破坏了这一个侦查塔吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/21/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 23,
+          "talkIndex": 21,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/21/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 31,
+          "speaker": "年长的流放者",
+          "speakers": {
+            "zh-Hans": "年长的流放者"
+          },
+          "speakerId": 852,
+          "textKey": "Huanglong_main_1_2EX_44_29",
+          "text": "是啊！刚偷第一个就被你们撞见了。",
+          "texts": {
+            "zh-Hans": "是啊！刚偷第一个就被你们撞见了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/22/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 24,
+          "talkIndex": 22,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/22/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 32,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_44_30",
+          "text": "但那边的侦查塔……？",
+          "texts": {
+            "zh-Hans": "但那边的侦查塔……？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/23/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 25,
+          "talkIndex": 23,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/23/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 33,
+          "speaker": "年长的流放者",
+          "speakers": {
+            "zh-Hans": "年长的流放者"
+          },
+          "speakerId": 852,
+          "textKey": "Huanglong_main_1_2EX_44_31",
+          "text": "那可不关我们的事！那个看起来早就坏了，而且周围还有好多荆棘，我们想过去也过不去啊。",
+          "texts": {
+            "zh-Hans": "那可不关我们的事！那个看起来早就坏了，而且周围还有好多荆棘，我们想过去也过不去啊。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/24/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 26,
+          "talkIndex": 24,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/24/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 34,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_44_32",
+          "text": "好，我们知道了。",
+          "texts": {
+            "zh-Hans": "好，我们知道了。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/25/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 27,
+          "talkIndex": 25,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/25/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 35,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_44_33",
+          "text": "夜归的后方营地也不远了，漂泊者，鉴心小道长，我们可以把这些侦查设备修好再过去吗？",
+          "texts": {
+            "zh-Hans": "夜归的后方营地也不远了，漂泊者，鉴心小道长，我们可以把这些侦查设备修好再过去吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_44_34",
+              "text": "好。",
+              "texts": {
+                "zh-Hans": "好。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 28,
+              "talkIndex": 26,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/26/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 6
+          },
+          "talkId": 28,
+          "talkIndex": 26,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/25/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_6:/7/TalkItems/26/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 2,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 3
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 25,
+      "kind": "manual-override-node",
+      "title": "和秧秧聊聊接下来的打算",
+      "titles": {
+        "zh-Hans": "和秧秧聊聊接下来的打算"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-34",
+      "sourceNodeKey": "node:33",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+          "flowId": 1,
+          "stateId": 26,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_7_1",
+          "text": "遇到鉴心小道长应当是意外，如果莽吉柿指向的是战争，今令尹想要说的究竟是什么呢？",
+          "texts": {
+            "zh-Hans": "遇到鉴心小道长应当是意外，如果莽吉柿指向的是战争，今令尹想要说的究竟是什么呢？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_7_2",
+              "text": "世间由战生，因战苦。",
+              "texts": {
+                "zh-Hans": "世间由战生，因战苦。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 1,
+              "talkIndex": 0,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_7_3",
+              "text": "说不定，她想让我见到谁。",
+              "texts": {
+                "zh-Hans": "说不定，她想让我见到谁。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 1,
+              "talkIndex": 0,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_7_4",
+              "text": "也许只是暂时没有触发。",
+              "texts": {
+                "zh-Hans": "也许只是暂时没有触发。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 1,
+              "talkIndex": 0,
+              "optionIndex": 2,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_7_5",
+              "text": "只是给我一个契机。",
+              "texts": {
+                "zh-Hans": "只是给我一个契机。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 1,
+              "talkIndex": 0,
+              "optionIndex": 3,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 26
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_7_6",
+          "text": "漂泊者想到了什么？",
+          "texts": {
+            "zh-Hans": "漂泊者想到了什么？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 26
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 354,
+          "textKey": "Huanglong_main_1_2EX_7_7",
+          "text": "我觉得……",
+          "texts": {
+            "zh-Hans": "我觉得……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_7_8",
+              "text": "（说起残象潮。）",
+              "texts": {
+                "zh-Hans": "（说起残象潮。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 3,
+              "talkIndex": 2,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000257,
+                "targetTalkId": 4
+              },
+              "targetTalkId": 4,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_7_9",
+              "text": "（说起运输路线。）",
+              "texts": {
+                "zh-Hans": "（说起运输路线。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 3,
+              "talkIndex": 2,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000258,
+                "targetTalkId": 6
+              },
+              "targetTalkId": 6,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_7_10",
+              "text": "（说起将军。）",
+              "texts": {
+                "zh-Hans": "（说起将军。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 3,
+              "talkIndex": 2,
+              "optionIndex": 2,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000259,
+                "targetTalkId": 8
+              },
+              "targetTalkId": 8,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 26
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_7_11",
+          "text": "漂泊者是认为，残象潮是令尹想要通过莽吉柿告诉漂泊者的重要信息吗？",
+          "texts": {
+            "zh-Hans": "漂泊者是认为，残象潮是令尹想要通过莽吉柿告诉漂泊者的重要信息吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 26
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_7_12",
+          "text": "如潮水般涌来的残象，若是防线溃败，不仅仅是瑝珑之难……",
+          "texts": {
+            "zh-Hans": "如潮水般涌来的残象，若是防线溃败，不仅仅是瑝珑之难……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 26
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000260,
+            "targetTalkId": 9
+          },
+          "targetTalkId": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_7_13",
+          "text": "漂泊者是认为，莽吉柿的运输路线是令尹想要通过莽吉柿告诉漂泊者的重要信息吗？",
+          "texts": {
+            "zh-Hans": "漂泊者是认为，莽吉柿的运输路线是令尹想要通过莽吉柿告诉漂泊者的重要信息吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 26
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_7_14",
+          "text": "刚刚军需官有提到，<color=Highlight>南</color>线是水运路线。",
+          "texts": {
+            "zh-Hans": "刚刚军需官有提到，<color=Highlight>南</color>线是水运路线。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 26
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000261,
+            "targetTalkId": 9
+          },
+          "targetTalkId": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_7_15",
+          "text": "漂泊者是认为，莽吉柿指向今州现在的战事情况，指向忌炎将军吗？",
+          "texts": {
+            "zh-Hans": "漂泊者是认为，莽吉柿指向今州现在的战事情况，指向忌炎将军吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 26
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000262,
+            "targetTalkId": 9
+          },
+          "targetTalkId": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_7_16",
+          "text": "尚是在战场后方，风中就已经充满了肃杀的气息……紧张、不安，戍边的将士们……",
+          "texts": {
+            "zh-Hans": "尚是在战场后方，风中就已经充满了肃杀的气息……紧张、不安，戍边的将士们……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 26
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/53/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_26:/7/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": null,
+          "textKey": "MainSeq_M021_3",
+          "text": "食物...食物......",
+          "texts": {
+            "zh-Hans": "食物...食物......"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:52246",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:52246",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": null,
+          "textKey": "MainSeq_M021_2",
+          "text": "跟上青龙的指引，战！",
+          "texts": {
+            "zh-Hans": "跟上青龙的指引，战！"
+          },
+          "textSource": "manual-override",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "search_v2:126:52228",
+          "manualOverrideLine": {
+            "origin": "search-api",
+            "manualInserted": true,
+            "sourcePath": "search_v2:126:52228",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 1,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 3
+          }
+        ]
+      }
+    },
+    {
+      "chapter_index": 27,
+      "kind": "manual-override-node",
+      "title": "死守战场，消灭所有残象",
+      "titles": {
+        "zh-Hans": "死守战场，消灭所有残象"
+      },
+      "isHideUi": false,
+      "nodeId": "base-node-43",
+      "sourceNodeKey": "node:42",
+      "manualInserted": false,
+      "flows": [
+        {
+          "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+          "flowId": 1,
+          "stateId": 21,
+          "source": "manual-override"
+        },
+        {
+          "flowListName": "剧情_新主线_CE版_序章-第一章_功能引导旁白相关内容",
+          "flowId": 9,
+          "stateId": 1,
+          "source": "manual-override"
+        }
+      ],
+      "dialogues": [
+        {
+          "id": 1,
+          "speaker": "",
+          "speakers": {},
+          "speakerId": null,
+          "textKey": "Flow_139000007_491",
+          "text": "听到秧秧的呼唤..意识逐渐清醒..",
+          "texts": {
+            "zh-Hans": "听到秧秧的呼唤..意识逐渐清醒.."
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": false,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/6/TidCenterText",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/6/TidCenterText",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 2,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_1",
+          "text": "刚才怎么了？有哪里不舒服吗？",
+          "texts": {
+            "zh-Hans": "刚才怎么了？有哪里不舒服吗？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_2",
+              "text": "我好像……出现幻觉了。",
+              "texts": {
+                "zh-Hans": "我好像……出现幻觉了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 1,
+              "talkIndex": 0,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_19",
+              "text": "我似乎与残象共感了。",
+              "texts": {
+                "zh-Hans": "我似乎与残象共感了。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 1,
+              "talkIndex": 0,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 3,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_3",
+          "text": "你吓了我一跳……刚才突然呆呆地愣在原地，怎么跟你说话都没反应，你看见什么了？",
+          "texts": {
+            "zh-Hans": "你吓了我一跳……刚才突然呆呆地愣在原地，怎么跟你说话都没反应，你看见什么了？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 4,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 354,
+          "textKey": "Huanglong_main_1_2EX_60_4",
+          "text": "我的视野似乎变成了残象的视角，看见了北落野的情景……",
+          "texts": {
+            "zh-Hans": "我的视野似乎变成了残象的视角，看见了北落野的情景……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_5",
+              "text": "（先描述青衣将军。）",
+              "texts": {
+                "zh-Hans": "（先描述青衣将军。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 3,
+              "talkIndex": 2,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000215,
+                "targetTalkId": 4
+              },
+              "targetTalkId": 4,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_20",
+              "text": "（先描述红衣女子。）",
+              "texts": {
+                "zh-Hans": "（先描述红衣女子。）"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 3,
+              "talkIndex": 2,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000216,
+                "targetTalkId": 7
+              },
+              "targetTalkId": 7,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 5,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_7",
+          "text": "你描述的那个男人……率军的青龙具气吞四野，凌跃万军之势，那正是夜归的旌旗，也是独属于夜归军将领……忌炎的象征。",
+          "texts": {
+            "zh-Hans": "你描述的那个男人……率军的青龙具气吞四野，凌跃万军之势，那正是夜归的旌旗，也是独属于夜归军将领……忌炎的象征。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 6,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_8",
+          "text": "而就在不远处的战场前线上，忌炎正率领千军万马，抵御残象潮。",
+          "texts": {
+            "zh-Hans": "而就在不远处的战场前线上，忌炎正率领千军万马，抵御残象潮。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_9",
+              "text": "可我没见过忌炎。",
+              "texts": {
+                "zh-Hans": "可我没见过忌炎。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 5,
+              "talkIndex": 4,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/4/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 5,
+          "talkIndex": 4,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/4/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 7,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_11",
+          "text": "会这么巧吗？我们来到战场附近，正巧镇戍军将领正率军冲锋陷阵，又凑巧正是此刻……",
+          "texts": {
+            "zh-Hans": "会这么巧吗？我们来到战场附近，正巧镇戍军将领正率军冲锋陷阵，又凑巧正是此刻……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/5/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 6,
+          "talkIndex": 5,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000217,
+            "targetTalkId": 9
+          },
+          "targetTalkId": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/5/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 8,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_12",
+          "text": "……红衣，控制引导残象潮……",
+          "texts": {
+            "zh-Hans": "……红衣，控制引导残象潮……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/6/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 7,
+          "talkIndex": 6,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/6/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 9,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_21",
+          "text": "残星会……",
+          "texts": {
+            "zh-Hans": "残星会……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/7/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 8,
+          "talkIndex": 7,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000218,
+            "targetTalkId": 9
+          },
+          "targetTalkId": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/7/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 10,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_22",
+          "text": "你跨越了空间，感知到了不远处的战场景象……",
+          "texts": {
+            "zh-Hans": "你跨越了空间，感知到了不远处的战场景象……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_23",
+              "text": "是真实的。",
+              "texts": {
+                "zh-Hans": "是真实的。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 9,
+              "talkIndex": 8,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_24",
+              "text": "这一切很不对劲。",
+              "texts": {
+                "zh-Hans": "这一切很不对劲。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 9,
+              "talkIndex": 8,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/8/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 9,
+          "talkIndex": 8,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/8/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 11,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_15",
+          "text": "这场战事本身便是某种异动的征兆，或者二者兼有之。",
+          "texts": {
+            "zh-Hans": "这场战事本身便是某种异动的征兆，或者二者兼有之。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/9/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 10,
+          "talkIndex": 9,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/9/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 12,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_17",
+          "text": "从北落野传来的流息，比以往所有时候，都更加压抑，令人窒息。",
+          "texts": {
+            "zh-Hans": "从北落野传来的流息，比以往所有时候，都更加压抑，令人窒息。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/10/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 11,
+          "talkIndex": 10,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/10/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 13,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_18",
+          "text": "此时此刻的战场上，一定存在某种东西，与你有着暂不明了的关联。",
+          "texts": {
+            "zh-Hans": "此时此刻的战场上，一定存在某种东西，与你有着暂不明了的关联。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_25",
+              "text": "我的身体里存在着东西。",
+              "texts": {
+                "zh-Hans": "我的身体里存在着东西。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 12,
+              "talkIndex": 11,
+              "optionIndex": 0,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000219,
+                "targetTalkId": 13
+              },
+              "targetTalkId": 13,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_26",
+              "text": "一直有一个声音。",
+              "texts": {
+                "zh-Hans": "一直有一个声音。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 12,
+              "talkIndex": 11,
+              "optionIndex": 1,
+              "branchOutcome": {
+                "type": "jump-talk",
+                "actionName": "JumpTalk",
+                "actionIndex": 0,
+                "actionId": 5000220,
+                "targetTalkId": 14
+              },
+              "targetTalkId": 14,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/11/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 12,
+          "talkIndex": 11,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/11/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 14,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_27",
+          "text": "与残象共感……？",
+          "texts": {
+            "zh-Hans": "与残象共感……？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/12/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 13,
+          "talkIndex": 12,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000221,
+            "targetTalkId": 0
+          },
+          "targetTalkId": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/12/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 15,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_60_28",
+          "text": "我没感应到任何……声音的频率。",
+          "texts": {
+            "zh-Hans": "我没感应到任何……声音的频率。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_29",
+              "text": "不管祂是什么。",
+              "texts": {
+                "zh-Hans": "不管祂是什么。"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 0,
+              "talkIndex": 14,
+              "optionIndex": 0,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            },
+            {
+              "speaker": "漂泊者_选项",
+              "speakers": {
+                "zh-Hans": "漂泊者_选项"
+              },
+              "textKey": "Huanglong_main_1_2EX_60_30",
+              "text": "或许我可以……",
+              "texts": {
+                "zh-Hans": "或许我可以……"
+              },
+              "textSource": "rebuild_v2_flowstate",
+              "jumpToId": null,
+              "talkId": 0,
+              "talkIndex": 14,
+              "optionIndex": 1,
+              "manualOverrideLine": {
+                "origin": "preview-detail",
+                "manualInserted": false,
+                "sourcePath": "",
+                "flowKey": "",
+                "flowKeys": []
+              }
+            }
+          ],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/13/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 14,
+          "talkIndex": 13,
+          "branchOutcome": {
+            "type": "jump-talk",
+            "actionName": "JumpTalk",
+            "actionIndex": 0,
+            "actionId": 5000288,
+            "targetTalkId": 0
+          },
+          "targetTalkId": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/11/TalkItems/13/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 16,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_58_1",
+          "text": "漂泊者？",
+          "texts": {
+            "zh-Hans": "漂泊者？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/16/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 1,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/16/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 17,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 354,
+          "textKey": "Huanglong_main_1_2EX_58_2",
+          "text": "之前白芷说过，树叶有残象频率波动。",
+          "texts": {
+            "zh-Hans": "之前白芷说过，树叶有残象频率波动。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/16/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 2,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/16/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 18,
+          "speaker": "漂泊者",
+          "speakers": {
+            "zh-Hans": "漂泊者"
+          },
+          "speakerId": 354,
+          "textKey": "Huanglong_main_1_2EX_58_3",
+          "text": "最后一件信物，树叶指向的方向，在那。",
+          "texts": {
+            "zh-Hans": "最后一件信物，树叶指向的方向，在那。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/16/TalkItems/2/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 3,
+          "talkIndex": 2,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/16/TalkItems/2/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 19,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_2EX_58_4",
+          "text": "……那是，中曲台地，祈池村。",
+          "texts": {
+            "zh-Hans": "……那是，中曲台地，祈池村。"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/16/TalkItems/3/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_第一章_第三幕_撞金止行阵",
+            "flowId": 1,
+            "stateId": 21
+          },
+          "talkId": 4,
+          "talkIndex": 3,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/59/Flow -> 剧情_新主线_CE版_第一章_第三幕_撞金止行阵_1_21:/16/TalkItems/3/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 20,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_yindao_9_3",
+          "text": "有时强迫自己静下心审视自己的目标与计划，风中的讯息就会变得清晰，思维也会豁然开朗……",
+          "texts": {
+            "zh-Hans": "有时强迫自己静下心审视自己的目标与计划，风中的讯息就会变得清晰，思维也会豁然开朗……"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/60/Flow -> 剧情_新主线_CE版_序章-第一章_功能引导旁白相关内容_9_1:/1/TalkItems/0/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_序章-第一章_功能引导旁白相关内容",
+            "flowId": 9,
+            "stateId": 1
+          },
+          "talkId": 3,
+          "talkIndex": 0,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/60/Flow -> 剧情_新主线_CE版_序章-第一章_功能引导旁白相关内容_9_1:/1/TalkItems/0/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        },
+        {
+          "id": 21,
+          "speaker": "秧秧",
+          "speakers": {
+            "zh-Hans": "秧秧"
+          },
+          "speakerId": 108,
+          "textKey": "Huanglong_main_1_yindao_9_4",
+          "text": "不如漂泊者也来试试？",
+          "texts": {
+            "zh-Hans": "不如漂泊者也来试试？"
+          },
+          "textSource": "rebuild_v2_flowstate",
+          "options": [],
+          "jumpToId": null,
+          "playVoice": true,
+          "sourcePath": "PlotHandBook:139000029/Data/60/Flow -> 剧情_新主线_CE版_序章-第一章_功能引导旁白相关内容_9_1:/1/TalkItems/1/TidTalk",
+          "flow": {
+            "flowListName": "剧情_新主线_CE版_序章-第一章_功能引导旁白相关内容",
+            "flowId": 9,
+            "stateId": 1
+          },
+          "talkId": 4,
+          "talkIndex": 1,
+          "manualOverrideLine": {
+            "origin": "preview-detail",
+            "manualInserted": false,
+            "sourcePath": "PlotHandBook:139000029/Data/60/Flow -> 剧情_新主线_CE版_序章-第一章_功能引导旁白相关内容_9_1:/1/TalkItems/1/TidTalk",
+            "flowKey": "",
+            "flowKeys": []
+          }
+        }
+      ],
+      "rebuildV2Source": "manual-override",
+      "orderEvidence": {
+        "confidence": "medium-high",
+        "source": "manual-override",
+        "flowCount": 2,
+        "flowOrderRiskCount": 0,
+        "talkBranchGraphCount": 0,
+        "items": [
+          {
+            "type": "manual-sequencing-override",
+            "strength": "human-draft",
+            "status": "manual-draft",
+            "revision": 3
+          }
+        ]
+      }
+    }
+  ]
+}
